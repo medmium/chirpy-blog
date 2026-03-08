@@ -1,6 +1,7 @@
 ---
 title: 记录初次配置obsidian和templater脚本"
 date: 2026-03-06
+comments: true
 tags:
   - 配置
   - bug

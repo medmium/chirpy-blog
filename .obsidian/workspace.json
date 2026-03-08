@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/新建模板文件.md",
+                "file": "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "新建模板文件"
+              "title": "2026-03-06-记录初次配置obsidian和templater脚本"
             }
           }
         ]
@@ -184,8 +184,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d784427dca13b3bb",
+  "active": "5ad82fdff266ffba",
   "lastOpenFiles": [
+    "_posts/2026-03-07-gradle.md",
+    "_posts/2026-03-08-集成obsidian.md",
+    "_posts/2026-03-08-劝退学医.md",
+    "_posts/新建模板文件.md",
+    "_tabs/about.md",
+    "core.zip",
+    "git-push.zip",
+    "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md",
     "_site/obsidian/img/logo.png",
     "_site/obsidian/img/logo.svg",
     "_site/obsidian/img",
@@ -199,22 +207,15 @@
     "_site/obsidian/attachments/Image_2026-03-07_11-07-00_0xodnni3.zcs.png",
     "_site/obsidian/attachments",
     "_site/obsidian",
-    "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md",
-    "_posts/2026-03-07-gradle.md",
-    "_posts/2026-03-08-集成obsidian.md",
     "_site/posts/劝退学医/index.html",
     "_site/posts/劝退学医",
     "_site/categories/感悟/index.html",
     "_site/categories/感悟",
     "_site/categories/生活/index.html",
-    "_site/categories/生活",
-    "_site/tags/医学/index.html",
-    "_posts/2026-03-08-劝退学医.md",
     "_tabs/tags.md",
     "_posts/2026-03-07-利用bat和快捷键实现一键add-commit-push.md",
     "_posts/2026-03-07-劝退学医.md",
     "_posts/2026-03-08-时间测试.md",
-    "_posts/新建模板文件.md",
     "_posts/2026-03-08-图片测试.md",
     "_posts/2026-03-08-时间检查.md",
     "_pages/home-archive.md",
@@ -223,7 +224,6 @@
     "_pages/tag-archive.md",
     "_site/_pages/about-archive.md",
     "_site/_pages/未命名.md",
-    "_site/assets/img/logo.png",
     "_posts/tag-archive.md",
     "_site/_pages/tag-archive.md",
     "_site/_pages/category-archive.md",
