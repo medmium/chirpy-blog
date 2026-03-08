@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md",
+                "file": "_posts/2026-03-08-集成obsidian.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-03-06-记录初次配置obsidian和templater脚本"
+              "title": "2026-03-08-集成obsidian"
             }
           }
         ]
@@ -156,16 +156,67 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/about-archive.md",
+                "file": "_posts/2026-03-08-集成obsidian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "about-archive 的大纲"
+              "title": "2026-03-08-集成obsidian 的大纲"
+            }
+          },
+          {
+            "id": "2e8974aa8e235750",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "ed1fa2f7f46a008a",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "4eabe2011916ebdd",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "e96e7a4551dfca94",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "79e607bac69716e5",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -181,19 +232,23 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "terminal:Open terminal": false
     }
   },
   "active": "5ad82fdff266ffba",
   "lastOpenFiles": [
-    "_posts/2026-03-07-gradle.md",
     "_posts/2026-03-08-集成obsidian.md",
+    "README.md",
+    "CNAME",
+    "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md",
+    "_posts/2026-03-07-gradle.md",
     "_posts/2026-03-08-劝退学医.md",
     "_posts/新建模板文件.md",
     "_tabs/about.md",
     "core.zip",
     "git-push.zip",
-    "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md",
     "_site/obsidian/img/logo.png",
     "_site/obsidian/img/logo.svg",
     "_site/obsidian/img",
@@ -211,7 +266,6 @@
     "_site/posts/劝退学医",
     "_site/categories/感悟/index.html",
     "_site/categories/感悟",
-    "_site/categories/生活/index.html",
     "_tabs/tags.md",
     "_posts/2026-03-07-利用bat和快捷键实现一键add-commit-push.md",
     "_posts/2026-03-07-劝退学医.md",
@@ -228,7 +282,6 @@
     "_site/_pages/tag-archive.md",
     "_site/_pages/category-archive.md",
     "_posts/category-archive.md",
-    "_posts/tag-archive.md.md",
-    "README.md"
+    "_posts/tag-archive.md.md"
   ]
 }
