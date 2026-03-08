@@ -102,6 +102,13 @@
         "type": "FILES_AND_DIRECTORIES",
         "pattern": "_tabs",
         "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "_posts/n2026-03-08-劝退学医.md",
+        "patternType": "WILDCARD"
       }
     ],
     "frontMatter": [
