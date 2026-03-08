@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-08-集成obsidian.md",
+                "file": "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-08-集成obsidian"
+              "title": "2026-03-08-进一步完善obsidian提高写作效率"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2026-03-08-集成obsidian.md",
+                "file": "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-08-集成obsidian 的大纲"
+              "title": "2026-03-08-进一步完善obsidian提高写作效率 的大纲"
             }
           },
           {
@@ -220,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,27 +238,29 @@
   },
   "active": "5ad82fdff266ffba",
   "lastOpenFiles": [
+    "_posts/n2026-03-08-劝退学医.md",
+    "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
     "_posts/2026-03-08-集成obsidian.md",
+    "obsidian/attachments/Image_2026-03-08_23-29-19_ppbuiwdp.s13.png",
+    "obsidian/attachments/Image_2026-03-08_23-26-37_554vhvnd.1xb.png",
+    "obsidian/attachments/Image_2026-03-08_23-24-40_zkqairwj.5uv.png",
+    "_posts/新建模板文件.md",
+    "_posts/2026-03-08-null.md",
+    "obsidian/attachments/Pasted image 20260308231219.png",
+    "obsidian/attachments/Image_2026-03-08_22-54-55_wiexon3x.x1y.png",
+    "obsidian/attachments/Image_2026-03-08_22-52-06_akqjjton.dgk.png",
+    "obsidian/attachments/Image_2026-03-08_22-43-51_yfjkpwbn.r3d.png",
+    "obsidian/attachments/Image_2026-03-08_22-35-57_gu44fzfv.slp.png",
+    "obsidian/attachments/Image_2026-03-08_22-34-32_uxkmgknx.25h.png",
+    "obsidian/attachments/Image_2026-03-08_22-32-20_k42ubuzr.wgi.png",
     "README.md",
     "CNAME",
     "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md",
     "_posts/2026-03-07-gradle.md",
-    "_posts/2026-03-08-劝退学医.md",
-    "_posts/新建模板文件.md",
     "_tabs/about.md",
     "core.zip",
     "git-push.zip",
-    "_site/obsidian/img/logo.png",
-    "_site/obsidian/img/logo.svg",
     "_site/obsidian/img",
-    "_site/obsidian/attachments/Image_2026-03-07_12-59-56_nut5ls2u.db0.png",
-    "_site/obsidian/attachments/Image_2026-03-07_12-59-13_mm2wa0mq.oky.png",
-    "_site/obsidian/attachments/Image_2026-03-07_12-58-39_vbzttrdi.hvo.png",
-    "_site/obsidian/attachments/Image_2026-03-07_11-43-45_453rp4fu.mxu.png",
-    "_site/obsidian/attachments/Image_2026-03-07_12-30-12_5mw31101.4t2.png",
-    "_site/obsidian/attachments/Image_2026-03-07_12-39-08_4wdkwukg.n3v.png",
-    "_site/obsidian/attachments/Image_2026-03-07_11-40-52_osdcvo44.foh.png",
-    "_site/obsidian/attachments/Image_2026-03-07_11-07-00_0xodnni3.zcs.png",
     "_site/obsidian/attachments",
     "_site/obsidian",
     "_site/posts/劝退学医/index.html",
@@ -281,7 +282,6 @@
     "_posts/tag-archive.md",
     "_site/_pages/tag-archive.md",
     "_site/_pages/category-archive.md",
-    "_posts/category-archive.md",
-    "_posts/tag-archive.md.md"
+    "_posts/category-archive.md"
   ]
 }

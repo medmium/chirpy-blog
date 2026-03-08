@@ -29,7 +29,7 @@
         "default": "start \"Git Push\" cmd.exe /c \"cd /d {{vault_path}} && git-push.bat\""
       },
       "shells": {},
-      "alias": "push",
+      "alias": "",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],

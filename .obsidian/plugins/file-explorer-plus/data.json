@@ -85,27 +85,6 @@
       {
         "name": "",
         "active": true,
-        "type": "FILES_AND_DIRECTORIES",
-        "pattern": "assets/css",
-        "patternType": "WILDCARD"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES_AND_DIRECTORIES",
-        "pattern": "assets/img",
-        "patternType": "WILDCARD"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES_AND_DIRECTORIES",
-        "pattern": "assets/js",
-        "patternType": "WILDCARD"
-      },
-      {
-        "name": "",
-        "active": true,
         "type": "DIRECTORIES",
         "pattern": "tools",
         "patternType": "WILDCARD"
