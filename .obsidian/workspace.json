@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ts/Image_2026-03-08_22-35-57_gu44fzfv.slp.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -238,6 +239,7 @@
   },
   "active": "5ad82fdff266ffba",
   "lastOpenFiles": [
+    "obsidian/attachments/Image_2026-03-08_23-39-44_genrwyjo.wn5.png",
     "_posts/n2026-03-08-劝退学医.md",
     "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
     "_posts/2026-03-08-集成obsidian.md",
