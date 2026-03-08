@@ -220,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,7 +236,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d784427dca13b3bb",
+  "active": "5ad82fdff266ffba",
   "lastOpenFiles": [
     "_site/posts/测试文章/index.html",
     "_site/posts/测试文章",
