@@ -26,7 +26,7 @@
     {
       "id": "9f6qavoir5",
       "platform_specific_commands": {
-        "default": "start \"Git Push\" cmd.exe /k \"cd /d {{vault_path}} && git-push.bat\""
+        "default": "start \"Git Push\" cmd.exe /c \"cd /d {{vault_path}} && git-push.bat\""
       },
       "shells": {},
       "alias": "push",
