@@ -3,6 +3,10 @@
 - type: github
   icon: "fab fa-github"
 
+- type: bilibili
+  icon: "fa-brands fa-bilibili"
+  url: "https://space.bilibili.com/383395003"
+
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 

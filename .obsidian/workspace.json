@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "b182f9b3d2f6eeb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "10ddac7da4f501e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ad82fdff266ffba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/新建模板文件.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "新建模板文件"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eafaf33c57e1bbe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "761f015833044290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d784427dca13b3bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "41cfe7870a8370e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8aba29d9009b5804",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "98d866a3c6c16228",
+    "type": "split",
+    "children": [
+      {
+        "id": "5302e6e6aaedafa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "490642f206cc9f7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_pages/about-archive.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "about-archive 的反向链接列表"
+            }
+          },
+          {
+            "id": "48e1c4bbf087ef00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_pages/about-archive.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "about-archive 的出链列表"
+            }
+          },
+          {
+            "id": "96bf97439826d4d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "82cb8b60e7538217",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f6e26eb1f0440ed5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_pages/about-archive.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "about-archive 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "d784427dca13b3bb",
+  "lastOpenFiles": [
+    "_site/obsidian/img/logo.png",
+    "_site/obsidian/img/logo.svg",
+    "_site/obsidian/img",
+    "_site/obsidian/attachments/Image_2026-03-07_12-59-56_nut5ls2u.db0.png",
+    "_site/obsidian/attachments/Image_2026-03-07_12-59-13_mm2wa0mq.oky.png",
+    "_site/obsidian/attachments/Image_2026-03-07_12-58-39_vbzttrdi.hvo.png",
+    "_site/obsidian/attachments/Image_2026-03-07_11-43-45_453rp4fu.mxu.png",
+    "_site/obsidian/attachments/Image_2026-03-07_12-30-12_5mw31101.4t2.png",
+    "_site/obsidian/attachments/Image_2026-03-07_12-39-08_4wdkwukg.n3v.png",
+    "_site/obsidian/attachments/Image_2026-03-07_11-40-52_osdcvo44.foh.png",
+    "_site/obsidian/attachments/Image_2026-03-07_11-07-00_0xodnni3.zcs.png",
+    "_site/obsidian/attachments",
+    "_site/obsidian",
+    "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md",
+    "_posts/2026-03-07-gradle.md",
+    "_posts/2026-03-08-集成obsidian.md",
+    "_site/posts/劝退学医/index.html",
+    "_site/posts/劝退学医",
+    "_site/categories/感悟/index.html",
+    "_site/categories/感悟",
+    "_site/categories/生活/index.html",
+    "_site/categories/生活",
+    "_site/tags/医学/index.html",
+    "_posts/2026-03-08-劝退学医.md",
+    "_tabs/tags.md",
+    "_posts/2026-03-07-利用bat和快捷键实现一键add-commit-push.md",
+    "_posts/2026-03-07-劝退学医.md",
+    "_posts/2026-03-08-时间测试.md",
+    "_posts/新建模板文件.md",
+    "_posts/2026-03-08-图片测试.md",
+    "_posts/2026-03-08-时间检查.md",
+    "_pages/home-archive.md",
+    "_pages/category-archive.md",
+    "_pages/about-archive.md",
+    "_pages/tag-archive.md",
+    "_site/_pages/about-archive.md",
+    "_site/_pages/未命名.md",
+    "_site/assets/img/logo.png",
+    "_posts/tag-archive.md",
+    "_site/_pages/tag-archive.md",
+    "_site/_pages/category-archive.md",
+    "_posts/category-archive.md",
+    "_posts/tag-archive.md.md",
+    "README.md"
+  ]
+}
