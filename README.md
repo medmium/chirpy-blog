@@ -1,4 +1,7 @@
 > 拿来主义是不可取的, 混迟早是要还的, 书是看不完的, 知识是无边无际的.
 
+欢迎Fork本项目来创建属于你的博客, 以下记录了增强功能. 
+
 ### 2026年3月9日
-为本博客添加了插件, 实现md链接自动转换为网页内的video标签. 具体请查看[2026-03-09-创建jekyll插件以自动转换MP4](_posts/2026-03-09-创建jekyll插件以自动转换MP4.md), 同时, 为了解决sjekyll插件不生效的问题, 我也实现了obsidian上同样的脚本, 具体请看[github项目](https://github.com/medmium/auto-video-tag)
+- 为本博客添加了插件, 实现md链接自动转换为网页内的video标签. 具体请查看[2026-03-09-创建jekyll插件以自动转换MP4](_posts/2026-03-09-创建jekyll插件以自动转换MP4.md), 同时, 为了解决sjekyll插件不生效的问题, 我也实现了obsidian上同样的脚本, 具体请看[github项目](https://github.com/medmium/auto-video-tag)
+- 为本博客集成了Obsidian来书写博客内容, 并且在博客内配置好了快捷键`Ctrl + Shift + P`实现一键调用系统git进行推送(Obsidian内置的Git太拉跨了), 具体使用请查看[2026-03-08-进一步完善obsidian提高写作效率](_posts/2026-03-08-进一步完善obsidian提高写作效率.md)
