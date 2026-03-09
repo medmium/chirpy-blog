@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-09-修复附件链接为绝对路径.md",
+                "file": "_posts/2026-03-09-让chirpy支持下载附件功能.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-09-修复附件链接为绝对路径"
+              "title": "2026-03-09-让chirpy支持下载附件功能"
             }
           }
         ]
@@ -238,8 +238,8 @@
   },
   "active": "d0733f20e0caeed7",
   "lastOpenFiles": [
-    "_posts/2026-03-09-让chirpy支持下载附件功能.md",
     "_posts/2026-03-09-修复附件链接为绝对路径.md",
+    "_posts/2026-03-09-让chirpy支持下载附件功能.md",
     "_site/posts/修复附件链接为绝对路径/index.html",
     "_site/posts/修复附件链接为绝对路径",
     "_plugins/fix_absolute_path.rb",
