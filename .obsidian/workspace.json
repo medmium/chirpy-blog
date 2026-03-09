@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-09-创建jekyll插件以自动转换MP4.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-09-创建jekyll插件以自动转换MP4"
+              "title": "README"
             }
           }
         ]
@@ -238,6 +238,7 @@
   },
   "active": "5ad82fdff266ffba",
   "lastOpenFiles": [
+    "_posts/2026-03-09-创建jekyll插件以自动转换MP4.md",
     "obsidian/attachments/Image_2026-03-09_13-19-22_xmmwxoq5.dry.png",
     "obsidian/attachments/Image_2026-03-08_22-52-06_akqjjton.dgk.png",
     "obsidian/attachments/Image_2026-03-08_22-54-55_wiexon3x.x1y.png",
@@ -245,7 +246,6 @@
     "obsidian/attachments/Image_2026-03-08_23-26-37_554vhvnd.1xb.png",
     "obsidian/attachments/Image_2026-03-08_23-29-19_ppbuiwdp.s13.png",
     "obsidian/attachments/Image_2026-03-08_23-39-44_genrwyjo.wn5.png",
-    "_posts/2026-03-09-创建jekyll插件以自动转换MP4.md",
     "_posts/新建模板文件.md",
     "README.md",
     "_posts/2026-03-07-gradle.md",
@@ -266,7 +266,6 @@
     "obsidian/attachments/Pasted image 20260308231219.png",
     "_site/obsidian/attachments/Pasted image 20260308231219.png",
     "_site/obsidian/attachments/Image_2026-03-08_23-39-44_genrwyjo.wn5.png",
-    "_site/obsidian/attachments/Image_2026-03-08_23-29-19_ppbuiwdp.s13.png",
     "_posts/n2026-03-08-劝退学医.md",
     "_posts/2026-03-08-null.md",
     "_tabs/about.md",
