@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-08-进一步完善obsidian提高写作效率"
+              "title": "README"
             }
           }
         ]
@@ -238,11 +238,13 @@
   },
   "active": "5ad82fdff266ffba",
   "lastOpenFiles": [
+    "_posts/2026-03-09-创建jekyll插件以自动转换MP4.md",
+    "README.md",
+    "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
     "_posts/2026-03-08-集成obsidian.md",
     "_posts/2026-03-08-测试文章.md",
     "_posts/2026-03-07-gradle.md",
     "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md",
-    "_posts/2026-03-09-创建jekyll插件以自动转换MP4.md",
     "_site/categories/技术/index.html",
     "_site/categories/技术",
     "_site/tags/video标签/index.html",
@@ -253,7 +255,6 @@
     "_site/tags/jekyll",
     "_site/tags/插件/index.html",
     "_site/tags/插件",
-    "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
     "obsidian/attachments/Pasted image 20260308231219.png",
     "_site/obsidian/attachments/Pasted image 20260308231219.png",
     "_site/obsidian/attachments/Image_2026-03-08_23-39-44_genrwyjo.wn5.png",
@@ -267,7 +268,6 @@
     "_posts/新建模板文件.md",
     "_posts/n2026-03-08-劝退学医.md",
     "_posts/2026-03-08-null.md",
-    "README.md",
     "_tabs/about.md",
     "_tabs/tags.md",
     "_posts/2026-03-07-利用bat和快捷键实现一键add-commit-push.md",
