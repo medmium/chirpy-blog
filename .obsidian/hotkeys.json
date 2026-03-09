@@ -33,5 +33,13 @@
       ],
       "key": "P"
     }
+  ],
+  "templater-obsidian:create-obsidian/templates/新建模板文件.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
   ]
 }

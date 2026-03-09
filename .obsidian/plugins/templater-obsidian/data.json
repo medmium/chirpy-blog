@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "_posts",
+  "templates_folder": "obsidian/templates",
   "templates_pairs": [
     [
       "",
@@ -24,7 +24,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "_posts/新建模板文件.md"
+    "obsidian/templates/新建模板文件.md"
   ],
   "startup_templates": [],
   "intellisense_render": 1
