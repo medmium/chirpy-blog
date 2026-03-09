@@ -6,5 +6,6 @@
   "useMarkdownLinks": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "showUnsupportedFiles": true
 }

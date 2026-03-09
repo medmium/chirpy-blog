@@ -1,0 +1,146 @@
+# Jekyll插件：为相对链接添加根路径前缀
+# 文件名：_plugins/add_root_prefix_to_links.rb
+
+module Jekyll
+    class RootPrefixLinkAdder < Generator
+      safe true
+      priority :normal
+  
+      def generate(site)
+        # 遍历所有页面和文章
+        all_docs = site.pages + site.posts.docs + site.documents
+        all_docs.each do |doc|
+          next unless doc.content.respond_to?(:gsub)
+          
+          # 检查文档是否包含链接
+          if doc.content.match(/<a\s+/i)
+            original_content = doc.content
+            
+            # 处理HTML中的链接标签
+            doc.content = doc.content.gsub(/(<a\s+[^>]*href=["']([^"']+)["'][^>]*>)/mi) do |match|
+              full_match = $1
+              href_url = $2
+              
+              # 检查链接是否需要添加根路径前缀
+              if should_add_root_prefix?(href_url)
+                # 添加根路径前缀
+                modified_href = ensure_leading_slash(href_url)
+                
+                # 替换原href值
+                modified_match = full_match.sub(/href=["']#{Regexp.escape(href_url)}["']/, "href=\"#{modified_href}\"")
+                puts "RootPrefixLinkAdder: 为 #{get_doc_identifier(doc)} 中的链接 #{href_url} 添加了根路径前缀"
+                modified_match
+              else
+                full_match
+              end
+            end
+            
+            # 如果内容发生变化，记录一下
+            if original_content != doc.content
+              puts "RootPrefixLinkAdder: 处理了文档 #{get_doc_identifier(doc)} 中的链接"
+            end
+          end
+        end
+      end
+  
+      private
+  
+      def should_add_root_prefix?(url)
+        # 不处理外部链接
+        return false if url.start_with?('http://', 'https://', '//')
+        
+        # 不处理锚点链接
+        return false if url.start_with?('#')
+        
+        # 不处理javascript或mailto链接
+        return false if url.start_with?('javascript:', 'mailto:', 'tel:', 'sms:')
+        
+        # 只处理不以/开头的相对路径链接
+        !url.start_with?('/')
+      end
+      
+      def ensure_leading_slash(path)
+        return path if path.start_with?('/')
+        "/#{path}"
+      end
+      
+      def get_doc_identifier(doc)
+        # 为不同类型的文档获取合适的标识符
+        if doc.respond_to?(:id)
+          doc.id
+        elsif doc.respond_to?(:relative_path)
+          doc.relative_path
+        elsif doc.respond_to?(:path)
+          doc.path
+        else
+          "unknown_document"
+        end
+      end
+    end
+  
+    # 同时使用钩子在渲染后处理，确保处理所有转换后的内容
+    Hooks.register [:documents, :pages], :post_render do |doc, payload|
+      # 只处理包含链接的HTML输出
+      if doc.output && doc.output.include?('<a ')
+        original_output = doc.output
+        
+        # 处理HTML中的链接标签
+        doc.output = doc.output.gsub(/(<a\s+[^>]*href=["']([^"']+)["'][^>]*>)/mi) do |match|
+          full_match = $1
+          href_url = $2
+          
+          # 检查链接是否需要添加根路径前缀
+          if should_add_root_prefix?(href_url)
+            # 添加根路径前缀
+            modified_href = ensure_leading_slash(href_url)
+            
+            # 替换原href值
+            modified_match = full_match.sub(/href=["']#{Regexp.escape(href_url)}["']/, "href=\"#{modified_href}\"")
+            puts "RootPrefixLinkAdder(post_render): 为 #{get_doc_identifier(doc)} 中的链接 #{href_url} 添加了根路径前缀"
+            modified_match
+          else
+            full_match
+          end
+        end
+        
+        # 如果内容发生变化，记录一下
+        if original_output != doc.output
+          puts "RootPrefixLinkAdder(post_render): 处理了 #{get_doc_identifier(doc)} 中的链接"
+        end
+      end
+      
+      doc # 返回文档对象
+    end
+  
+    def self.should_add_root_prefix?(url)
+      # 不处理外部链接
+      return false if url.start_with?('http://', 'https://', '//')
+      
+      # 不处理锚点链接
+      return false if url.start_with?('#')
+      
+      # 不处理javascript或mailto链接
+      return false if url.start_with?('javascript:', 'mailto:', 'tel:', 'sms:')
+      
+      # 只处理不以/开头的相对路径链接
+      !url.start_with?('/')
+    end
+    
+    def self.ensure_leading_slash(path)
+      return path if path.start_with?('/')
+      "/#{path}"
+    end
+    
+    def self.get_doc_identifier(doc)
+      # 为不同类型的文档获取合适的标识符
+      if doc.respond_to?(:id)
+        doc.id
+      elsif doc.respond_to?(:relative_path)
+        doc.relative_path
+      elsif doc.respond_to?(:path)
+        doc.path
+      else
+        "unknown_document"
+      end
+    end
+  end

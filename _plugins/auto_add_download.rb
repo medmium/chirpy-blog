@@ -1,0 +1,189 @@
+# Jekyll插件：仅对压缩文件和Office文档添加下载属性
+# 文件名：_plugins/download_attribute_adder.rb
+
+module Jekyll
+    class DownloadAttributeAdder < Generator
+      safe true
+      priority :normal
+  
+      # 指定需要添加下载属性的文件扩展名列表（压缩文件和Office文档）
+      DOWNLOADABLE_EXTENSIONS = %w[
+        # 压缩文件格式
+        zip rar tar gz 7z bz2 xz iso dmg pkg
+        
+        # Microsoft Office 文档
+        doc docx xls xlsx ppt pptx
+        
+        # 其他办公文档格式
+        odt ods odp pdf txt csv
+        
+        # 可执行文件和其他文档
+        exe apk deb rpm msi
+      ].freeze
+  
+      def generate(site)
+        # 遍历所有页面和文章
+        all_docs = site.pages + site.posts.docs + site.documents
+        all_docs.each do |doc|
+          next unless doc.content.respond_to?(:gsub)
+          
+          # 检查文档是否包含链接
+          if doc.content.match(/<a\s+/i)
+            original_content = doc.content
+            
+            # 处理HTML中的链接标签
+            doc.content = doc.content.gsub(/(<a\s+[^>]*href=["']([^"']+)["'][^>]*>)/mi) do |match|
+              full_match = $1
+              href_url = $2
+              
+              # 检查链接是否指向指定类型的文件
+              if should_add_download_attribute?(href_url)
+                # 如果链接已经有download属性，则跳过
+                unless full_match.include?('download=')
+                  # 在href属性前添加download属性
+                  modified_match = full_match.sub(/href=/, 'download="" href=')
+                  puts "DownloadAttributeAdder: 为 #{get_doc_identifier(doc)} 中的链接 #{href_url} 添加了下载属性"
+                  modified_match
+                else
+                  full_match
+                end
+              else
+                full_match
+              end
+            end
+            
+            # 如果内容发生变化，记录一下
+            if original_content != doc.content
+              puts "DownloadAttributeAdder: 处理了文档 #{get_doc_identifier(doc)} 中的链接"
+            end
+          end
+        end
+      end
+  
+      private
+  
+      def should_add_download_attribute?(url)
+        # 检查是否为外部链接
+        return false if url.start_with?('http://', 'https://', '//')
+        
+        # 检查是否为锚点链接或javascript链接
+        return false if url.start_with?('#', 'javascript:', 'mailto:')
+        
+        # 提取文件扩展名
+        extension = extract_extension(url)
+        
+        # 检查扩展名是否在指定的可下载文件类型列表中
+        !extension.nil? && DOWNLOADABLE_EXTENSIONS.include?(extension.downcase)
+      end
+      
+      def extract_extension(url)
+        # 移除URL参数和锚点
+        clean_url = url.split(/[?#]/).first
+        
+        # 获取最后一个点后面的字符串
+        File.extname(clean_url).sub('.', '')
+      rescue
+        nil
+      end
+      
+      def get_doc_identifier(doc)
+        # 为不同类型的文档获取合适的标识符
+        if doc.respond_to?(:id)
+          doc.id
+        elsif doc.respond_to?(:relative_path)
+          doc.relative_path
+        elsif doc.respond_to?(:path)
+          doc.path
+        else
+          "unknown_document"
+        end
+      end
+    end
+  
+    # 同时使用钩子在渲染后处理，确保处理所有转换后的内容
+    Hooks.register [:documents, :pages], :post_render do |doc, payload|
+      # 只处理包含链接的HTML输出
+      if doc.output && doc.output.include?('<a ')
+        original_output = doc.output
+        
+        # 处理HTML中的链接标签
+        doc.output = doc.output.gsub(/(<a\s+[^>]*href=["']([^"']+)["'][^>]*>)/mi) do |match|
+          full_match = $1
+          href_url = $2
+          
+          # 检查链接是否指向指定类型的文件
+          if should_add_download_attribute?(href_url)
+            # 如果链接已经有download属性，则跳过
+            unless full_match.include?('download=')
+              # 在href属性前添加download属性
+              modified_match = full_match.sub(/href=/, 'download="" href=')
+              puts "DownloadAttributeAdder(post_render): 为 #{get_doc_identifier(doc)} 中的链接 #{href_url} 添加了下载属性"
+              modified_match
+            else
+              full_match
+            end
+          else
+            full_match
+          end
+        end
+        
+        # 如果内容发生变化，记录一下
+        if original_output != doc.output
+          puts "DownloadAttributeAdder(post_render): 处理了 #{get_doc_identifier(doc)} 中的链接"
+        end
+      end
+      
+      doc # 返回文档对象
+    end
+  
+    def self.should_add_download_attribute?(url)
+      # 检查是否为外部链接
+      return false if url.start_with?('http://', 'https://', '//')
+      
+      # 检查是否为锚点链接或javascript链接
+      return false if url.start_with?('#', 'javascript:', 'mailto:')
+      
+      # 提取文件扩展名
+      extension = extract_extension(url)
+      
+      # 检查扩展名是否在指定的可下载文件类型列表中
+      !extension.nil? && DOWNLOADABLE_EXTENSIONS.include?(extension.downcase)
+    end
+    
+    def self.extract_extension(url)
+      # 移除URL参数和锚点
+      clean_url = url.split(/[?#]/).first
+      
+      # 获取最后一个点后面的字符串
+      File.extname(clean_url).sub('.', '')
+    rescue
+      nil
+    end
+    
+    def self.get_doc_identifier(doc)
+      # 为不同类型的文档获取合适的标识符
+      if doc.respond_to?(:id)
+        doc.id
+      elsif doc.respond_to?(:relative_path)
+        doc.relative_path
+      elsif doc.respond_to?(:path)
+        doc.path
+      else
+        "unknown_document"
+      end
+    end
+    
+    DOWNLOADABLE_EXTENSIONS = %w[
+      # 压缩文件格式
+      zip rar tar gz 7z bz2 xz iso dmg pkg
+      
+      # Microsoft Office 文档
+      doc docx xls xlsx ppt pptx
+      
+      # 其他办公文档格式
+      odt ods odp pdf txt csv
+      
+      # 可执行文件和其他文档
+      exe apk deb rpm msi
+    ].freeze
+  end
