@@ -1,5 +1,6 @@
 [
   "templater-obsidian",
   "file-explorer-plus",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "sample-plugin"
 ]

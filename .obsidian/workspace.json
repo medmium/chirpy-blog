@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
+                "file": "_posts/2026-03-08-测试文章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-08-进一步完善obsidian提高写作效率"
+              "title": "2026-03-08-测试文章"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
+                "file": "_posts/2026-03-08-测试文章.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-08-进一步完善obsidian提高写作效率 的大纲"
+              "title": "2026-03-08-测试文章 的大纲"
             }
           },
           {
@@ -220,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 201.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,20 +233,27 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "templater-obsidian:Templater": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "terminal:Open terminal": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
   "active": "5ad82fdff266ffba",
   "lastOpenFiles": [
-    "obsidian/attachments/output_25fps.mp4",
-    "obsidian/attachments/Pasted image 20260308231219.png",
-    "obsidian/attachments/2026.03.08_1772985168.mp4",
+    "_posts/2026-03-09-创建jekyll插件以自动转换MP4.md",
+    "_site/categories/技术/index.html",
+    "_site/categories/技术",
+    "_site/tags/video标签/index.html",
+    "_site/tags/video标签",
+    "_site/tags/ruby/index.html",
+    "_site/tags/ruby",
+    "_site/tags/jekyll/index.html",
+    "_site/tags/jekyll",
+    "_site/tags/插件/index.html",
+    "_site/tags/插件",
     "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
-    "_site/posts/测试文章/index.html",
-    "_site/posts/测试文章",
-    "_site/posts/进一步完善obsidian提高写作效率/index.html",
-    "_site/posts/进一步完善obsidian提高写作效率",
+    "_posts/2026-03-08-集成obsidian.md",
+    "_posts/2026-03-08-测试文章.md",
+    "_posts/2026-03-07-gradle.md",
+    "obsidian/attachments/Pasted image 20260308231219.png",
     "_site/obsidian/attachments/Pasted image 20260308231219.png",
     "_site/obsidian/attachments/Image_2026-03-08_23-39-44_genrwyjo.wn5.png",
     "_site/obsidian/attachments/Image_2026-03-08_23-29-19_ppbuiwdp.s13.png",
@@ -255,19 +263,12 @@
     "_site/obsidian/attachments/Image_2026-03-08_22-52-06_akqjjton.dgk.png",
     "_site/obsidian/attachments/Image_2026-03-08_22-43-51_yfjkpwbn.r3d.png",
     "_site/obsidian/attachments/Image_2026-03-08_22-34-32_uxkmgknx.25h.png",
-    "_site/obsidian/attachments/2026.03.08_1772985168.mp4",
-    "_site/CNAME",
-    "_posts/2026-03-08-集成obsidian.md",
-    "_posts/2026-03-08-测试文章.md",
     "_posts/新建模板文件.md",
     "_posts/n2026-03-08-劝退学医.md",
     "_posts/2026-03-08-null.md",
     "README.md",
-    "CNAME",
     "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md",
-    "_posts/2026-03-07-gradle.md",
     "_tabs/about.md",
-    "core.zip",
     "_tabs/tags.md",
     "_posts/2026-03-07-利用bat和快捷键实现一键add-commit-push.md",
     "_posts/2026-03-07-劝退学医.md",
@@ -281,7 +282,6 @@
     "_site/_pages/about-archive.md",
     "_site/_pages/未命名.md",
     "_posts/tag-archive.md",
-    "_site/_pages/tag-archive.md",
-    "_site/_pages/category-archive.md"
+    "_site/_pages/tag-archive.md"
   ]
 }

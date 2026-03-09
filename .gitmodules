@@ -1,3 +1,6 @@
 [submodule "assets/lib"]
 	path = assets/lib
 	url = https://github.com/cotes2020/chirpy-static-assets.git
+[submodule ".obsidian/plugins/auto-video-tag"]
+	path = .obsidian/plugins/auto-video-tag
+	url = https://github.com/medmium/auto-video-tag.git
