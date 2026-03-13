@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-12-root后常用的adb命令.md",
+                "file": "_posts/2026-03-13-v4l2-ctl 交叉编译但实机无用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-12-root后常用的adb命令"
+              "title": "2026-03-13-v4l2-ctl 交叉编译但实机无用"
             }
           }
         ]
@@ -238,8 +238,17 @@
   },
   "active": "d0733f20e0caeed7",
   "lastOpenFiles": [
-    "_posts/2026-03-12-frpc_for_magisk.md",
+    "_posts/交叉编译.md",
+    "_posts/2026-03-13-v4l2-ctl 交叉编译但实机无用.md",
+    "obsidian/attachments/Image_2026-03-13_21-52-42_o4mbhhhh.f0j.png",
+    "obsidian/attachments/Image_2026-03-13_21-52-11_0d0mw5tq.dxz.png",
+    "obsidian/attachments/Pasted image 20260313214813.png",
+    "obsidian/attachments/v4l2-ctl-build.zip",
+    "obsidian/attachments/Image_2026-03-13_21-37-48_vfm2gcfm.ghs.png",
+    "obsidian/attachments/Image_2026-03-13_21-36-53_k1ffyuje.34k.png",
+    "obsidian/attachments/v4l-utils.zip",
     "_posts/2026-03-12-root后常用的adb命令.md",
+    "_posts/2026-03-12-frpc_for_magisk.md",
     "_posts/2026-03-09-让chirpy支持下载附件功能.md",
     "_posts/2026-03-09-修复附件链接为绝对路径.md",
     "obsidian/attachments/Image_2026-03-08_23-26-37_554vhvnd.1xb.png",
@@ -260,18 +269,11 @@
     "_plugins/fix_absolute_path.rb",
     "_site/obsidian/attachments/chirpy_key_files.zip",
     "obsidian/attachments/Image_2026-03-08_23-24-40_zkqairwj.5uv.png",
-    "obsidian/attachments/chirpy_key_files.zip",
-    "_site/posts/让chirpy支持下载附件功能/index.html",
     "_posts/2026-03-09-下载按钮测试.md",
     "obsidian/attachments/Image_2026-03-09_13-19-22_xmmwxoq5.dry.png",
     "obsidian/attachments/Image_2026-03-08_22-52-06_akqjjton.dgk.png",
     "obsidian/attachments/Image_2026-03-08_22-54-55_wiexon3x.x1y.png",
-    "obsidian/attachments/Image_2026-03-08_23-29-19_ppbuiwdp.s13.png",
-    "obsidian/attachments/Image_2026-03-08_23-39-44_genrwyjo.wn5.png",
     "_posts/2026-03-08-测试文章.md",
-    "obsidian/attachments/Pasted image 20260308231219.png",
-    "_site/obsidian/attachments/Pasted image 20260308231219.png",
-    "_site/obsidian/attachments/Image_2026-03-08_23-39-44_genrwyjo.wn5.png",
     "_posts/n2026-03-08-劝退学医.md",
     "_posts/2026-03-08-null.md",
     "_tabs/about.md",
@@ -281,8 +283,6 @@
     "_posts/2026-03-08-时间测试.md",
     "_posts/2026-03-08-图片测试.md",
     "_posts/2026-03-08-时间检查.md",
-    "_pages/home-archive.md",
-    "_pages/category-archive.md",
-    "_pages/about-archive.md"
+    "_pages/home-archive.md"
   ]
 }
