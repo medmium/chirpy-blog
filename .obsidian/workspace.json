@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e77905cf3a6b9993",
+        "id": "358bc178a9bc30bc",
         "type": "tabs",
         "children": [
           {
-            "id": "d0733f20e0caeed7",
+            "id": "396ee02480574393",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 499.5
   },
   "right": {
     "id": "98d866a3c6c16228",
@@ -254,23 +254,26 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "d0733f20e0caeed7",
+  "active": "396ee02480574393",
   "lastOpenFiles": [
+    "obsidian/attachments/4kernel_split_patch_0000_tail_head.zip",
+    "obsidian/attachments/Image_2026-03-15_23-34-10_foxqqxg5.syk.png",
+    "obsidian/attachments/Image_2026-03-15_23-27-17_51r04mae.cjp.png",
+    "obsidian/attachments/Image_2026-03-15_23-21-30_ak4wyqow.3sl.png",
+    "obsidian/attachments/Image_2026-03-15_23-16-43_d0jboi5b.tj5.png",
+    "obsidian/attachments/Image_2026-03-15_23-13-49_u3kerk4q.aol.png",
+    "obsidian/attachments/Image_2026-03-15_23-10-29_jc1hmljm.a1c.png",
+    "obsidian/attachments/Image_2026-03-15_23-08-39_txv1iavi.oxu.png",
+    "obsidian/attachments/Image_2026-03-15_22-15-02_m1xrcv5w.ieg 2.png",
+    "obsidian/attachments/Image_2026-03-15_22-15-02_m1xrcv5w.ieg 1.png",
+    "obsidian/attachments/Image_2026-03-15_22-15-02_m1xrcv5w.ieg.png",
+    "obsidian/attachments/Image_2026-03-15_20-33-38_e4zpm4uw.4q2.png.md",
+    "_posts/2026-03-15-android模拟器内核修改.md",
+    "_posts/2026-03-08-集成obsidian.md",
     "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md",
     "obsidian/attachments/kernel-ranchu.zip",
-    "obsidian/attachments/Image_2026-03-15_16-33-37_vkgunqf1.j4h.png",
-    "obsidian/attachments/Image_2026-03-15_14-06-35_rlkm2jq4.jeg.png",
-    "obsidian/attachments/Image_2026-03-15_14-02-18_0nbtblnq.0wk.png",
-    "obsidian/attachments/Image_2026-03-15_14-00-10_lpokjddj.e4l.png",
-    "_posts/2026-03-15-android模拟器内核修改.md",
     "_posts/2026-03-15-adb调试常用命令.md",
     "_posts/2026-03-14-magisk模块开机自启动adbd.md",
-    "obsidian/attachments/Image_2026-03-15_20-33-38_e4zpm4uw.4q2.png",
-    "obsidian/attachments/Image_2026-03-15_20-30-28_ew131ezr.pdi.png",
-    "obsidian/attachments/Image_2026-03-15_20-25-22_d0vqy2xt.f43.png",
-    "obsidian/attachments/Image_2026-03-15_20-22-37_i44ag2wq.jyo.png",
-    "obsidian/attachments/Image_2026-03-15_20-21-51_o0dluwny.ezw.png",
-    "obsidian/attachments/Image_2026-03-15_20-20-07_a3unrns0.lv1.png",
     "obsidian/attachments/ida9.0 1.zip",
     "obsidian/attachments/ida9.0.zip",
     "_posts/2026-03-12-root后常用的adb命令.md",
@@ -285,7 +288,6 @@
     "obsidian/attachments/frpc.zip",
     "_posts/2026-03-09-创建jekyll插件以自动转换MP4.md",
     "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
-    "_posts/2026-03-08-集成obsidian.md",
     "_posts/2026-03-07-gradle.md",
     "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md",
     "obsidian/templates/新建模板文件.md",
@@ -299,7 +301,6 @@
     "_posts/n2026-03-08-劝退学医.md",
     "_posts/2026-03-08-null.md",
     "_tabs/about.md",
-    "_tabs/tags.md",
-    "_posts/2026-03-07-利用bat和快捷键实现一键add-commit-push.md"
+    "_tabs/tags.md"
   ]
 }
