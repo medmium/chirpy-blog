@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md",
-                "mode": "preview",
+                "file": "_posts/2026-03-15-android模拟器内核修改.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-14-frida脚本在任意软件中动态调用toast"
+              "title": "2026-03-15-android模拟器内核修改"
             }
           }
         ]
@@ -94,9 +94,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2026-03-13-v4l2-ctl 交叉编译但实机无用.md",
+                "file": "_posts/2026-03-15-android模拟器内核修改.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-03-13-v4l2-ctl 交叉编译但实机无用 的反向链接列表"
+              "title": "2026-03-15-android模拟器内核修改 的反向链接列表"
             }
           },
           {
@@ -239,8 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,23 +256,32 @@
   },
   "active": "d0733f20e0caeed7",
   "lastOpenFiles": [
-    "_posts/2026-03-12-root后常用的adb命令.md",
     "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md",
+    "obsidian/attachments/kernel-ranchu.zip",
+    "obsidian/attachments/Image_2026-03-15_16-33-37_vkgunqf1.j4h.png",
+    "obsidian/attachments/Image_2026-03-15_14-06-35_rlkm2jq4.jeg.png",
+    "obsidian/attachments/Image_2026-03-15_14-02-18_0nbtblnq.0wk.png",
+    "obsidian/attachments/Image_2026-03-15_14-00-10_lpokjddj.e4l.png",
+    "_posts/2026-03-15-android模拟器内核修改.md",
+    "_posts/2026-03-15-adb调试常用命令.md",
     "_posts/2026-03-14-magisk模块开机自启动adbd.md",
+    "obsidian/attachments/Image_2026-03-15_20-33-38_e4zpm4uw.4q2.png",
+    "obsidian/attachments/Image_2026-03-15_20-30-28_ew131ezr.pdi.png",
+    "obsidian/attachments/Image_2026-03-15_20-25-22_d0vqy2xt.f43.png",
+    "obsidian/attachments/Image_2026-03-15_20-22-37_i44ag2wq.jyo.png",
+    "obsidian/attachments/Image_2026-03-15_20-21-51_o0dluwny.ezw.png",
+    "obsidian/attachments/Image_2026-03-15_20-20-07_a3unrns0.lv1.png",
+    "obsidian/attachments/ida9.0 1.zip",
+    "obsidian/attachments/ida9.0.zip",
+    "_posts/2026-03-12-root后常用的adb命令.md",
     "_posts/2026-03-12-frpc_for_magisk.md",
     "obsidian/attachments/adb_tcp.zip",
     "_posts/2026-03-13-v4l2-ctl 交叉编译但实机无用.md",
     "_posts/交叉编译.md",
-    "obsidian/attachments/Image_2026-03-13_21-52-42_o4mbhhhh.f0j.png",
-    "obsidian/attachments/Image_2026-03-13_21-52-11_0d0mw5tq.dxz.png",
-    "obsidian/attachments/Pasted image 20260313214813.png",
     "obsidian/attachments/v4l2-ctl-build.zip",
-    "obsidian/attachments/Image_2026-03-13_21-37-48_vfm2gcfm.ghs.png",
-    "obsidian/attachments/Image_2026-03-13_21-36-53_k1ffyuje.34k.png",
     "obsidian/attachments/v4l-utils.zip",
     "_posts/2026-03-09-让chirpy支持下载附件功能.md",
     "_posts/2026-03-09-修复附件链接为绝对路径.md",
-    "obsidian/attachments/Image_2026-03-08_23-26-37_554vhvnd.1xb.png",
     "obsidian/attachments/frpc.zip",
     "_posts/2026-03-09-创建jekyll插件以自动转换MP4.md",
     "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
@@ -286,22 +294,12 @@
     "obsidian/attachments/output_25fps.mp4",
     "README.md",
     "_posts/未命名.base",
-    "_site/posts/修复附件链接为绝对路径/index.html",
-    "_site/posts/修复附件链接为绝对路径",
-    "_plugins/fix_absolute_path.rb",
-    "obsidian/attachments/Image_2026-03-08_23-24-40_zkqairwj.5uv.png",
     "_posts/2026-03-09-下载按钮测试.md",
-    "obsidian/attachments/Image_2026-03-09_13-19-22_xmmwxoq5.dry.png",
-    "obsidian/attachments/Image_2026-03-08_22-52-06_akqjjton.dgk.png",
-    "obsidian/attachments/Image_2026-03-08_22-54-55_wiexon3x.x1y.png",
     "_posts/2026-03-08-测试文章.md",
     "_posts/n2026-03-08-劝退学医.md",
     "_posts/2026-03-08-null.md",
     "_tabs/about.md",
     "_tabs/tags.md",
-    "_posts/2026-03-07-利用bat和快捷键实现一键add-commit-push.md",
-    "_posts/2026-03-07-劝退学医.md",
-    "_posts/2026-03-08-时间测试.md",
-    "_posts/2026-03-08-图片测试.md"
+    "_posts/2026-03-07-利用bat和快捷键实现一键add-commit-push.md"
   ]
 }
