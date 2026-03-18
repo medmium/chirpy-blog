@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-18-更新adb-tcp模块实现临时关闭即时生效功能.md",
+                "file": "_posts/2026-03-18-magisk-modules-for-remote-adb-control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-18-更新adb-tcp模块实现临时关闭即时生效功能"
+              "title": "2026-03-18-magisk-modules-for-remote-adb-control"
             }
           }
         ]
@@ -257,8 +257,9 @@
   },
   "active": "892637d3023035d2",
   "lastOpenFiles": [
-    "_posts/().md",
     "_posts/2026-03-18-更新adb-tcp模块实现临时关闭即时生效功能.md",
+    "_posts/2026-03-18-magisk-modules-for-remote-adb-control.md",
+    "_posts/().md",
     "obsidian/attachments/adb_tcp.zip",
     "_posts/2026-03-17-一加可禁用的预装app.md",
     "_posts/2026-03-15-练习动态调试.md",
@@ -301,7 +302,6 @@
     "README.md",
     "_posts/2026-03-09-下载按钮测试.md",
     "_posts/2026-03-08-测试文章.md",
-    "_posts/n2026-03-08-劝退学医.md",
-    "_posts/2026-03-08-null.md"
+    "_posts/n2026-03-08-劝退学医.md"
   ]
 }
