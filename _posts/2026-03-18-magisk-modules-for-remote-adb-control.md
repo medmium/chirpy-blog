@@ -15,12 +15,12 @@ adb远控用到的Magsik插件
 
  我自己(借助AI)写的
 - [adb-tcp](obsidian/attachments/adb_tcp.zip) 
-- [frpc](obsidian/attachments/frpc.zip) 
+- [frpc](obsidian/attachments/frpc.zip) 不放心可以自己换里面的二进制文件
 网上开源的模块 
 - [SSH for Magisk](https://gitlab.com/d4rcm4rc/MagiskSSH_releases/-/blob/main/magisk_ssh_v0.26.zip?ref_type=heads)
-- [vim for Android](http://bnsmb.de/files/public/Android/vim_9.1.zip)
+- vim for Android: http://bnsmb.de/files/public/Android/vim_9.1.zip
 
-推荐收藏[大佬的网站](http://bnsmb.de/Magisk_Modules.html):http://bnsmb.de/
+推荐收藏大佬的网站:http://bnsmb.de/
 
 手机用的app是[ZeroTermux](https://github.com/hanxinhao000/ZeroTermux)
 用的快捷脚本是
