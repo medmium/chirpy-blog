@@ -22,6 +22,23 @@ adb远控用到的Magsik插件
 
 推荐收藏大佬的网站:http://bnsmb.de/
 
+可能会出现的问题:
+手机静置一段时间后, adb连接不上, 但ssh, frp能连接上. 本地或远程SSH连上后, 依次执行: 
+```shell
+stop adbd
+```
+```shell
+start adbd
+```
+即可恢复.
+
+## adb shell 与 ssh shell 区别
+
+它们大部分功能重叠. 但adb shell能调用Magisk远程安装模块, 能执行截屏并回传到控制端 , ssh shell却不行. ssh shell唯一的优势就是**稳**
+
+
+
+## ZereTermux快捷脚本
 手机用的app是[ZeroTermux](https://github.com/hanxinhao000/ZeroTermux)
 用的快捷脚本是
 ```xml
