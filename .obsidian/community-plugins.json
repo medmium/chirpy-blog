@@ -2,5 +2,6 @@
   "templater-obsidian",
   "file-explorer-plus",
   "obsidian-shellcommands",
-  "sample-plugin"
+  "sample-plugin",
+  "obsidian-export-image"
 ]

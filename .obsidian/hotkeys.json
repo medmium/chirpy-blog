@@ -50,5 +50,13 @@
       ],
       "key": "H"
     }
+  ],
+  "obsidian-export-image:export-image": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
   ]
 }

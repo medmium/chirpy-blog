@@ -148,3 +148,172 @@ start adbd
 </zt-menu>
 
 ```
+
+更新版本
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<zt-menu>
+    <group name="针对当前直接adb">
+
+        <item tag="shell"
+            name="杀死当前"
+            autoRunShell="true"
+            click="ztShell:adb shell &quot;su -c 'pkg=\$(dumpsys activity activities 2&gt;/dev/null | grep -E \&quot;ResumedActivity|topRunningActivity\&quot; | head -1 | grep -o \&quot;[a-zA-Z0-9._:]*\&quot; || dumpsys window windows 2&gt;/dev/null | grep -E \&quot;mCurrentFocus|mFocusedApp\&quot; | head -1 | grep -o \&quot;[a-zA-Z0-9._:]*\&quot;); [[ -n \&quot;\$pkg\&quot; ]] &amp;&amp; kill -9 \$(pidof \$pkg 2&gt;/dev/null)'&quot;"
+        />
+        <item tag="shell"
+            name="禁用当前"
+            autoRunShell="true"
+            click="ztShell:adb shell 'su -c &quot;pkg=\$(dumpsys activity activities 2&gt;/dev/null | grep -E \&quot;ResumedActivity|topRunningActivity\&quot; | head -1 | grep -oE \&quot;[a-zA-Z0-9._-]+/[a-zA-Z0-9._\$-]+\&quot; | cut -d\&quot;/\&quot; -f1 || dumpsys window windows 2&gt;/dev/null | grep -E \&quot;mCurrentFocus|mFocusedApp\&quot; | head -1 | grep -oE \&quot;[a-zA-Z0-9._-]+/[a-zA-Z0-9._\$-]+\&quot; | cut -d\&quot;/\&quot; -f1); [[ -n \&quot;\$pkg\&quot; ]] &amp;&amp; pm disable-user --user 0 \&quot;\$pkg\&quot;&quot;'" />
+    </group>
+
+    <group name="shell选择">
+        <item tag="shell"
+            name="重置连接"
+            autoRunShell="true"
+            click="ztShell:adb disconnect &amp;&amp;clear" />
+
+        <item tag="shell"
+            name="接入本地"
+            autoRunShell="true"
+            click="ztShell:adb connect 192.168.6.10:5555" />
+
+
+        <item tag="shell"
+            name="接入远程"
+            autoRunShell="true"
+            click="ztShell:adb connect 24.233.1.203:35555" />
+
+
+    </group>
+
+
+    <group name="进入shell">
+        <item tag="shell"
+            name="进入shell"
+            autoRunShell="true"
+            click="ztShell:adb shell" />
+
+        <item tag="shell"
+            name="su"
+            autoRunShell="true"
+            click="ztShell:su" />
+
+        <item tag="shell"
+            name="回退"
+            autoRunShell="true"
+            click="ztShell:exit" />
+
+    </group>
+
+    <group name="截屏相关">
+
+        <item tag="shell"
+            name="截屏"
+            autoRunShell="true"
+            click="ztShell:adb exec-out screencap -p > /sdcard/download/screenshot.png" />
+
+        <item tag="shell"
+            name="查看截屏"
+            icon=""
+            activityTitle="本次截屏"
+            click="appWebUrl:file:///sdcard/download/screenshot.png" />
+    </group>
+
+    <group name="查看基本信息">
+        <item tag="shell"
+            name="查看当前包名"
+            autoRunShell="true"
+            click="ztShell:dumpsys activity activities |grep -E ResumedActivity" />
+
+        <item tag="shell"
+            name="查看IP"
+            autoRunShell="true"
+            click="ztShell:ip -4 addr show wlan0 | awk '/inet / {print $2}' | cut -d'/' -f1" />
+    </group>
+
+
+    <group name="针对常用app-shell">
+
+        <item tag="shell"
+            name="杀死抖音"
+            autoRunShell="true"
+            click="ztShell:killall com.ss.android.ugc.aweme" />
+
+        <item tag="shell"
+            name="杀死哔哩"
+            autoRunShell="true"
+            click="ztShell:killall tv.danmaku.bili" />
+
+        <item tag="shell"
+            name="杀死微信"
+            autoRunShell="true"
+            click="ztShell:killall com.tencent.mm" />
+
+        <item tag="shell"
+            name="杀死QQ"
+            autoRunShell="true"
+            click="ztShell:killall com.tencent.mobileqq" />
+    </group>
+
+    <group name="音量操作-shell">
+        <item tag="shell"
+            name="音量↑"
+            autoRunShell="true"
+            click="ztShell:input keyevent 24" />
+
+        <item tag="shell"
+            name="音量↓"
+            autoRunShell="true"
+            click="ztShell:input keyevent 25" />
+    </group>
+    <group name="电源操作-shell">
+
+        <item tag="shell"
+            name="电源"
+            autoRunShell="true"
+            click="ztShell:input keyevent 26" />
+
+        <item tag="shell"
+            name="息屏"
+            autoRunShell="true"
+            click="ztShell:input keyevent 6" />
+
+        <item tag="shell"
+            name="解锁"
+            autoRunShell="true"
+            click="ztShell:input keyevent 26&amp;&amp; input keyevent 66&amp;&amp;input text '123123'" />
+
+
+        <item tag="shell"
+            name="重启"
+            autoRunShell="true"
+            click="ztShell:reboot" />
+
+        <item tag="shell"
+            name="关机"
+            autoRunShell="true"
+            click="ztShell:reboot" />
+
+
+        <item tag="自定义左侧栏"
+            name="修改快捷"
+            icon="imgPath:/data/data/com.termux/files/home/ZtInfo/edit_menu.png"
+            click="ztEditText:/data/data/com.termux/files/home/ZtInfo/main_menu_path.xml" />
+
+
+        <!--dialog
+        属性只能对于 click 为 ztShell 生效
+        dialogConfirm 为 false 则不提示
+        -->
+
+
+    </group>
+
+    <group name="常用功能">
+        <item tag="ZT设置"
+            click="java:com.termux.zerocore.config.mainmenu.config.ZTSettingsClickConfig" />
+    </group>
+
+
+</zt-menu>
+```
