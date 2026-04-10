@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-18-magisk-modules-for-remote-adb-control.md",
+                "file": "_posts/2026-04-10-已读论文记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-18-magisk-modules-for-remote-adb-control"
+              "title": "2026-04-10-已读论文记录"
             }
           }
         ]
@@ -257,22 +257,24 @@
   },
   "active": "892637d3023035d2",
   "lastOpenFiles": [
-    "_posts/2026-03-19-manual-root.md",
-    "_posts/2026-03-12-常用的adb命令.md",
-    "_posts/2026-03-18-magisk-modules-for-remote-adb-control.md",
-    "_posts/2026-03-09-修复附件链接为绝对路径.md",
-    "_posts/2026-03-12-frpc_for_magisk.md",
+    "obsidian/attachments/主动脉_从血液通路到多功能器官_李庆国.pdf",
     "_posts/2026-03-13-v4l2-ctl 交叉编译但实机无用.md",
+    "_posts/2026-04-10-已读论文记录.md",
+    "_posts/2026-03-12-常用的adb命令.md",
     "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md",
     "_posts/2026-03-14-magisk模块开机自启动adbd.md",
-    "_posts/2026-03-18-更新adb-tcp模块实现临时关闭即时生效功能.md",
+    "_posts/2026-03-15-练习动态调试.md",
     "_posts/2026-03-15-android模拟器内核修改.md",
+    "_posts/2026-03-18-magisk-modules-for-remote-adb-control.md",
+    "_posts/2026-03-19-manual-root.md",
+    "_posts/2026-03-09-修复附件链接为绝对路径.md",
+    "_posts/2026-03-12-frpc_for_magisk.md",
+    "_posts/2026-03-18-更新adb-tcp模块实现临时关闭即时生效功能.md",
     "_posts/2026-03-09-创建jekyll插件以自动转换MP4.md",
     "_posts/2026-03-09-让chirpy支持下载附件功能.md",
     "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
     "_posts/2026-03-08-集成obsidian.md",
     "_posts/2026-03-17-一加可禁用的预装app.md",
-    "_posts/2026-03-15-练习动态调试.md",
     "_posts/().md",
     "obsidian/attachments/adb_tcp.zip",
     "obsidian/attachments/Image_2026-03-18_16-33-05_ebgq3wj0.2tq.png",
@@ -300,8 +302,6 @@
     "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md",
     "obsidian/templates/新建模板文件.md",
     "_posts/2026-03-09-模板.md",
-    "README.md",
-    "_posts/2026-03-09-下载按钮测试.md",
-    "_posts/2026-03-08-测试文章.md"
+    "README.md"
   ]
 }
