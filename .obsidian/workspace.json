@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2026-04-10-已读论文记录"
             }
+          },
+          {
+            "id": "cb8c743b7165fd90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-04-13-TED阅读记录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-13-TED阅读记录"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,11 +270,20 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "892637d3023035d2",
+  "active": "d784427dca13b3bb",
   "lastOpenFiles": [
+    "assets/img/favicons/apple-touch-icon.png",
+    "assets/img/favicons/favicon-96x96 copy.png",
+    "assets/img/favicons/favicon-96x96.png",
+    "assets/img/favicons/favicon-96x96.ico",
+    "assets/img/favicons/favicon copy.ico",
+    "assets/img/favicons/favicon.ico",
+    "assets/img/favicons",
+    "assets/img",
+    "_posts/2026-04-10-已读论文记录.md",
+    "_posts/2026-04-13-TED阅读记录.md",
     "obsidian/attachments/主动脉_从血液通路到多功能器官_李庆国.pdf",
     "_posts/2026-03-13-v4l2-ctl 交叉编译但实机无用.md",
-    "_posts/2026-04-10-已读论文记录.md",
     "_posts/2026-03-12-常用的adb命令.md",
     "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md",
     "_posts/2026-03-14-magisk模块开机自启动adbd.md",
@@ -285,23 +309,14 @@
     "obsidian/attachments/Image_2026-03-18_13-39-22_lgs53u4u.k1g.png",
     "obsidian/attachments/Image_2026-03-18_13-37-08_xd3tfgqb.rba.png",
     "obsidian/attachments/Image_2026-03-18_13-36-16_zxuzr1kx.ucw.png",
-    "obsidian/attachments/Image_2026-03-18_13-34-48_2drzelve.k21.png",
-    "obsidian/attachments/Image_2026-03-18_13-20-47_ubiktxu1.z4s.png",
     "obsidian/attachments/adb_tcp 1.zip",
     "obsidian/attachments/4kernel_split_patch_0000_tail_head.zip",
     "obsidian/attachments/Image_2026-03-15_20-33-38_e4zpm4uw.4q2.png.md",
     "obsidian/attachments/kernel-ranchu.zip",
-    "obsidian/attachments/ida9.0 1.zip",
-    "obsidian/attachments/ida9.0.zip",
-    "obsidian/attachments/adb_tcp.zip",
     "_posts/交叉编译.md",
-    "obsidian/attachments/v4l2-ctl-build.zip",
-    "obsidian/attachments/v4l-utils.zip",
-    "obsidian/attachments/frpc.zip",
     "_posts/2026-03-07-gradle.md",
     "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md",
     "obsidian/templates/新建模板文件.md",
-    "_posts/2026-03-09-模板.md",
-    "README.md"
+    "_posts/2026-03-09-模板.md"
   ]
 }
