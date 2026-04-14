@@ -8,35 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "892637d3023035d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2026-04-10-已读论文记录.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-10-已读论文记录"
-            }
-          },
-          {
             "id": "cb8c743b7165fd90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2026-04-13-TED阅读记录.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-04-13-TED阅读记录"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,8 +251,11 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "cb8c743b7165fd90",
+  "active": "d784427dca13b3bb",
   "lastOpenFiles": [
+    "_posts/2026-04-10-已读论文记录.md",
+    "obsidian/attachments/Image_2026-04-14_10-58-11_o40rcie0.fdv.png",
+    "_posts/2026-04-13-TED阅读记录.md",
     "assets/img/favicons/favicon.svg",
     "assets/img/favicons/logo.svg",
     "assets/img/favicons/favicon copy.ico",
@@ -282,8 +266,6 @@
     "assets/img/favicons/favicon.ico",
     "assets/img/favicons",
     "assets/img",
-    "_posts/2026-04-10-已读论文记录.md",
-    "_posts/2026-04-13-TED阅读记录.md",
     "obsidian/attachments/主动脉_从血液通路到多功能器官_李庆国.pdf",
     "_posts/2026-03-13-v4l2-ctl 交叉编译但实机无用.md",
     "_posts/2026-03-12-常用的adb命令.md",
@@ -307,8 +289,6 @@
     "obsidian/attachments/Image_2026-03-18_14-46-29_edxtghxx.kgp.png",
     "obsidian/attachments/Image_2026-03-18_14-44-02_c2xl0zk2.kup.png",
     "obsidian/attachments/Image_2026-03-18_14-41-10_vvorxnrh.sx0.png",
-    "obsidian/attachments/Image_2026-03-18_14-40-17_qupoayax.n1q.png",
-    "obsidian/attachments/Image_2026-03-18_13-39-22_lgs53u4u.k1g.png",
     "obsidian/attachments/adb_tcp 1.zip",
     "obsidian/attachments/4kernel_split_patch_0000_tail_head.zip",
     "obsidian/attachments/Image_2026-03-15_20-33-38_e4zpm4uw.4q2.png.md",
