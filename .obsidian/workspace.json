@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c1ee8c4b88ffd0f9",
+        "id": "6203ad034d3f1e3c",
         "type": "tabs",
         "children": [
           {
-            "id": "cb8c743b7165fd90",
+            "id": "1d373e8216db7000",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-04-18-ykb.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-04-18-ykb"
             }
           }
         ]
@@ -70,11 +74,13 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "98d866a3c6c16228",
@@ -251,44 +257,46 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "d784427dca13b3bb",
+  "active": "1d373e8216db7000",
   "lastOpenFiles": [
+    "obsidian/attachments/Image_2026-04-18_18-39-12_0jgoumid.mi5.png",
+    "obsidian/attachments/Image_2026-04-18_18-38-59_kppfozo5.2ki.png",
+    "obsidian/attachments/Image_2026-04-18_18-36-49_l0ltnbyq.k3w.png",
+    "obsidian/attachments/Image_2026-04-18_18-35-19_4abv0l5i.rcw.png",
+    "obsidian/attachments/Image_2026-04-18_18-31-56_dindqamz.llc.png",
+    "obsidian/attachments/Image_2026-04-18_18-31-21_uzwgay4l.555.png",
+    "obsidian/attachments/Image_2026-04-18_18-28-04_an44lne2.aks.png",
+    "obsidian/attachments/Image_2026-04-18_18-25-30_hrljgkc5.t15 1.png",
+    "obsidian/attachments/Image_2026-04-18_18-25-30_hrljgkc5.t15.png",
+    "obsidian/attachments/Image_2026-04-18_18-20-41_bifigr2e.amh.png",
+    "obsidian/attachments/Image_2026-04-18_18-03-06_xr4ezgsw.yti.png",
+    "_posts/2026-03-08-集成obsidian.md",
+    "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
+    "_posts/2026-03-09-创建jekyll插件以自动转换MP4.md",
+    "_posts/2026-03-09-让chirpy支持下载附件功能.md",
+    "_posts/2026-03-09-修复附件链接为绝对路径.md",
+    "_posts/2026-03-12-常用的adb命令.md",
+    "_posts/2026-03-12-frpc_for_magisk.md",
+    "_posts/2026-03-13-v4l2-ctl 交叉编译但实机无用.md",
+    "_posts/2026-03-14-magisk模块开机自启动adbd.md",
+    "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md",
+    "_posts/2026-04-18-ykb.md",
     "_posts/2026-04-10-已读论文记录.md",
-    "obsidian/attachments/Image_2026-04-14_10-58-11_o40rcie0.fdv.png",
     "_posts/2026-04-13-TED阅读记录.md",
-    "assets/img/favicons/favicon.svg",
-    "assets/img/favicons/logo.svg",
     "assets/img/favicons/favicon copy.ico",
-    "assets/img/favicons/apple-touch-icon.png",
-    "assets/img/favicons/favicon-96x96 copy.png",
-    "assets/img/favicons/favicon-96x96.png",
     "assets/img/favicons/favicon-96x96.ico",
     "assets/img/favicons/favicon.ico",
     "assets/img/favicons",
     "assets/img",
     "obsidian/attachments/主动脉_从血液通路到多功能器官_李庆国.pdf",
-    "_posts/2026-03-13-v4l2-ctl 交叉编译但实机无用.md",
-    "_posts/2026-03-12-常用的adb命令.md",
-    "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md",
-    "_posts/2026-03-14-magisk模块开机自启动adbd.md",
     "_posts/2026-03-15-练习动态调试.md",
     "_posts/2026-03-15-android模拟器内核修改.md",
     "_posts/2026-03-18-magisk-modules-for-remote-adb-control.md",
     "_posts/2026-03-19-manual-root.md",
-    "_posts/2026-03-09-修复附件链接为绝对路径.md",
-    "_posts/2026-03-12-frpc_for_magisk.md",
     "_posts/2026-03-18-更新adb-tcp模块实现临时关闭即时生效功能.md",
-    "_posts/2026-03-09-创建jekyll插件以自动转换MP4.md",
-    "_posts/2026-03-09-让chirpy支持下载附件功能.md",
-    "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
-    "_posts/2026-03-08-集成obsidian.md",
     "_posts/2026-03-17-一加可禁用的预装app.md",
     "_posts/().md",
     "obsidian/attachments/adb_tcp.zip",
-    "obsidian/attachments/Image_2026-03-18_16-33-05_ebgq3wj0.2tq.png",
-    "obsidian/attachments/Image_2026-03-18_14-46-29_edxtghxx.kgp.png",
-    "obsidian/attachments/Image_2026-03-18_14-44-02_c2xl0zk2.kup.png",
-    "obsidian/attachments/Image_2026-03-18_14-41-10_vvorxnrh.sx0.png",
     "obsidian/attachments/adb_tcp 1.zip",
     "obsidian/attachments/4kernel_split_patch_0000_tail_head.zip",
     "obsidian/attachments/Image_2026-03-15_20-33-38_e4zpm4uw.4q2.png.md",
@@ -296,7 +304,6 @@
     "_posts/交叉编译.md",
     "_posts/2026-03-07-gradle.md",
     "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md",
-    "obsidian/templates/新建模板文件.md",
-    "_posts/2026-03-09-模板.md"
+    "obsidian/templates/新建模板文件.md"
   ]
 }
