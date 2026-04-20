@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-19-manual-root.md",
+                "file": "_posts/2026-04-18-ykb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-19-manual-root"
+              "title": "2026-04-18-ykb"
             }
           }
         ]
@@ -257,17 +257,19 @@
   },
   "active": "1d373e8216db7000",
   "lastOpenFiles": [
-    "_posts/t2026-04-18-ykb.md",
-    "obsidian/attachments/Image_2026-04-19_10-56-24_uyfmylab.rc3.png",
-    "obsidian/attachments/Image_2026-04-19_10-52-06_n1wrneb1.cw0.png",
-    "obsidian/attachments/Image_2026-04-19_10-41-59_pvkrk205.csd.png",
-    "obsidian/attachments/Image_2026-04-19_10-15-10_g4nanqki.lun.png",
-    "obsidian/attachments/Image_2026-04-19_10-10-01_ubtbrgx2.uc4.png",
-    "obsidian/attachments/Image_2026-04-19_01-30-05_llgvuouu.ta0.png",
-    "obsidian/attachments/Image_2026-04-19_01-28-47_b2dgimv0.nfd.png",
-    "obsidian/attachments/Image_2026-04-19_01-03-50_iomb12xa.4ks.png",
-    "obsidian/attachments/Image_2026-04-19_01-02-37_d4zds0o0.vcf.png",
-    "obsidian/attachments/Screenshot_2026-04-19-00-15-22-13_9e8df3d0c7c1f50248b6ee043a653d26.jpg",
+    "obsidian/attachments/Image_2026-04-20_16-56-11_e0n0dikw.qeb.png",
+    "obsidian/attachments/Image_2026-04-19_22-12-07_m5zzbzzu.iqp.png",
+    "obsidian/attachments/Screenshot_2026-04-19-21-36-21-36_9e8df3d0c7c1f50248b6ee043a653d26.jpg",
+    "obsidian/attachments/Image_2026-04-19_21-34-50_kbzsnzfv.etq.png",
+    "obsidian/attachments/Image_2026-04-19_21-15-35_hrl0tvhk.xe3.png",
+    "obsidian/attachments/Image_2026-04-19_21-12-17_si5kitux.dnq.png",
+    "obsidian/attachments/Image_2026-04-19_20-20-17_xu4zknzo.sgj.png",
+    "obsidian/attachments/Image_2026-04-19_18-31-45_ekwszvq4.54h.png",
+    "obsidian/attachments/Image_2026-04-19_17-50-41_f1b1wepu.jww.png",
+    "obsidian/attachments/Image_2026-04-19_17-32-00_3rdlcdv5.3br.png",
+    "obsidian/attachments/Image_2026-04-19_17-22-17_jr2f3hyc.3da.png",
+    "_posts/2026-03-19-manual-root.md",
+    "_posts/2026-04-18-ykb.md",
     "_posts/2026-03-08-集成obsidian.md",
     "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
     "_posts/2026-03-09-创建jekyll插件以自动转换MP4.md",
@@ -289,7 +291,6 @@
     "_posts/2026-03-15-练习动态调试.md",
     "_posts/2026-03-15-android模拟器内核修改.md",
     "_posts/2026-03-18-magisk-modules-for-remote-adb-control.md",
-    "_posts/2026-03-19-manual-root.md",
     "_posts/2026-03-18-更新adb-tcp模块实现临时关闭即时生效功能.md",
     "_posts/2026-03-17-一加可禁用的预装app.md",
     "_posts/().md",

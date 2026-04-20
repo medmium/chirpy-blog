@@ -1,1 +1,7 @@
-{}
+{
+  "accentColor": "#ff0000",
+  "theme": "moonstone",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": false
+}

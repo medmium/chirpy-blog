@@ -7,5 +7,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "propertiesInDocument": "source",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true
 }
