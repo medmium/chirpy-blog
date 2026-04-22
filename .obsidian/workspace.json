@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 470.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,9 +199,9 @@
   },
   "active": "89d600b717a81e51",
   "lastOpenFiles": [
+    "_posts/2026-04-21-frida.md",
     "obsidian/attachments/Image_2026-04-22_16-20-16_54wj01qo.034.png",
     "_posts/n2026-04-18-ykb.md",
-    "_posts/2026-04-21-frida.md",
     "obsidian/attachments/Image_2026-04-22_15-47-26_c24s2nmo.hx3 1.png",
     "obsidian/attachments/Image_2026-04-22_15-47-26_c24s2nmo.hx3.png",
     "obsidian/attachments/Image_2026-04-22_15-45-15_rjat55co.2g5.png",
@@ -211,7 +211,6 @@
     "obsidian/attachments/Image_2026-04-22_15-24-35_rdrtj5ou.240.png",
     "obsidian/attachments/Image_2026-04-22_15-20-04_ctzzoibh.bx1.png",
     "obsidian/attachments/Image_2026-04-22_15-18-28_dtxhdr1k.kd4.png",
-    "obsidian/attachments/Screenshot_2026-04-22-14-20-38-62_9e8df3d0c7c1f50248b6ee043a653d26.jpg",
     "_posts/2026-03-15-练习动态调试.md",
     "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md",
     "_posts/2026-03-18-更新adb-tcp模块实现临时关闭即时生效功能.md",
