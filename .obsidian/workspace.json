@@ -94,8 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2026-03-15-adb调试常用命令.md",
-                "collapseAll": false,
+                "file": "_posts/2026-04-21-frida.md",
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-03-15-adb调试常用命令 的反向链接列表"
+              "title": "2026-04-21-frida 的反向链接列表"
             }
           },
           {
@@ -239,8 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,6 +256,11 @@
   },
   "active": "1d373e8216db7000",
   "lastOpenFiles": [
+    "obsidian/attachments/Image_2026-04-22_13-43-28_fgn5pyqu.aia.png",
+    "obsidian/attachments/Image_2026-04-22_13-42-32_beto0odk.mr0.png",
+    "obsidian/attachments/Image_2026-04-22_13-36-46_c4lczbtg.d03.png",
+    "obsidian/attachments/Image_2026-04-22_13-35-49_c4y45lzj.gv4.png",
+    "obsidian/attachments/Image_2026-04-22_13-35-21_kx3v31sc.am3.png",
     "_posts/n2026-04-18-ykb.md",
     "_posts/2026-04-21-frida.md",
     "obsidian/attachments/Image_2026-04-21_12-50-08_n2r2ooqk.pye.png",
@@ -269,10 +273,6 @@
     "obsidian/attachments/Image_2026-04-20_20-38-27_34h30gtd.1yg.png",
     "_posts/2026-03-18-更新adb-tcp模块实现临时关闭即时生效功能.md",
     "_posts/2026-03-19-manual-root.md",
-    "obsidian/attachments/Image_2026-04-20_20-04-14_2mtsopa2.jdn.png",
-    "obsidian/attachments/Image_2026-04-20_19-12-40_ulighxio.cxh.png",
-    "obsidian/attachments/Image_2026-04-20_19-10-48_i0sk3fj1.bwb.png",
-    "obsidian/attachments/Image_2026-04-20_19-04-07_c3xc2u5u.g5x.png",
     "_posts/2026-03-08-集成obsidian.md",
     "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
     "_posts/2026-03-09-创建jekyll插件以自动转换MP4.md",
