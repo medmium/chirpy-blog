@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6203ad034d3f1e3c",
+        "id": "4eb587424f3c1dd1",
         "type": "tabs",
         "children": [
           {
-            "id": "1d373e8216db7000",
+            "id": "89d600b717a81e51",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -198,8 +198,11 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "1d373e8216db7000",
+  "active": "89d600b717a81e51",
   "lastOpenFiles": [
+    "obsidian/attachments/Image_2026-04-22_16-20-16_54wj01qo.034.png",
+    "_posts/n2026-04-18-ykb.md",
+    "_posts/2026-04-21-frida.md",
     "obsidian/attachments/Image_2026-04-22_15-47-26_c24s2nmo.hx3 1.png",
     "obsidian/attachments/Image_2026-04-22_15-47-26_c24s2nmo.hx3.png",
     "obsidian/attachments/Image_2026-04-22_15-45-15_rjat55co.2g5.png",
@@ -210,9 +213,6 @@
     "obsidian/attachments/Image_2026-04-22_15-20-04_ctzzoibh.bx1.png",
     "obsidian/attachments/Image_2026-04-22_15-18-28_dtxhdr1k.kd4.png",
     "obsidian/attachments/Screenshot_2026-04-22-14-20-38-62_9e8df3d0c7c1f50248b6ee043a653d26.jpg",
-    "obsidian/attachments/Image_2026-04-22_14-18-55_c22qksad.ffy.png",
-    "_posts/n2026-04-18-ykb.md",
-    "_posts/2026-04-21-frida.md",
     "_posts/2026-03-15-练习动态调试.md",
     "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md",
     "_posts/2026-03-18-更新adb-tcp模块实现临时关闭即时生效功能.md",
