@@ -166,80 +166,24 @@
             }
           },
           {
-            "id": "2e8974aa8e235750",
+            "id": "a82f368c57327fc9",
             "type": "leaf",
             "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
-          },
-          {
-            "id": "ed1fa2f7f46a008a",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
-          },
-          {
-            "id": "4eabe2011916ebdd",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
-          },
-          {
-            "id": "e96e7a4551dfca94",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
-          },
-          {
-            "id": "79e607bac69716e5",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
-          },
-          {
-            "id": "698a8e557ad60057",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
-          },
-          {
-            "id": "a76c9eb3e9472cb0",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
+              "type": "file-properties",
+              "state": {
+                "file": "_posts/2026-04-21-frida.md"
+              },
+              "icon": "lucide-info",
+              "title": "2026-04-21-frida的笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 201.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,21 +200,21 @@
   },
   "active": "1d373e8216db7000",
   "lastOpenFiles": [
-    "obsidian/attachments/Image_2026-04-22_13-55-07_eeueooqk.010.png",
-    "obsidian/attachments/Image_2026-04-22_13-43-28_fgn5pyqu.aia.png",
-    "obsidian/attachments/Image_2026-04-22_13-42-32_beto0odk.mr0.png",
-    "obsidian/attachments/Image_2026-04-22_13-36-46_c4lczbtg.d03.png",
-    "obsidian/attachments/Image_2026-04-22_13-35-49_c4y45lzj.gv4.png",
-    "obsidian/attachments/Image_2026-04-22_13-35-21_kx3v31sc.am3.png",
+    "obsidian/attachments/Image_2026-04-22_15-47-26_c24s2nmo.hx3 1.png",
+    "obsidian/attachments/Image_2026-04-22_15-47-26_c24s2nmo.hx3.png",
+    "obsidian/attachments/Image_2026-04-22_15-45-15_rjat55co.2g5.png",
+    "obsidian/attachments/Image_2026-04-22_15-34-29_v00vvpi2.0tl.png",
+    "obsidian/attachments/Image_2026-04-22_15-29-40_pm3wxrpc.b0a.png",
+    "obsidian/attachments/Image_2026-04-22_15-25-23_1ya3g0s5.p1w.png",
+    "obsidian/attachments/Image_2026-04-22_15-24-35_rdrtj5ou.240.png",
+    "obsidian/attachments/Image_2026-04-22_15-20-04_ctzzoibh.bx1.png",
+    "obsidian/attachments/Image_2026-04-22_15-18-28_dtxhdr1k.kd4.png",
+    "obsidian/attachments/Screenshot_2026-04-22-14-20-38-62_9e8df3d0c7c1f50248b6ee043a653d26.jpg",
+    "obsidian/attachments/Image_2026-04-22_14-18-55_c22qksad.ffy.png",
     "_posts/n2026-04-18-ykb.md",
     "_posts/2026-04-21-frida.md",
-    "obsidian/attachments/Image_2026-04-21_12-50-08_n2r2ooqk.pye.png",
-    "obsidian/attachments/Image_2026-04-21_12-48-41_uz01skls.c2j.png",
-    "obsidian/attachments/Pasted image 20260421124658.png",
-    "obsidian/attachments/Image_2026-04-21_11-57-04_q225vuab.ryd.png",
     "_posts/2026-03-15-练习动态调试.md",
     "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md",
-    "obsidian/attachments/Image_2026-04-21_10-37-19_hwx3vrb5.ckw.png",
     "_posts/2026-03-18-更新adb-tcp模块实现临时关闭即时生效功能.md",
     "_posts/2026-03-19-manual-root.md",
     "_posts/2026-03-08-集成obsidian.md",
