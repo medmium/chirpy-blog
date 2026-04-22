@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 459.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +197,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "f6e26eb1f0440ed5",
+  "active": "89d600b717a81e51",
   "lastOpenFiles": [
     "obsidian/attachments/Image_2026-04-22_16-20-16_54wj01qo.034.png",
     "_posts/n2026-04-18-ykb.md",
