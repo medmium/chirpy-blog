@@ -15,7 +15,7 @@
               "state": {
                 "file": "_posts/2026-04-21-frida.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2026-04-21-frida"
