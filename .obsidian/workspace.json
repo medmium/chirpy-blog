@@ -15,7 +15,7 @@
               "state": {
                 "file": "_posts/2026-04-21-frida.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "2026-04-21-frida"
@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,6 +199,8 @@
   },
   "active": "89d600b717a81e51",
   "lastOpenFiles": [
+    "obsidian/attachments/Image_2026-04-23_18-51-09_31fhtj0y.nc4.png",
+    "obsidian/attachments/Image_2026-04-23_18-46-24_vzv41dss.1qe.png",
     "obsidian/attachments/Image_2026-04-23_13-44-55_w20ljgla.gix.png",
     "obsidian/attachments/Image_2026-04-23_13-12-41_g2lkjayz.20l.png",
     "obsidian/attachments/Image_2026-04-23_13-11-47_udn3hgqz.vem.png",
@@ -210,8 +212,6 @@
     "obsidian/attachments/Image_2026-04-22_15-45-15_rjat55co.2g5.png",
     "obsidian/attachments/Image_2026-04-22_15-34-29_v00vvpi2.0tl.png",
     "obsidian/attachments/Image_2026-04-22_15-29-40_pm3wxrpc.b0a.png",
-    "obsidian/attachments/Image_2026-04-22_15-25-23_1ya3g0s5.p1w.png",
-    "obsidian/attachments/Image_2026-04-22_15-24-35_rdrtj5ou.240.png",
     "_posts/2026-03-15-练习动态调试.md",
     "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md",
     "_posts/2026-03-18-更新adb-tcp模块实现临时关闭即时生效功能.md",
