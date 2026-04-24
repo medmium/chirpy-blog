@@ -11,14 +11,12 @@
             "id": "89d600b717a81e51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_posts/2026-04-21-frida.md",
-                "mode": "source",
-                "source": false
+                "file": "obsidian/attachments/Screenshot_2026-04-18-12-00-20-29_04b303cf555c9e3da1a4572a7b0131b7.jpg"
               },
-              "icon": "lucide-file",
-              "title": "2026-04-21-frida"
+              "icon": "lucide-image",
+              "title": "Screenshot_2026-04-18-12-00-20-29_04b303cf555c9e3da1a4572a7b0131b7"
             }
           }
         ]
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2026-04-21-frida.md",
+                "file": "obsidian/attachments/Screenshot_2026-04-18-12-00-20-29_04b303cf555c9e3da1a4572a7b0131b7.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-21-frida 的大纲"
+              "title": "Screenshot_2026-04-18-12-00-20-29_04b303cf555c9e3da1a4572a7b0131b7 的大纲"
             }
           },
           {
@@ -199,20 +197,20 @@
   },
   "active": "89d600b717a81e51",
   "lastOpenFiles": [
-    "obsidian/attachments/Pasted image 20260424163326.png",
-    "obsidian/attachments/Pasted image 20260424163257.png",
-    "obsidian/attachments/Pasted image 20260424163213.png",
-    "obsidian/attachments/Pasted image 20260424162953.png",
-    "obsidian/attachments/Pasted image 20260424162916.png",
-    "obsidian/attachments/Pasted image 20260424162308.png",
-    "obsidian/attachments/Pasted image 20260424161948.png",
-    "obsidian/attachments/Pasted image 20260424154303.png",
-    "obsidian/attachments/Pasted image 20260424154204.png",
-    "obsidian/attachments/Pasted image 20260424153603.png",
-    "obsidian/attachments/Pasted image 20260424151621.png",
+    "obsidian/attachments/20260424163213.png",
+    "obsidian/attachments/20260424162916.png",
+    "obsidian/attachments/20260424162308.png",
+    "obsidian/attachments/20260424161948.png",
+    "obsidian/attachments/20260424154303.png",
+    "obsidian/attachments/20260424153603.png",
+    "obsidian/attachments/20260424151621.png",
+    "obsidian/attachments/20260424150651.png",
+    "obsidian/attachments/20260424144602.png",
+    "obsidian/attachments/20260424144207.png",
+    "obsidian/attachments/20260424144016.png",
+    "_posts/2026-04-21-frida.md",
     "_posts/2026-03-12-常用的adb命令.md",
     "_posts/2026-03-14-magisk模块开机自启动adbd.md",
-    "_posts/2026-04-21-frida.md",
     "_posts/n2026-04-18-ykb.md",
     "_posts/2026-03-15-练习动态调试.md",
     "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md",

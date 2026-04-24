@@ -4,5 +4,7 @@
   "obsidian-shellcommands",
   "sample-plugin",
   "obsidian-export-image",
-  "obsidian-image-toolkit"
+  "obsidian-image-toolkit",
+  "global-proxy",
+  "obsidian-paste-image-rename"
 ]
