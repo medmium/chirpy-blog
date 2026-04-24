@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 418.5,
+    "collapsed": true
   },
   "right": {
     "id": "98d866a3c6c16228",
@@ -182,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 476.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,6 +201,10 @@
   },
   "active": "47ca145c3158061e",
   "lastOpenFiles": [
+    "obsidian/attachments/2026-04-21-frida-1.png",
+    "obsidian/attachments/2026-04-21-frida.png",
+    "obsidian/attachments/2026-04-21-frida.png",
+    "obsidian/attachments/2026-04-21-frida.png",
     "_posts/n2026-04-18-ykb.md",
     "obsidian/attachments/Screenshot_2026-04-18-12-00-20-29_04b303cf555c9e3da1a4572a7b0131b7.jpg",
     "obsidian/attachments/20260424163213.png",
@@ -207,9 +213,6 @@
     "obsidian/attachments/20260424161948.png",
     "obsidian/attachments/20260424154303.png",
     "obsidian/attachments/20260424153603.png",
-    "obsidian/attachments/20260424151621.png",
-    "obsidian/attachments/20260424150651.png",
-    "obsidian/attachments/20260424144602.png",
     "_posts/2026-04-21-frida.md",
     "_posts/2026-03-12-常用的adb命令.md",
     "_posts/2026-03-14-magisk模块开机自启动adbd.md",
