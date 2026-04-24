@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4eb587424f3c1dd1",
+        "id": "bf1981b66fc27dc1",
         "type": "tabs",
         "children": [
           {
-            "id": "89d600b717a81e51",
+            "id": "47ca145c3158061e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "obsidian/attachments/Screenshot_2026-04-18-12-00-20-29_04b303cf555c9e3da1a4572a7b0131b7.jpg"
+                "file": "_posts/2026-04-21-frida.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot_2026-04-18-12-00-20-29_04b303cf555c9e3da1a4572a7b0131b7"
+              "icon": "lucide-file",
+              "title": "2026-04-21-frida"
             }
           }
         ]
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/attachments/Screenshot_2026-04-18-12-00-20-29_04b303cf555c9e3da1a4572a7b0131b7.jpg",
+                "file": "_posts/2026-04-21-frida.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Screenshot_2026-04-18-12-00-20-29_04b303cf555c9e3da1a4572a7b0131b7 的大纲"
+              "title": "2026-04-21-frida 的大纲"
             }
           },
           {
@@ -195,8 +197,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "89d600b717a81e51",
+  "active": "47ca145c3158061e",
   "lastOpenFiles": [
+    "_posts/n2026-04-18-ykb.md",
+    "obsidian/attachments/Screenshot_2026-04-18-12-00-20-29_04b303cf555c9e3da1a4572a7b0131b7.jpg",
     "obsidian/attachments/20260424163213.png",
     "obsidian/attachments/20260424162916.png",
     "obsidian/attachments/20260424162308.png",
@@ -206,12 +210,9 @@
     "obsidian/attachments/20260424151621.png",
     "obsidian/attachments/20260424150651.png",
     "obsidian/attachments/20260424144602.png",
-    "obsidian/attachments/20260424144207.png",
-    "obsidian/attachments/20260424144016.png",
     "_posts/2026-04-21-frida.md",
     "_posts/2026-03-12-常用的adb命令.md",
     "_posts/2026-03-14-magisk模块开机自启动adbd.md",
-    "_posts/n2026-04-18-ykb.md",
     "_posts/2026-03-15-练习动态调试.md",
     "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md",
     "_posts/2026-03-18-更新adb-tcp模块实现临时关闭即时生效功能.md",
