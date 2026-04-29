@@ -11,14 +11,10 @@
             "id": "47ca145c3158061e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2026-04-21-frida.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-04-21-frida"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5,
-    "collapsed": true
+    "width": 418.5
   },
   "right": {
     "id": "98d866a3c6c16228",
@@ -201,6 +196,9 @@
   },
   "active": "47ca145c3158061e",
   "lastOpenFiles": [
+    "_posts/n2026-04-29-论文阅读记录.md",
+    "obsidian/attachments/2025 Circulation-Phenotypic Selectivity of Artificial Intelligence-enhanced Electrocardiography in Cardiovascular Diagnosis and Risk Prediction.pdf",
+    "_posts/2026-04-21-frida.md",
     "obsidian/attachments/Magisk Delta Kitsune 27.001 Canary.apk",
     "obsidian/attachments/2026-04-21-frida-36.png",
     "obsidian/attachments/2026-04-21-frida-35.png",
@@ -213,7 +211,6 @@
     "obsidian/attachments/2026-04-21-frida-28.png",
     "obsidian/attachments/2026-04-21-frida-27.png",
     "_posts/n2026-04-18-ykb.md",
-    "_posts/2026-04-21-frida.md",
     "_posts/2026-03-12-常用的adb命令.md",
     "_posts/2026-03-14-magisk模块开机自启动adbd.md",
     "_posts/2026-03-15-练习动态调试.md",
@@ -241,11 +238,8 @@
     "_posts/().md",
     "obsidian/attachments/adb_tcp.zip",
     "obsidian/attachments/adb_tcp 1.zip",
-    "obsidian/attachments/4kernel_split_patch_0000_tail_head.zip",
     "obsidian/attachments/Image_2026-03-15_20-33-38_e4zpm4uw.4q2.png.md",
-    "obsidian/attachments/kernel-ranchu.zip",
     "_posts/交叉编译.md",
-    "_posts/2026-03-07-gradle.md",
-    "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md"
+    "_posts/2026-03-07-gradle.md"
   ]
 }
