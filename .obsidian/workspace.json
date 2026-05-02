@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bf1981b66fc27dc1",
+        "id": "69c8919de01a4df7",
         "type": "tabs",
         "children": [
           {
-            "id": "47ca145c3158061e",
+            "id": "86e94648760f0609",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-04-21-frida.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-04-21-frida"
             }
           }
         ]
@@ -194,8 +198,14 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "47ca145c3158061e",
+  "active": "86e94648760f0609",
   "lastOpenFiles": [
+    "obsidian/attachments/delete.txt",
+    "obsidian/attachments/Image_2026-05-02_12-03-58_ootggu3k.tay.png",
+    "_posts/n2026-04-18-ykb.md",
+    "_posts/n2026-04-29-记录.md",
+    "_posts/2026-04-30-研究方案模板大纲.md",
+    "_posts/未命名.md",
     "_posts/n2026-04-29-论文阅读记录.md",
     "obsidian/attachments/2025 Circulation-Phenotypic Selectivity of Artificial Intelligence-enhanced Electrocardiography in Cardiovascular Diagnosis and Risk Prediction.pdf",
     "_posts/2026-04-21-frida.md",
@@ -209,8 +219,6 @@
     "obsidian/attachments/2026-04-21-frida-30.png",
     "obsidian/attachments/2026-04-21-frida-29.png",
     "obsidian/attachments/2026-04-21-frida-28.png",
-    "obsidian/attachments/2026-04-21-frida-27.png",
-    "_posts/n2026-04-18-ykb.md",
     "_posts/2026-03-12-常用的adb命令.md",
     "_posts/2026-03-14-magisk模块开机自启动adbd.md",
     "_posts/2026-03-15-练习动态调试.md",
@@ -237,9 +245,6 @@
     "_posts/2026-03-17-一加可禁用的预装app.md",
     "_posts/().md",
     "obsidian/attachments/adb_tcp.zip",
-    "obsidian/attachments/adb_tcp 1.zip",
-    "obsidian/attachments/Image_2026-03-15_20-33-38_e4zpm4uw.4q2.png.md",
-    "_posts/交叉编译.md",
-    "_posts/2026-03-07-gradle.md"
+    "obsidian/attachments/adb_tcp 1.zip"
   ]
 }
