@@ -1,0 +1,9 @@
+{
+	"id": "duplicate-line-up-down",
+	"name": "Duplicate Line Up/Down",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Duplicate the current line or selection upward or downward.",
+	"author": "ando-s",
+	"isDesktopOnly": false
+}

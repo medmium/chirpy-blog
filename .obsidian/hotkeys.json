@@ -58,5 +58,14 @@
       ],
       "key": "P"
     }
-  ]
+  ],
+  "duplicate-line-up-down:duplicate-line-down": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": []
 }
