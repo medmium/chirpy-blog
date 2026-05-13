@@ -20,7 +20,7 @@ adb远控用到的Magsik插件
 - [SSH for Magisk](https://gitlab.com/d4rcm4rc/MagiskSSH_releases/-/blob/main/magisk_ssh_v0.26.zip?ref_type=heads)
 - vim for Android: http://bnsmb.de/files/public/Android/vim_9.1.zip
 
-推荐收藏大佬的网站:http://bnsmb.de/
+推荐收藏大佬的网站: http://bnsmb.de/files/public/Android/MagiskModules/
 
 可能会出现的问题:
 手机静置一段时间后, adb连接不上, 但ssh, frp能连接上. 本地或远程SSH连上后, 依次执行: 
