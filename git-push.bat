@@ -44,7 +44,3 @@ echo.
 echo Done!
 echo Closing in %TIME_LENGTH% seconds...
 timeout /t %TIME_LENGTH% /nobreak >nul
-echo.
-echo Done!
-echo Closing in %TIME_LENGTH% seconds...
-timeout /t %TIME_LENGTH% /nobreak >nul
