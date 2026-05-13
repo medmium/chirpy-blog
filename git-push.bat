@@ -39,7 +39,11 @@ echo.
 echo [3/3] Pushing to remote...
 call git push
 
- %TIME_LENGTH%=10
+set TIME_LENGTH=10
+echo.
+echo Done!
+echo Closing in %TIME_LENGTH% seconds...
+timeout /t %TIME_LENGTH% /nobreak >nul
 echo.
 echo Done!
 echo Closing in %TIME_LENGTH% seconds...
