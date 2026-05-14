@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5,
-    "collapsed": true
+    "width": 419.5
   },
   "right": {
     "id": "98d866a3c6c16228",
@@ -89,6 +88,16 @@
         "id": "5302e6e6aaedafa2",
         "type": "tabs",
         "children": [
+          {
+            "id": "07a1c00e52f3dbc5",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
           {
             "id": "490642f206cc9f7a",
             "type": "leaf",
@@ -152,21 +161,6 @@
             }
           },
           {
-            "id": "f6e26eb1f0440ed5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "_posts/2026-05-13-论文阅读.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "2026-05-13-论文阅读 的大纲"
-            }
-          },
-          {
             "id": "a82f368c57327fc9",
             "type": "leaf",
             "state": {
@@ -178,13 +172,11 @@
               "title": "2026-04-21-frida的笔记属性"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
-    "collapsed": true
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
