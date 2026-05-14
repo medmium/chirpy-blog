@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-05-13-论文阅读.md",
+                "file": "_posts/2026-04-22-论文阅读.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-13-论文阅读"
+              "title": "2026-04-22-论文阅读"
             }
           }
         ]
@@ -193,13 +193,14 @@
   },
   "active": "86e94648760f0609",
   "lastOpenFiles": [
+    "obsidian/attachments/2025 JACC-Ensemble Deep Learning Algorithm for Structural Heart Disease Screening Using Electrocardiographic Images PRESENT SHD.pdf",
+    "_posts/2026-04-22-论文阅读.md",
+    "obsidian/attachments/mmc2.pdf",
     "_posts/n2026-04-18-ykb.md",
-    "_posts/2026-05-13-论文阅读.md",
     "_posts/2026-05-09-TODO.md",
     "_posts/2026-05-09-ART.md",
     "obsidian/attachments/2025 npj digital medicine SPEED-TR- a self-distilled and pre-trained transformer model for enhanced ECG detection of tricuspid regurgitation.pdf",
     "obsidian/attachments/2025 Nature Detecting structural heart disease from electrocardiograms using AI.pdf",
-    "obsidian/attachments/2025 JACC-Ensemble Deep Learning Algorithm for Structural Heart Disease Screening Using Electrocardiographic Images PRESENT SHD.pdf",
     "obsidian/attachments/2025 Circulation-Phenotypic Selectivity of Artificial Intelligence-enhanced Electrocardiography in Cardiovascular Diagnosis and Risk Prediction.pdf",
     "_posts/2026-03-15-练习动态调试.md",
     "_posts/2026-04-21-frida.md",
@@ -236,7 +237,6 @@
     "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
     "_posts/2026-03-09-创建jekyll插件以自动转换MP4.md",
     "assets/img/favicons/favicon copy.ico",
-    "assets/img/favicons/favicon-96x96.ico",
-    "assets/img/favicons/favicon.ico"
+    "assets/img/favicons/favicon-96x96.ico"
   ]
 }
