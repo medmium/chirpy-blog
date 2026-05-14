@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-04-28-论文阅读.md",
+                "file": "_posts/2026-05-14-综述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-28-论文阅读"
+              "title": "2026-05-14-综述"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5,
-    "collapsed": true
+    "width": 419.5
   },
   "right": {
     "id": "98d866a3c6c16228",
@@ -194,14 +193,15 @@
   },
   "active": "86e94648760f0609",
   "lastOpenFiles": [
-    "obsidian/attachments/gr4.jpg",
     "_posts/2026-05-09-TODO.md",
+    "_posts/2026-05-14-综述.md",
+    "_posts/2026-04-28-论文阅读.md",
+    "obsidian/attachments/gr4.jpg",
     "_posts/2026-05-14.md",
     "_posts/2026-05-14 2.md",
     "_posts/2026-05-14 1.md",
     "_posts/2026-05-14 3.md",
     "README.md",
-    "_posts/2026-04-28-论文阅读.md",
     "obsidian/attachments/mmc2.pdf.md",
     "obsidian/attachments/2025 JACC-Ensemble Deep Learning Algorithm for Structural Heart Disease Screening Using Electrocardiographic Images PRESENT SHD.pdf",
     "obsidian/attachments/mmc2.pdf",
@@ -237,7 +237,6 @@
     "obsidian/attachments/Magisk Delta Kitsune 27.001 Canary.apk",
     "obsidian/attachments/2026-04-21-frida-36.png",
     "obsidian/attachments/2026-04-21-frida-35.png",
-    "obsidian/attachments/2026-04-21-frida-34.png",
     "assets/img/favicons/favicon copy.ico",
     "assets/img/favicons/favicon-96x96.ico"
   ]
