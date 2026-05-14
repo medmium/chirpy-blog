@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 419.5,
+    "collapsed": true
   },
   "right": {
     "id": "98d866a3c6c16228",
@@ -193,12 +194,18 @@
   },
   "active": "86e94648760f0609",
   "lastOpenFiles": [
-    "obsidian/attachments/mmc2.pdf.md",
+    "obsidian/attachments/gr4.jpg",
+    "_posts/2026-05-09-TODO.md",
+    "_posts/2026-05-14.md",
+    "_posts/2026-05-14 2.md",
+    "_posts/2026-05-14 1.md",
+    "_posts/2026-05-14 3.md",
+    "README.md",
     "_posts/2026-04-22-论文阅读.md",
+    "obsidian/attachments/mmc2.pdf.md",
     "obsidian/attachments/2025 JACC-Ensemble Deep Learning Algorithm for Structural Heart Disease Screening Using Electrocardiographic Images PRESENT SHD.pdf",
     "obsidian/attachments/mmc2.pdf",
     "_posts/n2026-04-18-ykb.md",
-    "_posts/2026-05-09-TODO.md",
     "_posts/2026-05-09-ART.md",
     "obsidian/attachments/2025 npj digital medicine SPEED-TR- a self-distilled and pre-trained transformer model for enhanced ECG detection of tricuspid regurgitation.pdf",
     "obsidian/attachments/2025 Nature Detecting structural heart disease from electrocardiograms using AI.pdf",
@@ -227,16 +234,10 @@
     "obsidian/attachments/delete.txt",
     "obsidian/attachments/Image_2026-05-02_12-03-58_ootggu3k.tay.png",
     "_posts/n2026-04-29-记录.md",
-    "_posts/2026-04-30-研究方案模板大纲.md",
-    "_posts/未命名.md",
-    "_posts/n2026-04-29-论文阅读记录.md",
     "obsidian/attachments/Magisk Delta Kitsune 27.001 Canary.apk",
     "obsidian/attachments/2026-04-21-frida-36.png",
     "obsidian/attachments/2026-04-21-frida-35.png",
     "obsidian/attachments/2026-04-21-frida-34.png",
-    "_posts/2026-03-08-集成obsidian.md",
-    "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
-    "_posts/2026-03-09-创建jekyll插件以自动转换MP4.md",
     "assets/img/favicons/favicon copy.ico",
     "assets/img/favicons/favicon-96x96.ico"
   ]

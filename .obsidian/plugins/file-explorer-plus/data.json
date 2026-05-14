@@ -144,6 +144,13 @@
         "type": "FILES",
         "pattern": "CNAME",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "_config.yml",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
