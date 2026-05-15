@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "4d2716b804534e06",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "obsidian/attachments/人工智能心电图的应用进展_王福军 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "人工智能心电图的应用进展_王福军 1"
+            }
+          },
+          {
             "id": "dd5c9ac30dbed68d",
             "type": "leaf",
             "state": {
@@ -207,15 +219,16 @@
   },
   "active": "86e94648760f0609",
   "lastOpenFiles": [
+    "obsidian/attachments/人工智能心电图的应用进展_王福军 1.pdf",
+    "_posts/2026-05-14-review.md",
+    "obsidian/attachments/人工智能在心电图智能分析中的应用研究进展_段玉彩.pdf",
+    "_posts/2026-04-21-frida.md",
     "obsidian/attachments/人工智能辅助心电分析用于心血管疾病诊断的研究进展_黄晓红.pdf",
     "obsidian/attachments/基于心电图信号的人工智能自动诊断在心血管疾病中的应用_陈云帆.pdf",
-    "obsidian/attachments/人工智能心电图的应用进展_王福军 1.pdf",
     "obsidian/attachments/人工智能心电图的应用进展_王福军.pdf",
-    "obsidian/attachments/人工智能在心电图智能分析中的应用研究进展_段玉彩.pdf",
     "obsidian/attachments/2026-05-14-review-1.png",
     "obsidian/attachments/2025 Nature Detecting structural heart disease from electrocardiograms using AI.pdf",
     "_posts/2026-04-28-论文阅读.md",
-    "_posts/2026-05-14-review.md",
     "obsidian/attachments/2026-05-14-review.png",
     "obsidian/attachments/Screenshot_2026-05-15-15-51-24-57_e39d2c7de19156b0683cd93e8735f348.jpg",
     "obsidian/attachments/Image_2026-05-15_14-26-23_xkqw2hrh.oge.png",
@@ -229,7 +242,6 @@
     "_posts/2026-04-18-ykb.md",
     "_posts/2026-05-09-TODO.md",
     "_posts/2026-03-18-magisk-modules-for-remote-adb-control.md",
-    "_posts/2026-04-21-frida.md",
     "_posts/2026-05-09-ART.md",
     "_posts/2026-03-19-manual-root.md",
     "_posts/2026-03-18-更新adb-tcp模块实现临时关闭即时生效功能.md",
@@ -251,7 +263,6 @@
     "obsidian/attachments/2025 Circulation-Phenotypic Selectivity of Artificial Intelligence-enhanced Electrocardiography in Cardiovascular Diagnosis and Risk Prediction.pdf",
     "obsidian/attachments/2025 JACC-Ensemble Deep Learning Algorithm for Structural Heart Disease Screening Using Electrocardiographic Images PRESENT SHD.pdf",
     "obsidian/attachments/mmc2.pdf",
-    "obsidian/attachments/2025 npj digital medicine SPEED-TR- a self-distilled and pre-trained transformer model for enhanced ECG detection of tricuspid regurgitation.pdf",
-    "obsidian/attachments/cmp.txt"
+    "obsidian/attachments/2025 npj digital medicine SPEED-TR- a self-distilled and pre-trained transformer model for enhanced ECG detection of tricuspid regurgitation.pdf"
   ]
 }
