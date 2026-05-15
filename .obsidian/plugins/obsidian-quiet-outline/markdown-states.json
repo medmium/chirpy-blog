@@ -141,44 +141,352 @@
     "expandedKeys": []
   },
   "_posts/2026-04-28-论文阅读.md": {
-    "scroll": 492.391259709994,
+    "scroll": 541.3506660461426,
     "cursor": {
       "from": {
-        "line": 347,
+        "line": 551,
+        "ch": 251
+      },
+      "to": {
+        "line": 551,
+        "ch": 3
+      }
+    },
+    "expandedKeys": [
+      "item-2-49",
+      "item-2-0",
+      "item-2-24",
+      "item-2-62"
+    ]
+  },
+  "_posts/2026-05-14-综述.md": {
+    "scroll": 48.111721989542154,
+    "cursor": {
+      "from": {
+        "line": 20,
         "ch": 0
       },
       "to": {
-        "line": 347,
+        "line": 20,
         "ch": 0
       }
     },
     "expandedKeys": [
-      "item-3-32",
-      "item-2-24",
-      "item-3-7",
-      "item-3-15",
-      "item-3-25",
-      "item-3-42",
-      "item-3-1",
-      "item-2-62",
-      "item-3-64",
-      "item-3-70",
-      "item-2-49",
       "item-2-0"
     ]
   },
-  "_posts/2026-05-14-综述.md": {
+  "_posts/2026-05-09-ART.md": {
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 15,
-        "ch": 12
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 15,
-        "ch": 12
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
+  },
+  "_posts/2026-05-14-review.md": {
+    "scroll": 57.918424586742,
+    "cursor": {
+      "from": {
+        "line": 65,
+        "ch": 0
+      },
+      "to": {
+        "line": 65,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-0"
+    ]
+  },
+  "_posts/2026-03-13-v4l2-ctl 交叉编译但实机无用.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-12-frpc_for_magisk.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-12-常用的adb命令.md": {
+    "scroll": 103.68254325503395,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-09-修复附件链接为绝对路径.md": {
+    "scroll": 236.09177307855515,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-09-让chirpy支持下载附件功能.md": {
+    "scroll": 307.1041584923154,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-09-创建jekyll插件以自动转换MP4.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-08-进一步完善obsidian提高写作效率.md": {
+    "scroll": 82.47568085080101,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-3-0",
+      "item-4-2"
+    ]
+  },
+  "_posts/2026-03-08-集成obsidian.md": {
+    "scroll": 30.936508360363188,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-07-gradle.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 10
+      },
+      "to": {
+        "line": 7,
+        "ch": 10
+      }
+    },
+    "expandedKeys": [
+      "item-2-0"
+    ]
+  },
+  "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-14-magisk模块开机自启动adbd.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-15-练习动态调试.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-15-android模拟器内核修改.md": {
+    "scroll": 317.1299981667688,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-17-一加可禁用的预装app.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-18-更新adb-tcp模块实现临时关闭即时生效功能.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-18-magisk-modules-for-remote-adb-control.md": {
+    "scroll": 174.47321773710706,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-19-manual-root.md": {
+    "scroll": 31.325694386164347,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-04-21-frida.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-3-3",
+      "item-3-14",
+      "item-3-37",
+      "item-3-44",
+      "item-4-65",
+      "item-3-64",
+      "item-3-77",
+      "item-2-73",
+      "item-2-97",
+      "item-3-108",
+      "item-3-115",
+      "item-3-0"
+    ]
   }
 }
