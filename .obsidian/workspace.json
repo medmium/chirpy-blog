@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5,
-    "collapsed": true
+    "width": 419.5
   },
   "right": {
     "id": "98d866a3c6c16228",
@@ -194,12 +193,13 @@
   },
   "active": "86e94648760f0609",
   "lastOpenFiles": [
+    "_posts/2026-05-15-domain-security.md",
+    "_posts/2026-05-14-review.md",
     "obsidian/attachments/Image_2026-05-16_12-50-12_oipr5uyt.uu3.png",
     "obsidian/attachments/Image_2026-05-16_11-59-03_rm1d0l3o.zdu 1.png",
     "obsidian/attachments/Image_2026-05-16_11-59-03_rm1d0l3o.zdu.png",
     "obsidian/attachments/Image_2026-05-16_11-30-21_4i4hyqmj.2qj.png",
     "_posts/2026-04-28-论文阅读.md",
-    "_posts/2026-05-14-review.md",
     "obsidian/attachments/基于心电图信号的人工智能自动诊断在心血管疾病中的应用_陈云帆.pdf",
     "obsidian/attachments/人工智能辅助心电分析用于心血管疾病诊断的研究进展_黄晓红.pdf",
     "obsidian/attachments/Image_2026-05-15_17-29-28_nc5n34ue.3rm.png",
@@ -213,8 +213,6 @@
     "obsidian/attachments/Screenshot_2026-05-15-15-51-24-57_e39d2c7de19156b0683cd93e8735f348.jpg",
     "obsidian/attachments/Image_2026-05-15_14-26-23_xkqw2hrh.oge.png",
     "obsidian/attachments/Image_2026-05-15_14-21-29_lesmtarm.kpu.png",
-    "obsidian/attachments/Image_2026-05-15_14-14-39_nhpaar5x.ipi.png",
-    "_posts/2026-05-15-domain-security.md",
     "_posts/2026-04-18-ykb.md",
     "_posts/2026-05-09-TODO.md",
     "_posts/2026-03-18-magisk-modules-for-remote-adb-control.md",

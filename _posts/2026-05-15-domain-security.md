@@ -10,12 +10,17 @@ math: false
 mermaid: false
 
 ---
-本站主域名`https://medmi.cn` 原本托管在`cloudflare`上, 根域名直接指向github服务器`185.199.108.153`. 没有开启代理. 然后就被DNS污染了...
+
+本站主域名`https://medmi.cn` 原本托管在`cloudflare`上, 根域名直接指向github服务器`185.199.108.153`. 没有开启代理. 然后就被类似于`DNS污染`了...
+
 ![](obsidian/attachments/2026-05-15-domain-security.png)
+
 看样子是一个印尼博彩网站, 我叼尼玛!!!!!!!!!!!!!!!!!!!!!!
 
 果断删除指向github的代理!!!
+
 ![](obsidian/attachments/Image_2026-05-15_13-22-50_syv2v41x.jci.png)
 
 终于恢复正常
+
 ![](obsidian/attachments/Image_2026-05-15_13-23-30_dk20cm5p.ukb.png)

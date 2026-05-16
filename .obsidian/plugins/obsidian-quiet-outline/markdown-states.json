@@ -192,15 +192,15 @@
     "expandedKeys": []
   },
   "_posts/2026-05-14-review.md": {
-    "scroll": 463.720756090436,
+    "scroll": 470.8431837265424,
     "cursor": {
       "from": {
-        "line": 477,
-        "ch": 221
+        "line": 473,
+        "ch": 114
       },
       "to": {
-        "line": 477,
-        "ch": 221
+        "line": 473,
+        "ch": 114
       }
     },
     "expandedKeys": [
@@ -496,15 +496,15 @@
     ]
   },
   "_posts/2026-05-15-domain-security.md": {
-    "scroll": 20.09123832433307,
+    "scroll": 15.839574075275,
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 84
+        "line": 13,
+        "ch": 23
       },
       "to": {
-        "line": 6,
-        "ch": 84
+        "line": 13,
+        "ch": 23
       }
     },
     "expandedKeys": []
