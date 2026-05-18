@@ -11,6 +11,18 @@
             "id": "86e94648760f0609",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "obsidian/attachments/人工智能在心电图智能分析中的应用研究进展_段玉彩.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "人工智能在心电图智能分析中的应用研究进展_段玉彩"
+            }
+          },
+          {
+            "id": "f1a9d2bc17110ecc",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "_posts/2026-05-14-review.md",
@@ -21,7 +33,8 @@
               "title": "2026-05-14-review"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 331.5
   },
   "right": {
     "id": "98d866a3c6c16228",
@@ -176,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 521.5
+    "width": 492.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,47 +204,9 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "floating": {
-    "id": "46c979b7a702913d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5831db38a775a3db",
-        "type": "window",
-        "children": [
-          {
-            "id": "32ed3e25face9b66",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cc147b0ec548661b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "_posts/2026-05-14-review.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-05-14-review"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1057,
-        "y": 21,
-        "width": 723,
-        "height": 852,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "cc147b0ec548661b",
+  "active": "f1a9d2bc17110ecc",
   "lastOpenFiles": [
+    "obsidian/attachments/人工智能在心电图智能分析中的应用研究进展_段玉彩.pdf",
     "_posts/2026-05-14-review.md",
     "obsidian/attachments/Image_2026-05-16_14-24-15_j2rb012z.pf2.png",
     "obsidian/attachments/Image_2026-05-16_14-10-54_0zg5dhx1.h1n.png",
@@ -246,7 +221,6 @@
     "obsidian/attachments/人工智能辅助心电分析用于心血管疾病诊断的研究进展_黄晓红.pdf",
     "obsidian/attachments/Image_2026-05-15_17-29-28_nc5n34ue.3rm.png",
     "obsidian/attachments/人工智能心电图的应用进展_王福军 1.pdf",
-    "obsidian/attachments/人工智能在心电图智能分析中的应用研究进展_段玉彩.pdf",
     "_posts/2026-04-21-frida.md",
     "obsidian/attachments/人工智能心电图的应用进展_王福军.pdf",
     "obsidian/attachments/2026-05-14-review-1.png",
