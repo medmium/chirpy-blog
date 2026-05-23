@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6552c12bac99db04",
+            "id": "45255ac7e6cb3aa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -191,10 +191,12 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "6552c12bac99db04",
+  "active": "45255ac7e6cb3aa5",
   "lastOpenFiles": [
-    "obsidian/attachments/brown-et-al-2026-prediction-of-pregnancy-related-cardiovascular-outcomes-using-electrocardiogram-based-deep-learning.pdf",
+    "obsidian/attachments/Image_2026-05-23_23-04-55_1bdpfk5l.ldq.png",
+    "_posts/delete.md",
     "_posts/2026-05-14-review.md",
+    "obsidian/attachments/brown-et-al-2026-prediction-of-pregnancy-related-cardiovascular-outcomes-using-electrocardiogram-based-deep-learning.pdf",
     "obsidian/attachments/brown-et-al-2026-prediction-of-pregnancy-related-cardiovascular-outcomes-using-electrocardiogram-based-deep-learning 1.pdf",
     "_posts/2026-03-17-一加可禁用的预装app.md",
     "_posts/2026-03-19-manual-root.md",
@@ -236,7 +238,6 @@
     "_posts/2026-03-07-gradle.md",
     "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md",
     "_posts/2026-03-08-集成obsidian.md",
-    "_posts/2026-03-08-进一步完善obsidian提高写作效率.md",
     "obsidian/attachments/2025 Circulation-Phenotypic Selectivity of Artificial Intelligence-enhanced Electrocardiography in Cardiovascular Diagnosis and Risk Prediction.pdf"
   ]
 }
