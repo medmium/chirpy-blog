@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-05-14-review.md",
+                "file": "_posts/2026-05-27-clion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-14-review"
+              "title": "2026-05-27-clion"
             }
           }
         ]
@@ -193,11 +193,16 @@
   },
   "active": "45255ac7e6cb3aa5",
   "lastOpenFiles": [
+    "obsidian/attachments/Image_2026-05-27_10-46-46_ca1v1xc0.vwb.png",
+    "obsidian/attachments/Image_2026-05-27_10-46-09_hkpcyax5.egi.png",
+    "obsidian/attachments/Image_2026-05-27_10-42-55_y1tmlo1t.41j.png",
+    "obsidian/attachments/Image_2026-05-27_10-38-08_qzhd2kym.wbf.png",
+    "_posts/2026-05-14-review.md",
+    "_posts/2026-05-27-clion.md",
     "obsidian/attachments/Image_2026-05-24_07-44-29_rfezlr0k.roy 1.png",
     "obsidian/attachments/Image_2026-05-24_07-44-29_rfezlr0k.roy.png",
     "obsidian/attachments/Image_2026-05-23_23-04-55_1bdpfk5l.ldq.png",
     "_posts/delete.md",
-    "_posts/2026-05-14-review.md",
     "obsidian/attachments/brown-et-al-2026-prediction-of-pregnancy-related-cardiovascular-outcomes-using-electrocardiogram-based-deep-learning.pdf",
     "obsidian/attachments/brown-et-al-2026-prediction-of-pregnancy-related-cardiovascular-outcomes-using-electrocardiogram-based-deep-learning 1.pdf",
     "_posts/2026-03-17-一加可禁用的预装app.md",
@@ -210,10 +215,6 @@
     "obsidian/attachments/Image_2026-05-16_14-10-54_0zg5dhx1.h1n.png",
     "obsidian/attachments/Image_2026-05-16_13-28-10_wnwuv0cc.spo.png",
     "_posts/2026-05-15-domain-security.md",
-    "obsidian/attachments/Image_2026-05-16_12-50-12_oipr5uyt.uu3.png",
-    "obsidian/attachments/Image_2026-05-16_11-59-03_rm1d0l3o.zdu 1.png",
-    "obsidian/attachments/Image_2026-05-16_11-59-03_rm1d0l3o.zdu.png",
-    "obsidian/attachments/Image_2026-05-16_11-30-21_4i4hyqmj.2qj.png",
     "_posts/2026-04-28-论文阅读.md",
     "obsidian/attachments/基于心电图信号的人工智能自动诊断在心血管疾病中的应用_陈云帆.pdf",
     "obsidian/attachments/人工智能辅助心电分析用于心血管疾病诊断的研究进展_黄晓红.pdf",
@@ -237,7 +238,6 @@
     "_posts/2026-03-09-让chirpy支持下载附件功能.md",
     "_posts/2026-03-07-gradle.md",
     "_posts/2026-03-06-记录初次配置obsidian和templater脚本.md",
-    "_posts/2026-03-08-集成obsidian.md",
     "obsidian/attachments/2025 Circulation-Phenotypic Selectivity of Artificial Intelligence-enhanced Electrocardiography in Cardiovascular Diagnosis and Risk Prediction.pdf"
   ]
 }
