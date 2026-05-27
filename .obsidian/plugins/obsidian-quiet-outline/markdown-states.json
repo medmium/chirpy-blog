@@ -192,14 +192,14 @@
     "expandedKeys": []
   },
   "_posts/2026-05-14-review.md": {
-    "scroll": 6212.35027944283,
+    "scroll": 6191.86990667309,
     "cursor": {
       "from": {
-        "line": 6214,
+        "line": 6202,
         "ch": 0
       },
       "to": {
-        "line": 6214,
+        "line": 6202,
         "ch": 0
       }
     },
@@ -498,7 +498,7 @@
     ]
   },
   "_posts/2026-05-15-domain-security.md": {
-    "scroll": 15.839574075275,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 13,
@@ -568,15 +568,15 @@
     "expandedKeys": []
   },
   "_posts/2026-05-27-clion.md": {
-    "scroll": 42.54672889975529,
+    "scroll": 62.51996053810561,
     "cursor": {
       "from": {
-        "line": 90,
-        "ch": 14
+        "line": 53,
+        "ch": 154
       },
       "to": {
-        "line": 90,
-        "ch": 14
+        "line": 53,
+        "ch": 154
       }
     },
     "expandedKeys": []
