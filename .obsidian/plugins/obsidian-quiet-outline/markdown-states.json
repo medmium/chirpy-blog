@@ -214,7 +214,7 @@
     ]
   },
   "_posts/2026-03-13-v4l2-ctl 交叉编译但实机无用.md": {
-    "scroll": 0,
+    "scroll": 31.027777274449665,
     "cursor": {
       "from": {
         "line": 0,
@@ -256,7 +256,7 @@
     "expandedKeys": []
   },
   "_posts/2026-03-09-修复附件链接为绝对路径.md": {
-    "scroll": 236.09177307855515,
+    "scroll": 235.67905916486467,
     "cursor": {
       "from": {
         "line": 0,
@@ -270,7 +270,7 @@
     "expandedKeys": []
   },
   "_posts/2026-03-09-让chirpy支持下载附件功能.md": {
-    "scroll": 307.1041584923154,
+    "scroll": 306.4374918256487,
     "cursor": {
       "from": {
         "line": 0,
@@ -359,7 +359,7 @@
     ]
   },
   "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md": {
-    "scroll": 0,
+    "scroll": 165.63491675967262,
     "cursor": {
       "from": {
         "line": 0,
@@ -373,7 +373,7 @@
     "expandedKeys": []
   },
   "_posts/2026-03-14-magisk模块开机自启动adbd.md": {
-    "scroll": 0,
+    "scroll": 48.33333287920271,
     "cursor": {
       "from": {
         "line": 0,
@@ -401,7 +401,7 @@
     "expandedKeys": []
   },
   "_posts/2026-03-15-android模拟器内核修改.md": {
-    "scroll": 317.1299981667688,
+    "scroll": 317.8195788762801,
     "cursor": {
       "from": {
         "line": 0,
@@ -443,7 +443,7 @@
     "expandedKeys": []
   },
   "_posts/2026-03-18-magisk-modules-for-remote-adb-control.md": {
-    "scroll": 173.4290631612142,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 192,
@@ -568,15 +568,15 @@
     "expandedKeys": []
   },
   "_posts/2026-05-27-clion.md": {
-    "scroll": 0,
+    "scroll": 42.54672889975529,
     "cursor": {
       "from": {
-        "line": 50,
-        "ch": 19
+        "line": 90,
+        "ch": 14
       },
       "to": {
-        "line": 50,
-        "ch": 19
+        "line": 90,
+        "ch": 14
       }
     },
     "expandedKeys": []
