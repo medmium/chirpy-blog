@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-05-27-clion.md",
+                "file": "_posts/2026-05-14-review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-27-clion"
+              "title": "2026-05-14-review"
             }
           }
         ]
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 520.5
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,13 +193,23 @@
   },
   "active": "802eda725b2709f6",
   "lastOpenFiles": [
+    "obsidian/attachments/人工智能在心电图领域的进展综述.docx",
+    "obsidian/attachments/2026-05-14-review-7.png",
+    "obsidian/attachments/人工智能在心电图智能分析中的应用研究进展_段玉彩.pdf",
     "_posts/2026-05-14-review.md",
-    "_posts/2026-05-15-domain-security.md",
+    "obsidian/attachments/Image_2026-06-09_13-06-39_sp0t4hcc.jup.png",
+    "obsidian/attachments/Image_2026-06-09_13-05-51_4xu234m3.gf4.png",
+    "obsidian/attachments/pubmed-Artificial-set.txt.nbib",
+    "obsidian/attachments/Image_2026-06-09_13-03-18_2x1f1b5h.0il.png",
+    "obsidian/attachments/Image_2026-06-09_13-02-36_enkbrltv.fgg.png",
+    "obsidian/attachments/2026-05-14-review-6.png",
+    "obsidian/attachments/Image_2026-06-09_12-53-26_bygjjf0l.gyy.png",
+    "obsidian/attachments/Image_2026-06-09_12-49-49_end4jlbj.xps.png",
+    "obsidian/attachments/2026-05-14-review-5.png",
+    "obsidian/attachments/Image_2026-06-01_17-05-06_dgfspomw.r4c.png",
+    "_posts/2026-05-09-ART.md",
     "_posts/2026-05-27-clion.md",
-    "obsidian/attachments/Screenshot_2026-05-27-11-30-47-14_84d3000e3f4017145260f7618db1d683.jpg",
-    "obsidian/attachments/Image_2026-05-27_11-28-34_fofmfulq.5li.png",
-    "obsidian/attachments/Image_2026-05-27_11-24-46_ufwp4dcw.iwe.png",
-    "obsidian/attachments/Image_2026-05-27_11-23-10_nn5uhbjy.lcv.png",
+    "_posts/2026-05-15-domain-security.md",
     "_posts/2026-03-18-magisk-modules-for-remote-adb-control.md",
     "_posts/2026-03-19-manual-root.md",
     "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md",
@@ -213,17 +223,10 @@
     "_posts/2026-03-17-一加可禁用的预装app.md",
     "_posts/2026-03-15-android模拟器内核修改.md",
     "_posts/2026-03-12-常用的adb命令.md",
-    "obsidian/attachments/Image_2026-05-27_10-46-46_ca1v1xc0.vwb.png",
-    "obsidian/attachments/Image_2026-05-27_10-46-09_hkpcyax5.egi.png",
-    "obsidian/attachments/Image_2026-05-27_10-42-55_y1tmlo1t.41j.png",
-    "obsidian/attachments/Image_2026-05-27_10-38-08_qzhd2kym.wbf.png",
-    "obsidian/attachments/Image_2026-05-24_07-44-29_rfezlr0k.roy 1.png",
-    "obsidian/attachments/Image_2026-05-24_07-44-29_rfezlr0k.roy.png",
     "_posts/delete.md",
     "obsidian/attachments/brown-et-al-2026-prediction-of-pregnancy-related-cardiovascular-outcomes-using-electrocardiogram-based-deep-learning.pdf",
     "obsidian/attachments/brown-et-al-2026-prediction-of-pregnancy-related-cardiovascular-outcomes-using-electrocardiogram-based-deep-learning 1.pdf",
     "_posts/().md",
-    "obsidian/attachments/人工智能在心电图智能分析中的应用研究进展_段玉彩.pdf",
     "obsidian/attachments/sharma-et-al-2026-artificial-intelligence-enhanced-electrocardiography-and-health-records-to-predict-cardiac-arrest.pdf",
     "_posts/2026-04-28-论文阅读.md",
     "obsidian/attachments/基于心电图信号的人工智能自动诊断在心血管疾病中的应用_陈云帆.pdf",
@@ -234,9 +237,7 @@
     "obsidian/attachments/2025 Nature Detecting structural heart disease from electrocardiograms using AI.pdf",
     "_posts/2026-04-18-ykb.md",
     "_posts/2026-05-09-TODO.md",
-    "_posts/2026-05-09-ART.md",
     "_posts/2026-03-15-练习动态调试.md",
-    "_posts/2026-03-07-gradle.md",
-    "obsidian/attachments/2025 Circulation-Phenotypic Selectivity of Artificial Intelligence-enhanced Electrocardiography in Cardiovascular Diagnosis and Risk Prediction.pdf"
+    "_posts/2026-03-07-gradle.md"
   ]
 }
