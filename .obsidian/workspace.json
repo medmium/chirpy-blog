@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b3149391a5e8d4d",
+        "id": "23978f6e18dfe403",
         "type": "tabs",
         "children": [
           {
-            "id": "802eda725b2709f6",
+            "id": "d66bb45e6201396b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "connect",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,21 +191,24 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "802eda725b2709f6",
+  "active": "d66bb45e6201396b",
   "lastOpenFiles": [
-    "obsidian/attachments/2026-05-14-review-53.png",
-    "obsidian/attachments/2026-05-14-review-52.png",
-    "obsidian/attachments/2026-05-14-review-51.png",
-    "obsidian/attachments/2026-05-14-review-50.png",
-    "obsidian/attachments/2026-05-14-review-49.png",
-    "obsidian/attachments/2026-05-14-review-48.png",
-    "obsidian/attachments/2026-05-14-review-47.png",
-    "obsidian/attachments/2026-05-14-review-46.png",
-    "obsidian/attachments/2026-05-14-review-45.png",
-    "obsidian/attachments/2026-05-14-review-44.png",
-    "obsidian/attachments/2026-05-14-review-43.png",
-    "_posts/().md",
+    "obsidian/attachments/2026-05-14-review-109.png",
+    "obsidian/attachments/2026-05-14-review-108.png",
+    "obsidian/attachments/2026-05-14-review-107.png",
+    "obsidian/attachments/2026-05-14-review-106.png",
+    "obsidian/attachments/2026-05-14-review-105.png",
+    "obsidian/attachments/2026-05-14-review-104.png",
+    "obsidian/attachments/2026-05-14-review-103.png",
+    "obsidian/attachments/2026-05-14-review-102.png",
+    "obsidian/attachments/2026-05-14-review-101.png",
+    "obsidian/attachments/2026-05-14-review-100.png",
+    "obsidian/attachments/2026-05-14-review-99.png",
+    "_posts/2026-05-09-TODO.md",
+    "_posts/2026-04-28-论文阅读.md",
+    "_posts/2026-05-09-ART.md",
     "_posts/2026-05-14-review.md",
+    "_posts/().md",
     "_posts/2026-05-27-clion.md",
     "obsidian/attachments/人工智能在心电图智能分析中的应用研究进展_段玉彩.pdf",
     "obsidian/attachments/人工智能在心电图领域的进展综述 1.docx",
@@ -213,7 +216,6 @@
     "obsidian/attachments/Chinese Std GBT7714 (numeric).ens",
     "obsidian/attachments/人工智能在心电图领域的进展综述.docx",
     "obsidian/attachments/pubmed-Artificial-set.txt.nbib",
-    "_posts/2026-05-09-ART.md",
     "_posts/2026-05-15-domain-security.md",
     "_posts/2026-03-18-magisk-modules-for-remote-adb-control.md",
     "_posts/2026-03-19-manual-root.md",
@@ -232,11 +234,9 @@
     "obsidian/attachments/brown-et-al-2026-prediction-of-pregnancy-related-cardiovascular-outcomes-using-electrocardiogram-based-deep-learning.pdf",
     "obsidian/attachments/brown-et-al-2026-prediction-of-pregnancy-related-cardiovascular-outcomes-using-electrocardiogram-based-deep-learning 1.pdf",
     "obsidian/attachments/sharma-et-al-2026-artificial-intelligence-enhanced-electrocardiography-and-health-records-to-predict-cardiac-arrest.pdf",
-    "_posts/2026-04-28-论文阅读.md",
     "obsidian/attachments/基于心电图信号的人工智能自动诊断在心血管疾病中的应用_陈云帆.pdf",
     "_posts/2026-04-21-frida.md",
     "_posts/2026-04-18-ykb.md",
-    "_posts/2026-05-09-TODO.md",
     "_posts/2026-03-15-练习动态调试.md",
     "_posts/2026-03-07-gradle.md"
   ]
