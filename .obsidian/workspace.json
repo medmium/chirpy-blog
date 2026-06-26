@@ -6,9 +6,55 @@
       {
         "id": "23978f6e18dfe403",
         "type": "tabs",
+        "dimension": 54.01721664275466,
         "children": [
           {
             "id": "d66bb45e6201396b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-05-14-review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-14-review"
+            }
+          },
+          {
+            "id": "5454b4f5cd3715c7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "obsidian/attachments/Application of artificial intelligence to the electrocardiogram.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Application of artificial intelligence to the electrocardiogram"
+            }
+          },
+          {
+            "id": "43552dddf0e6d6a6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "obsidian/attachments/2026-05-14-review-134.png"
+              },
+              "icon": "lucide-image",
+              "title": "2026-05-14-review-134"
+            }
+          }
+        ]
+      },
+      {
+        "id": "67dbf0490557d861",
+        "type": "tabs",
+        "dimension": 45.98278335724534,
+        "children": [
+          {
+            "id": "432f67d79e23aefc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +86,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -176,7 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,32 +239,37 @@
   },
   "active": "d66bb45e6201396b",
   "lastOpenFiles": [
-    "obsidian/attachments/2026-05-14-review-116.png",
-    "obsidian/attachments/2026-05-14-review-115.png",
-    "obsidian/attachments/2026-05-14-review-114.png",
-    "obsidian/attachments/2026-05-14-review-113.png",
-    "obsidian/attachments/2026-05-14-review-112.png",
-    "obsidian/attachments/2026-05-14-review-111.png",
-    "obsidian/attachments/2026-05-14-review-110.png",
-    "obsidian/attachments/2026-05-14-review-109.png",
-    "obsidian/attachments/2026-05-14-review-108.png",
-    "obsidian/attachments/2026-05-14-review-107.png",
-    "obsidian/attachments/2026-05-14-review-106.png",
-    "_posts/2026-05-09-TODO.md",
-    "_posts/2026-04-28-论文阅读.md",
-    "_posts/2026-05-09-ART.md",
+    "obsidian/attachments/Application of artificial intelligence to the electrocardiogram.pdf",
     "_posts/2026-05-14-review.md",
-    "_posts/().md",
+    "_posts/2026-06-26-cloud_server_blog.md",
     "_posts/2026-05-27-clion.md",
+    "obsidian/attachments/2026-06-26-cloud_server_blog-15.png",
+    "obsidian/attachments/2026-06-26-cloud_server_blog-14.png",
+    "obsidian/attachments/2026-06-26-cloud_server_blog-13.png",
+    "obsidian/attachments/2026-06-26-cloud_server_blog-12.png",
+    "obsidian/attachments/2026-06-26-cloud_server_blog-11.png",
+    "obsidian/attachments/Artificial intelligence in the diagnosis and management of arrhythmias.pdf",
+    "obsidian/attachments/2026-06-26-cloud_server_blog-10.png",
+    "obsidian/attachments/2026-06-26-cloud_server_blog-9.png",
+    "obsidian/attachments/2026-06-26-cloud_server_blog-8.png",
+    "obsidian/attachments/2026-06-26-cloud_server_blog-7.png",
+    "obsidian/attachments/2026-06-26-cloud_server_blog-6.png",
+    "_posts/2026-05-15-domain-security.md",
+    "未命名",
+    "_posts/2026-05-09-TODO.md",
+    "_posts/2026-05-09-ART.md",
+    "_posts/2026-04-28-论文阅读.md",
+    "_posts/2026-04-21-frida.md",
+    "_posts/2026-03-18-magisk-modules-for-remote-adb-control.md",
+    "_posts/2026-03-19-manual-root.md",
+    "_posts/2026-04-18-ykb.md",
+    "_posts/().md",
     "obsidian/attachments/人工智能在心电图智能分析中的应用研究进展_段玉彩.pdf",
     "obsidian/attachments/人工智能在心电图领域的进展综述 1.docx",
     "obsidian/attachments/Chinese Std GBT7714 (numeric) 1.ens",
     "obsidian/attachments/Chinese Std GBT7714 (numeric).ens",
     "obsidian/attachments/人工智能在心电图领域的进展综述.docx",
     "obsidian/attachments/pubmed-Artificial-set.txt.nbib",
-    "_posts/2026-05-15-domain-security.md",
-    "_posts/2026-03-18-magisk-modules-for-remote-adb-control.md",
-    "_posts/2026-03-19-manual-root.md",
     "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md",
     "_posts/2026-03-14-magisk模块开机自启动adbd.md",
     "_posts/2026-03-13-v4l2-ctl 交叉编译但实机无用.md",
@@ -232,12 +283,6 @@
     "_posts/2026-03-12-常用的adb命令.md",
     "_posts/delete.md",
     "obsidian/attachments/brown-et-al-2026-prediction-of-pregnancy-related-cardiovascular-outcomes-using-electrocardiogram-based-deep-learning.pdf",
-    "obsidian/attachments/brown-et-al-2026-prediction-of-pregnancy-related-cardiovascular-outcomes-using-electrocardiogram-based-deep-learning 1.pdf",
-    "obsidian/attachments/sharma-et-al-2026-artificial-intelligence-enhanced-electrocardiography-and-health-records-to-predict-cardiac-arrest.pdf",
-    "obsidian/attachments/基于心电图信号的人工智能自动诊断在心血管疾病中的应用_陈云帆.pdf",
-    "_posts/2026-04-21-frida.md",
-    "_posts/2026-04-18-ykb.md",
-    "_posts/2026-03-15-练习动态调试.md",
-    "_posts/2026-03-07-gradle.md"
+    "_posts/2026-03-15-练习动态调试.md"
   ]
 }
