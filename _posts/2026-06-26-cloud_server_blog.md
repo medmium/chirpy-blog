@@ -547,8 +547,8 @@ Speedtest.net    285.79Mbps      281.85Mbps      1.16ms
 
 还行吧..
 
+![](obsidian/attachments/命令提示符_-_wsl_2026.06.27_1782522948.gif)
+
 下载速度
-
-
 
 ![](obsidian/attachments/2026-06-26-cloud_server_blog-15.png)

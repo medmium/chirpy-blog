@@ -37,15 +37,18 @@
             "id": "43552dddf0e6d6a6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "obsidian/attachments/2026-05-14-review-134.png"
+                "file": "_posts/2026-06-26-cloud_server_blog.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "2026-05-14-review-134"
+              "icon": "lucide-file",
+              "title": "2026-06-26-cloud_server_blog"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,8 +218,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "d66bb45e6201396b",
+  "active": "43552dddf0e6d6a6",
   "lastOpenFiles": [
+    "obsidian/attachments/命令提示符_-_wsl_2026.06.27_1782522948.gif",
+    "obsidian/attachments/2026-05-14-review-134.png",
     "obsidian/attachments/Application of artificial intelligence to the electrocardiogram.pdf",
     "_posts/2026-05-14-review.md",
     "_posts/2026-06-26-cloud_server_blog.md",
@@ -231,7 +236,6 @@
     "obsidian/attachments/2026-06-26-cloud_server_blog-9.png",
     "obsidian/attachments/2026-06-26-cloud_server_blog-8.png",
     "obsidian/attachments/2026-06-26-cloud_server_blog-7.png",
-    "obsidian/attachments/2026-06-26-cloud_server_blog-6.png",
     "_posts/2026-05-15-domain-security.md",
     "未命名",
     "_posts/2026-05-09-TODO.md",
