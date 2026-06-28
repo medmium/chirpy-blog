@@ -76,8 +76,6 @@ https://www.szhdy.com/newscontent/73.html
 
 忍不住, 下单了!!
 
-![](obsidian/attachments/2026-06-26-cloud_server_blog-11.png)
-
 年付的, 今年肯定不会跑路! 关键是IP 是住宅ip ,爽飞了啊
 
 99年付, 不怕跑路. 跑了也不亏..
@@ -552,3 +550,9 @@ Speedtest.net    285.79Mbps      281.85Mbps      1.16ms
 下载速度
 
 ![](obsidian/attachments/2026-06-26-cloud_server_blog-15.png)
+
+但是用rsync下载服务器内容到本地就是慢亿些
+
+![](obsidian/attachments/2026-06-26-cloud_server_blog-16.png)
+
+100Mbps 虚标 为 300Mbps..
