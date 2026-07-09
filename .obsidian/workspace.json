@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5629adc8639377d8",
+        "id": "d7185ee58db1155f",
         "type": "tabs",
         "children": [
           {
-            "id": "b3915bb3e777a4b4",
+            "id": "23b377ef54687037",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2026-05-14-review"
             }
+          },
+          {
+            "id": "2ac5d1a182ecf380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-07-09-op-reroot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-09-op-reroot"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,30 +206,36 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "b3915bb3e777a4b4",
+  "active": "2ac5d1a182ecf380",
   "lastOpenFiles": [
+    "obsidian/attachments/Pasted image 20260709101326.png",
+    "obsidian/attachments/Pasted image 20260709100523.png",
+    "obsidian/attachments/Pasted image 20260709100243.png",
+    "obsidian/attachments/Pasted image 20260709100209.png",
+    "obsidian/attachments/Pasted image 20260709095406.png",
+    "obsidian/attachments/Pasted image 20260709095247.png",
+    "obsidian/attachments/Application of artificial intelligence to the electrocardiogram.pdf",
+    "_posts/2026-07-09-op-reroot.md",
+    "_posts/2026-05-14-review.md",
+    "obsidian/attachments/Pasted image 20260706135352.png",
+    "_posts/AIGC_人工智能在心电图领域的进展综述_2021_2026.md",
+    "_posts/2026-05-15-domain-security.md",
+    "_posts/2026-06-28-sshd.md",
+    "_posts/2026-07-01-learn_sandhook.md",
+    "_posts/2026-06-26-cloud_server_blog.md",
+    "_posts/2026-05-09-ART.md",
+    "obsidian/attachments/Pasted image 20260629192528.png",
+    "obsidian/attachments/[34882563] 1.pdf",
+    "obsidian/attachments/[34882563].pdf",
+    "obsidian/attachments/[33423183]-2021-Screening of sleep apnea based on heart rate variability and long short-term memory.pdf",
     "obsidian/attachments/Pasted image 20260629112303.png",
     "obsidian/attachments/Pasted image 20260629112254.png",
     "obsidian/attachments/Pasted image 20260628215517.png",
-    "_posts/2026-06-28-sshd.md",
-    "_posts/2026-05-14-review.md",
-    "obsidian/attachments/Pasted image 20260628172429.png",
-    "obsidian/attachments/Pasted image 20260628171140.png",
-    "obsidian/attachments/Pasted image 20260628165717.png",
-    "obsidian/attachments/Pasted image 20260628164720.png",
-    "obsidian/attachments/Pasted image 20260628164648.png",
-    "obsidian/attachments/Pasted image 20260628162739.png",
-    "obsidian/attachments/Pasted image 20260628162517.png",
-    "obsidian/attachments/Pasted image 20260628162456.png",
     "_posts/2026-04-28-论文阅读.md",
     "_posts/2026-04-18-ykb.md",
     "_posts/2026-04-21-frida.md",
-    "_posts/2026-05-09-ART.md",
-    "_posts/2026-05-15-domain-security.md",
     "_posts/2026-05-27-clion.md",
-    "_posts/2026-06-26-cloud_server_blog.md",
     "_posts/2026-05-09-TODO.md",
-    "obsidian/attachments/Application of artificial intelligence to the electrocardiogram.pdf",
     "obsidian/attachments/Artificial intelligence in the diagnosis and management of arrhythmias.pdf",
     "未命名",
     "_posts/2026-03-18-magisk-modules-for-remote-adb-control.md",
@@ -224,8 +245,6 @@
     "obsidian/attachments/人工智能在心电图领域的进展综述 1.docx",
     "obsidian/attachments/Chinese Std GBT7714 (numeric) 1.ens",
     "obsidian/attachments/Chinese Std GBT7714 (numeric).ens",
-    "obsidian/attachments/人工智能在心电图领域的进展综述.docx",
-    "obsidian/attachments/pubmed-Artificial-set.txt.nbib",
     "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md",
     "_posts/2026-03-14-magisk模块开机自启动adbd.md",
     "_posts/2026-03-13-v4l2-ctl 交叉编译但实机无用.md",
@@ -234,10 +253,6 @@
     "_posts/2026-03-09-让chirpy支持下载附件功能.md",
     "_posts/2026-03-09-创建jekyll插件以自动转换MP4.md",
     "_posts/2026-03-18-更新adb-tcp模块实现临时关闭即时生效功能.md",
-    "_posts/2026-03-17-一加可禁用的预装app.md",
-    "_posts/2026-03-15-android模拟器内核修改.md",
-    "_posts/2026-03-12-常用的adb命令.md",
-    "_posts/delete.md",
-    "obsidian/attachments/brown-et-al-2026-prediction-of-pregnancy-related-cardiovascular-outcomes-using-electrocardiogram-based-deep-learning.pdf"
+    "_posts/2026-03-17-一加可禁用的预装app.md"
   ]
 }
