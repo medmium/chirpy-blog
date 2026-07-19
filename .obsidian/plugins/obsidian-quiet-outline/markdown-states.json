@@ -207,15 +207,15 @@
     ]
   },
   "_posts/2026-05-14-review.md": {
-    "scroll": 184497.23149033365,
+    "scroll": 184468.82896222296,
     "cursor": {
       "from": {
-        "line": 184466,
-        "ch": 0
+        "line": 184472,
+        "ch": 475
       },
       "to": {
-        "line": 184499,
-        "ch": 0
+        "line": 184472,
+        "ch": 204
       }
     },
     "expandedKeys": [
@@ -732,15 +732,15 @@
     "expandedKeys": []
   },
   "_posts/2026-07-18-review_p2.md": {
-    "scroll": 41.817540558083,
+    "scroll": 16.556549009256173,
     "cursor": {
       "from": {
-        "line": 78,
-        "ch": 0
+        "line": 21,
+        "ch": 229
       },
       "to": {
-        "line": 78,
-        "ch": 0
+        "line": 21,
+        "ch": 229
       }
     },
     "expandedKeys": [
