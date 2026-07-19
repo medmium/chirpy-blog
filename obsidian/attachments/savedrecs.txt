@@ -1,0 +1,1410 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Costa, J
+   McGovern, L
+   Guillory, M
+   Gilmore, J
+AF Costa, Jennifer
+   McGovern, Lauren
+   Guillory, Margie
+   Gilmore, Jennifer
+TI PROMOTING NURSING EXCELLENCE: CULTIVATING SCHOLARSHIP AND EVIDENCE-BASED
+   PRACTICE THROUGH IMPLEMENTATION OF A NURSING JOURNAL CLUB
+SO ONCOLOGY NURSING FORUM
+LA English
+DT Meeting Abstract
+C1 [Costa, Jennifer; Guillory, Margie] Dana Farber Canc Inst, Boston, MA 02115 USA.
+   [McGovern, Lauren] Dana Farber Canc Ctr, Boston, MA USA.
+   [Gilmore, Jennifer] Dana Farber Canc Inst, Newton, MA USA.
+C3 Harvard University; Harvard University Medical Affiliates; Dana-Farber
+   Cancer Institute; Harvard University; Harvard University Medical
+   Affiliates; Dana-Farber Cancer Institute
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ONCOLOGY NURSING SOC
+PI PITTSBURGH
+PA 125 ENTERPRISE DR, PITTSBURGH, PA 15275 USA
+SN 0190-535X
+EI 1538-0688
+J9 ONCOL NURS FORUM
+JI Oncol. Nurs. Forum
+PD MAR
+PY 2024
+VL 51
+IS 2
+MA P259
+PG 1
+WC Oncology; Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Oncology; Nursing
+GA L2X1A
+UT WOS:001349389400501
+DA 2026-07-10
+ER
+
+PT J
+AU Mackey, A
+   Bassendowski, S
+AF Mackey, April
+   Bassendowski, Sandra
+TI THE HISTORY OF EVIDENCE-BASED PRACTICE IN NURSING EDUCATION AN PRACTICE
+SO JOURNAL OF PROFESSIONAL NURSING
+LA English
+DT Article
+DE Evidence-based nursing; Education; Practice; Nursing history
+ID MEDICINE
+AB Beginning with Florence Nightingale in the 1800s and evolving again within the medical community, evidence-based practice continues to advance along with the nursing discipline. Evidence-based practice is foundational to undergraduate and graduate nursing education and is a way for the nursing discipline to minimize the theory to practice gap. This article discusses the concept of evidence-based practice from a historical perspective as it relates to nursing in the educational and practice domains. The concept evidence-based practice is defined, and the similarities and differences to evidence-based medicine are discussed. It is crucial that registered nurses be proactive in their quest for research knowledge, so the gap between theory and practice continues to close. Utilizing nursing best practice guidelines, reviewing and implementing applicable research evidence, and taking advantage of technological advances are all ways in which nursing can move forward as a well-informed discipline. (C) 2016 Elsevier Inc. All rights reserved.
+C1 [Mackey, April; Bassendowski, Sandra] Univ Saskatchewan, 217-1060 Dorothy St, Regina, SK S4X 3C5, Canada.
+C3 University of Saskatchewan
+RP Mackey, A (通讯作者)，Univ Saskatchewan, 217-1060 Dorothy St, Regina, SK S4X 3C5, Canada.
+EM April.mackey@usask.ca
+NR 31
+TC 163
+Z9 265
+U1 0
+U2 49
+PU W B SAUNDERS CO-ELSEVIER INC
+PI PHILADELPHIA
+PA 1600 JOHN F KENNEDY BOULEVARD, STE 1800, PHILADELPHIA, PA 19103-2899 USA
+SN 8755-7223
+EI 1532-8481
+J9 J PROF NURS
+JI J. Prof. Nurs.
+PD JAN-FEB
+PY 2017
+VL 33
+IS 1
+BP 51
+EP 55
+DI 10.1016/j.profnurs.2016.05.009
+PG 5
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA EJ8AU
+UT WOS:000393445400007
+PM 28131148
+DA 2026-07-10
+ER
+
+PT J
+AU Doe, MJ
+AF Doe, Mi Jin
+TI Evidence-Based Nursing Practice: A Different View: Book Review of
+   Evidence-Based Practice for Nurses: Appraisal and Application of
+   Research by Nola A. Schmidt and Janet M. Brown (2022). Jones &
+   Bartlett Learning
+SO NURSING SCIENCE QUARTERLY
+LA English
+DT Book Review
+DE evidence-based practice; human science; theory-guided nursing practice
+AB This is a review of the 5(th) edition of Evidence-Based Practice for Nurses: Appraisal and Application of Research edited by Nola A. Schmidt and Janet M. Brown (2022). The reviewed book provides an exploration of evidence-based nursing practice, viewed through the lens of traditional perspectives that position the nursing discipline as applied science and approach to nursing practice from the standpoint of the medical model. In this column, the meaning of evidence-based nursing practice is reconsidered within the context of the theory-guided nursing practice arising from the distinctive perspective of the nursing discipline as a human science.
+C1 [Doe, Mi Jin] Binghamton Univ, Decker Coll Nursing & Hlth Sci, POB 6000, Binghamton, NY 13902 USA.
+C3 State University of New York (SUNY) System; Binghamton University, SUNY
+RP Doe, MJ (通讯作者)，Binghamton Univ, Decker Coll Nursing & Hlth Sci, POB 6000, Binghamton, NY 13902 USA.
+EM mijindoe@gmail.com
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 7
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0894-3184
+EI 1552-7409
+J9 NURS SCI QUART
+JI Nurs. Sci. Q.
+PD APR
+PY 2024
+VL 37
+IS 2
+BP 185
+EP 188
+DI 10.1177/08943184231224422
+PG 4
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA LI2O2
+UT WOS:001186096900004
+PM 38491887
+DA 2026-07-10
+ER
+
+PT J
+AU Waldrop, J
+   Dunlap, JJ
+AF Waldrop, Julee
+   Dunlap, Jayne Jennings
+TI The Mountain Model for Evidence-Based Practice Quality Improvement
+   Initiatives
+SO AMERICAN JOURNAL OF NURSING
+LA English
+DT Article
+DE evidence-based practice; quality improvement
+ID HEALTH-CARE
+AB This article introduces the Mountain Model, the first conceptual model for evidence-based practice quality improvement (EBPQI) initiatives. The Mountain Model merges modern evidence-based practice (EBP) and quality improvement (QI) paradigm principles into a unified conceptual framework with the goal of disseminating and sustaining EBPQI projects across health care and related settings. The model was developed within the nursing discipline, but is designed for transdisciplinary implementation through interprofessional teams.
+C1 [Waldrop, Julee] Duke Univ, Sch Nursing, Durham, NC 27710 USA.
+   [Dunlap, Jayne Jennings] Texas Womans Univ, Coll Nursing, Houston, TX USA.
+C3 Duke University; Texas Womans University
+RP Waldrop, J (通讯作者)，Duke Univ, Sch Nursing, Durham, NC 27710 USA.
+EM julee.waldrop@duke.edu
+RI , Julee/J-5288-2019
+NR 25
+TC 43
+Z9 46
+U1 0
+U2 18
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0002-936X
+EI 1538-7488
+J9 AM J NURS
+JI Am. J. Nurs.
+PD MAY
+PY 2024
+VL 124
+IS 5
+BP 32
+EP 37
+DI 10.1097/01.NAJ.0001014540.57079.72
+PG 6
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA SP7M1
+UT WOS:001235719500021
+PM 38598260
+DA 2026-07-10
+ER
+
+PT J
+AU Duffy, EA
+   Hooke, MC
+   Landier, W
+AF Duffy, Elizabeth A.
+   Hooke, Mary C.
+   Landier, Wendy
+TI Reflections on the Past Decade in Evidence-Based Practice Within the
+   Children's Oncology Group
+SO JOURNAL OF PEDIATRIC HEMATOLOGY-ONCOLOGY NURSING
+LA English
+DT Article
+DE evidence-based practice (EBP); patient and family education; nursing
+   care; clinical trials; pediatric; oncology
+AB Background: The Children's Oncology Group (COG) is the only National Cancer Institute-supported clinical trials organization focused exclusively on childhood and adolescent cancer research. The COG Nursing Discipline Committee has embedded the tenets of evidence-based practice (EBP) into clinical trials nursing in order to standardize the nursing care delivered to children enrolled on these trials. The COG nursing EBP initiative is aimed at developing evidence-based clinical resources and tools to provide guidance to clinicians regarding topics relevant to the provision of cancer treatment for patients enrolled on COG clinical trials from diagnosis through survivorship. A rigorous, evidence-based process designed to guide development of the evidence-based clinical tools and resources within the COG nursing discipline was developed and was implemented with the first nurse expert team beginning in 2012. Method: The standardized process included (a) selecting EBP projects and nursing expert teams (NETs), (b) providing leadership, mentoring, and championship for NETs; (c) approving clinical content developed through the NETs; and (d) providing guidance and oversight over planned dissemination of the COG EBP projects. Results: The COG Nursing EBP Subcommittee has developed 15 publications to date that include 90 authors. Eleven of these authors contributed to multiple publications. Discussion: On this 10th anniversary of the development of the EBP within the COG nursing discipline, we recognize its contributions to the professional growth of many of the discipline's members and to advances in nursing care for children enrolled in pediatric cancer clinical trials.
+C1 [Duffy, Elizabeth A.] Univ Michigan, Hlth Behav & Biol Sci, Sch Nursing, Ann Arbor, MI USA.
+   [Hooke, Mary C.] Univ Minnesota, Sch Nursing, Eden Prairie, MN USA.
+   [Landier, Wendy] Univ Alabama Birmingham, Pediat Hematol Oncol, Birmingham, AL USA.
+   [Duffy, Elizabeth A.] Univ Michigan, Hlth Behav & Biol Sci, Sch Nursing, Ann Arbor, MI 48109 USA.
+C3 University of Michigan System; University of Michigan; University of
+   Minnesota System; University of Alabama System; University of Alabama
+   Birmingham; University of Michigan System; University of Michigan
+RP Duffy, EA (通讯作者)，Univ Michigan, Hlth Behav & Biol Sci, Sch Nursing, Ann Arbor, MI 48109 USA.
+EM eaduffy@umich.edu
+OI Landier, Wendy/0000-0003-3319-5652; Duffy,
+   Elizabeth/0000-0001-5038-803X; Hooke, Mary C/0000-0002-6137-9224
+FU NCTN Operations Center Grant from NCI/NIH [U10CA180886]
+FX Authors disclose the followingfinancial support: NCTN Operations Center
+   Grant U10CA180886 from NCI/NIH to the Children's Oncology Group (COG).
+NR 28
+TC 1
+Z9 1
+U1 1
+U2 3
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 2752-7530
+EI 2752-7549
+J9 J PEDIAT HEMAT ONC N
+JI J. Pediatr. Hematol. Oncol. Nurs.
+PD MAR
+PY 2024
+VL 41
+IS 2
+BP 129
+EP 139
+DI 10.1177/27527530231222827
+EA MAR 2024
+PG 11
+WC Oncology; Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Oncology; Nursing
+GA NS7S9
+UT WOS:001178651100001
+PM 38437793
+OA Green Submitted
+DA 2026-07-10
+ER
+
+PT J
+AU Weiss, ME
+   Bobay, KL
+   Johantgen, M
+   Shirey, MR
+AF Weiss, Marianne E.
+   Bobay, Kathleen L.
+   Johantgen, Meg
+   Shirey, Maria R.
+TI Aligning Evidence-Based Practice With Translational Research:
+   Opportunities for Clinical Practice Research
+SO JOURNAL OF NURSING ADMINISTRATION
+LA English
+DT Article
+ID HOSPITAL NURSING-RESEARCH; NATIONAL-SURVEY; IMPLEMENTATION
+AB Magnet (R) and other organizations investing resources in evidence-based practice (EBP) are ideal laboratories for translational nursing research. Translational research, the study of implementation of evidence into practice, provides a unique opportunity to leverage local EBP work for maximum impact. Aligning EBP projects with rigorous translational research can efficiently meet both EBP and research requirements for Magnet designation or redesignation, inform clinical practice, and place organizations at the leading edge of practice-based knowledge development for the nursing discipline.
+C1 [Weiss, Marianne E.] Marquette Univ, Coll Nursing, POB 1881, Milwaukee, WI 53201 USA.
+   [Bobay, Kathleen L.] Loyola Univ, Marcella Niehoff Sch Nursing, Chicago, IL 60611 USA.
+   [Johantgen, Meg] Univ Maryland, Sch Nursing, Baltimore, MD 21201 USA.
+   [Shirey, Maria R.] Univ Alabama Birmingham, Sch Nursing, Birmingham, AL USA.
+   [Shirey, Maria R.] Univ Alabama Birmingham, Sch Nursing, Acute Chron & Continuing Care Dept, Birmingham, AL USA.
+C3 Marquette University; Loyola University Chicago; University System of
+   Maryland; University of Maryland Baltimore; University of Alabama
+   System; University of Alabama Birmingham; University of Alabama System;
+   University of Alabama Birmingham
+RP Weiss, ME (通讯作者)，Marquette Univ, Coll Nursing, POB 1881, Milwaukee, WI 53201 USA.
+EM marianne.weiss@marquette.edu
+OI Shirey, Maria/0000-0003-4988-1171
+NR 21
+TC 14
+Z9 19
+U1 0
+U2 4
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0002-0443
+EI 1539-0721
+J9 J NURS ADMIN
+JI J. Nurs. Adm.
+PD SEP
+PY 2018
+VL 48
+IS 9
+BP 425
+EP 431
+DI 10.1097/NNA.0000000000000644
+PG 7
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA GS8IN
+UT WOS:000443952900006
+PM 30134376
+DA 2026-07-10
+ER
+
+PT J
+AU Burke, CA
+   McKiernan, M
+   Christol, C
+AF Burke, Cheryl A.
+   McKiernan, Meaghan
+   Christol, Catalina
+TI RN Residents improving geriatric depression screening at Phelps hospital
+SO GERIATRIC NURSING
+LA English
+DT Article
+DE Geriatric depression; Geriatric depression screening tool; Geriatric
+   syndromes; NICHE; RN residency program
+ID OLDER-ADULTS; SCALE
+AB We discuss how we integrated the Nurses Improving Care for Healthsystem Elders (NICHE) and RN Residency programs at the Phelps Hospital, Northwell Health to educate a new generation of staff nurses on the principles of geriatric nursing and evidence-based practice to care for older adults. We discuss how the recent cohort of nurse residents are leading efforts to improve geriatric depression screening on a NICHE unit through designing an evidence-based practice improvement project. This initiative reinforces and extends our work in geriatric nursing excellence. We hope others will learn from our experience to offer opportunities for new graduates to lead improvement efforts within existing NICHE programs.(c) 2022 Elsevier Inc. All rights reserved.
+C1 [Burke, Cheryl A.] Phelps Hosp Northwell Hlth, 701 North Broadway, Sleepy Hollow, NY 10591 USA.
+   [McKiernan, Meaghan; Christol, Catalina] Phelps Hosp Northwell Hlth, Med Surg Unit, 701 North Broadway, Sleepy Hollow, NY 10591 USA.
+RP Burke, CA (通讯作者)，Phelps Hosp Northwell Hlth, 701 North Broadway, Sleepy Hollow, NY 10591 USA.
+EM cburke6@northwell.edu; mmckieman@northwell.edu; cchistol@northwell.edu
+NR 19
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MOSBY-ELSEVIER
+PI NEW YORK
+PA 360 PARK AVENUE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0197-4572
+EI 1528-3984
+J9 GERIATR NURS
+JI Geriatr. Nurs.
+PD NOV-DEC
+PY 2022
+VL 48
+BP 360
+EP 363
+DI 10.1016/j.gerinurse.2022.10.006
+PG 4
+WC Geriatrics & Gerontology; Gerontology; Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Geriatrics & Gerontology; Nursing
+GA 7C5RD
+UT WOS:000899868900003
+DA 2026-07-10
+ER
+
+PT J
+AU Ou, CHK
+   Hall, WA
+   Thorne, SE
+AF Ou, Christine H. K.
+   Hall, Wendy A.
+   Thorne, Sally E.
+TI Can nursing epistemology embrace p-values?
+SO NURSING PHILOSOPHY
+LA English
+DT Article
+DE evidence-based practice; null hypothesis significance testing; nursing
+   discipline; nursing epistemology; p-values
+ID SIGNIFICANCE TESTS; SCIENCE; CONFIDENCE; POWER; PSYCHOLOGY; KNOWLEDGE;
+   INTERVALS; MEDICINE; CRITIQUE; CONTEXT
+AB The use of correlational probability values (p-values) as a means of evaluating evidence in nursing and health care has largely been accepted uncritically. There are reasons to be concerned about an uncritical adherence to the use of significance testing, which has been located in the natural science paradigm. p-values have served in hypothesis and statistical testing, such as in randomized controlled trials and meta-analyses to support what has been portrayed as the highest levels of evidence in the framework of evidence-based practice. Nursing has been minimally involved in the rich debate about the controversies of treating significance testing as evidentiary in the health and social sciences. In this paper, we join the dialogue by examining how and why this statistical mechanism has become entrenched as the gold standard for determining what constitutes legitimate scientific knowledge in the postpositivistic paradigm. We argue that nursing needs to critically reflect on the limitations associated with this tool of the evidence-based movement, given the complexities and contextual factors that are inherent to nursing epistemology. Such reflection will inform our thinking about what constitutes substantive knowledge for the nursing discipline.
+C1 [Ou, Christine H. K.; Hall, Wendy A.; Thorne, Sally E.] Univ British Columbia, Sch Nursing, Vancouver, BC, Canada.
+C3 University of British Columbia
+RP Ou, CHK (通讯作者)，Univ British Columbia, Sch Nursing, Vancouver, BC, Canada.
+EM christine.ou@alumni.ubc.ca
+RI Hall, Wendy/G-1775-2015; Thorne, Sally/AAF-8599-2019
+OI Hall, Wendy/0000-0002-3816-2908; Ou, Christine/0000-0003-3479-7591; 
+NR 85
+TC 9
+Z9 15
+U1 0
+U2 10
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1466-7681
+EI 1466-769X
+J9 NURS PHILOS
+JI Nurs. Philos.
+PD OCT
+PY 2017
+VL 18
+IS 4
+AR e12173
+DI 10.1111/nup.12173
+PG 9
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Nursing
+GA FG8CC
+UT WOS:000410652500006
+PM 28198580
+DA 2026-07-10
+ER
+
+PT J
+AU Zupanec, S
+   Herriage, T
+   Landier, W
+   COG Nursing Discipline
+AF Zupanec, Sue
+   Herriage, Teresa
+   Landier, Wendy
+   COG Nursing Discipline, C. O. G. Nursing Discipline
+TI Children's Oncology Group 2023 blueprint: Nursing discipline
+SO PEDIATRIC BLOOD & CANCER
+LA English
+DT Article
+DE clinical trials; nursing; pediatric cancer
+ID ADOLESCENT/YOUNG ADULT RESILIENCE; EVIDENCE-BASED RECOMMENDATIONS;
+   DISCHARGE SUPPORT STRATEGIES; ACUTE LYMPHOBLASTIC-LEUKEMIA; MUSIC VIDEO
+   INTERVENTION; PEDIATRIC ONCOLOGY; CHILDHOOD-CANCER; RECEIVING TREATMENT;
+   SYMPTOM ASSESSMENT; CONSENSUS RECOMMENDATIONS
+AB In contrast to other Children's Oncology Group (COG) committees, the COG nursing discipline is unique in that it provides the infrastructure necessary for nurses to support COG clinical trials and implements a research agenda aimed at scientific discovery. This hybrid focus of the discipline reflects the varied roles and expertise within pediatric oncology clinical trials nursing that encompass clinical care, leadership, and research. Nurses are broadly represented across COG disease, domain, and administrative committees, and are assigned to all clinically focused protocols. Equally important is the provision of clinical trials-specific education and training for nurses caring for patients on COG trials. Nurses involved in the discipline's evidence-based practice initiative have published a wide array of systematic reviews on topics of clinical importance to the discipline. Nurses also develop and lead research studies within COG, including stand-alone studies and aims embedded in disease/ treatment trials. Additionally, the nursing discipline is charged with responsibility for developing patient/family educational resources within COG. Looking to the future, the nursing discipline will continue to support COG clinical trials through a multifaceted approach, with a particular focus on patient-reported outcomes and health equity/disparities, and development of interventions to better understand and address illness-related distress in children with cancer.
+C1 [Zupanec, Sue; COG Nursing Discipline, C. O. G. Nursing Discipline] Hosp Sick Children, Dept Hematol Oncol, Toronto, ON, Canada.
+   [Herriage, Teresa] Childrens Hosp Minnesota, Dept Canc & Blood Disorders, Minneapolis, MN USA.
+   [Landier, Wendy] Univ Alabama Birmingham, Dept Pediat, Birmingham, AL USA.
+   [Zupanec, Sue] Hosp Sick Children, Dept Hematol Oncol, 555 Univ Ave, Toronto, ON M5G 1X8, Canada.
+C3 University of Toronto; Hospital for Sick Children (SickKids); Children's
+   Hospitals & Clinics of Minnesota; University of Alabama System;
+   University of Alabama Birmingham; University of Toronto; Hospital for
+   Sick Children (SickKids)
+RP Zupanec, S (通讯作者)，Hosp Sick Children, Dept Hematol Oncol, 555 Univ Ave, Toronto, ON M5G 1X8, Canada.
+EM sue.zupanec@sickkids.ca
+OI Herriage, Teresa/0000-0002-5700-6572; Landier, Wendy/0000-0003-3319-5652
+FU Children's Oncology Group NCTN Network Group Operations Grant
+   [U10CA180886]; National Cancer Institute [U10CA180886] Funding Source:
+   NIH RePORTER
+FX This research was funded by the Children's Oncology Group NCTN Network
+   Group Operations Grant (U10CA180886).
+NR 75
+TC 6
+Z9 7
+U1 0
+U2 5
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1545-5009
+EI 1545-5017
+J9 PEDIATR BLOOD CANCER
+JI Pediatr. Blood Cancer
+PD SEP
+PY 2023
+VL 70
+SU 6
+SI SI
+DI 10.1002/pbc.30575
+EA JUL 2023
+PG 12
+WC Oncology; Hematology; Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Oncology; Hematology; Pediatrics
+GA P3XB4
+UT WOS:001032163400001
+PM 37470719
+OA Green Submitted, hybrid
+DA 2026-07-10
+ER
+
+PT J
+AU Wentland, BA
+   Hinderer, KA
+AF Wentland, Beth A.
+   Hinderer, Katherine A.
+TI A Nursing Research and Evidence-Based Practice Fellowship Program in a
+   Magnet®-designated pediatric medical center
+SO APPLIED NURSING RESEARCH
+LA English
+DT Article
+DE Evidence-Based Practice; Fellowship; Mentoring; Nursing research;
+   Pediatric nursing; Magnet
+ID CLINICAL NURSES; IMPLEMENTATION; EXPERIENCE; INTERNSHIP
+AB Aim: To describe the structure and outcomes related to a nursing research and evidence-based practice fellowship program in a Magnet (R)-designated pediatric medical center and explore perceptions of knowledge, skills, and barriers to evidence-based practice and research.
+   Background: The Magnet (R) Recognition Program is a model for nursing excellence that promotes nursing research and evidence-based practice. Studies show that nurses need assistance in overcoming common barriers to scholarly inquiry, including knowledge and skills, confidence, scarce time, and financial support. The fellowship program was developed to reinforce institutional goals related to nursing scholarship and Magnet (R) designation.
+   Methods: A pre-test post-test repeated measures study assessed fellowship program outcomes immediately before, after, and at one year post program completion. Data collected included descriptive data related to the fellowship program participants and projects. The 49-item Developing Evidence-Based Practice Questionnaire survey evaluated evidenced-based practice knowledge and skills.
+   Results: Over a 5-year period, 22 (+2 pilot) participants graduated from the fellowship program with a total of 9 completed projects (+1 pilot) and 1 ongoing study. The fellowship program helped to overcome some common obstacles related to skill and confidence in using research evidence and completing scholarly projects. Many improvements were sustained over time. The greatest barrier to nursing inquiry, time, needs continued attention, as this was reported as an enduring limitation to nursing scholarship.
+   Conclusion: The fellowship program reinforced and enhanced the organizational commitment to building and sustaining a passion for clinical inquiry through research and evidence-based practice, supporting the requirements of a Magnet (R)-designated hospital. Continued support is needed to garner nursing success.
+C1 [Wentland, Beth A.; Hinderer, Katherine A.] Connecticut Childrens, Inst Nursing Res & Evidence Based Practice, 282 Washington St, Hartford, CT 06106 USA.
+RP Wentland, BA (通讯作者)，Connecticut Childrens, Inst Nursing Res & Evidence Based Practice, 282 Washington St, Hartford, CT 06106 USA.
+EM bmccollough@connecticutchildrens.org; khinderer@connecticutchildrens.org
+RI Hinderer, Katherine A/AGK-5391-2022
+OI Hinderer, Katherine A/0000-0001-9527-9355; Wentland,
+   Beth/0000-0003-4464-0280
+NR 35
+TC 8
+Z9 12
+U1 0
+U2 7
+PU W B SAUNDERS CO-ELSEVIER INC
+PI PHILADELPHIA
+PA 1600 JOHN F KENNEDY BOULEVARD, STE 1800, PHILADELPHIA, PA 19103-2899 USA
+SN 0897-1897
+EI 1532-8201
+J9 APPL NURS RES
+JI Appl. Nurs. Res.
+PD OCT
+PY 2020
+VL 55
+AR 151287
+DI 10.1016/j.apnr.2020.151287
+PG 8
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA NT3TD
+UT WOS:000572866700015
+PM 32482374
+DA 2026-07-10
+ER
+
+PT J
+AU Chen, QR
+   Halili, XG
+   Chen, WJ
+   Zhao, JQ
+   Castro, AR
+   Tang, SY
+   Wang, HH
+   Xia, YT
+   Wang, GY
+   Huang, CM
+AF Chen, Qirong
+   Halili, Xirongguli
+   Chen, Wenjun
+   Zhao, Junqiang
+   Castro, Aimee R.
+   Tang, Siyuan
+   Wang, Honghong
+   Xia, Yuting
+   Wang, Guiyun
+   Huang, Chongmei
+TI Academic and Clinical Nurses' Perceptions and Experiences on
+   Academic-Practice Partnership in Evidence-Based Practice: An
+   Interpretive Description
+SO JOURNAL OF NURSING MANAGEMENT
+LA English
+DT Article
+ID NURSING PRACTICE; IMPLEMENTATION; PRACTITIONERS
+AB Aim. To explore academic and clinical nurses' perceptions and experiences on academic-practice partnership in evidence-based practice. Background. Academic-practice partnership could promote evidence-based practice which is crucial for high-quality care. Academic and clinical nurses are the foundation of the partnerships; however, there is little knowledge of their perceptions and experiences on academic-practice partnership in evidence-based practice. Methods. This is an interpretive description study. Twenty-two eligible participants were interviewed through face-to-face or online videoconferencing meetings. Guiding questions for the interviews focused on the perceptions and experiences of academic-practice partnership in the context of evidence-based practice. Interviews were recorded, transcribed, and checked verbatim. We used constant comparative analysis to analyze the qualitative data. Results. Four themes with fifteen subthemes were generated: necessities, modes, challenges, and benefits of the academic-practice partnership in evidence-based practice. Participants believed that academic-practice partnership was a necessary strategy to promote evidence-based practice and could be built through different modes. Nevertheless, most academic-practice partnerships were superficial because of specific types of challenges. However, a good academic-practice partnership could create a win-win situation for both nursing academia and clinical practice. Conclusion. Academic-practice partnership is a win-win strategy for both the academic side and clinical side to promote evidence-based practice. Different modes of academic-practice partnership provide academic and clinical nurses with more opportunities to promote evidence-based practice with a higher likelihood of successful implementation. However, related challenges require multilevel measures to provide better environments to initiate, build, and maintain intensive collaborations between academic and clinical nurses. Implications for Nursing Management. Academic and clinical organizations, leaders, and individuals should take multilevel measures to initiate, build, and maintain a close academic-practice partnership to promote evidence-based practice, which is crucial for high-quality nursing care, patient safety, and nursing discipline development.
+C1 [Chen, Qirong; Halili, Xirongguli; Tang, Siyuan; Wang, Honghong; Xia, Yuting; Huang, Chongmei] Cent South Univ, Xiangya Sch Nursing, Changsha 410000, Peoples R China.
+   [Chen, Qirong; Tang, Siyuan] Cent South Univ, Xiangya Ctr Evidence Based Practice & Healthcare I, Changsha 410000, Peoples R China.
+   [Chen, Wenjun] Univ Ottawa, Fac Hlth Sci, Sch Nursing, Ottawa, ON K1N 6N5, Canada.
+   [Zhao, Junqiang] Waypoint Ctr Mental HealthCare, Waypoint Res Inst, Penetanguishene, ON, Canada.
+   [Zhao, Junqiang] Univ Toronto, Dalla Lana Sch Publ Hlth, Toronto, ON, Canada.
+   [Castro, Aimee R.] McGill Univ, Ingram Sch Nursing, Montreal, PQ H3A 2M7, Canada.
+   [Wang, Guiyun] Shandong Xiehe Univ, Sch Nursing, Jinan 250000, Peoples R China.
+C3 Central South University; Central South University; University of
+   Ottawa; University of Toronto; McGill University; Shandong Xiehe
+   University
+RP Huang, CM (通讯作者)，Cent South Univ, Xiangya Sch Nursing, Changsha 410000, Peoples R China.
+EM qirong.chen@csu.edu.cn; xirongguli@163.com; wchen140@uottawa.ca;
+   jzhao126@uottawa.ca; aimee.castro2@mail.mcgill.ca; tsycongcong@126.com;
+   honghong_wang@hotmail.com; yutingxia2020@126.com;
+   wangguiyun@sdxiehe.edu.cn; huangcm@csu.edu.cn
+RI Huang, Chongmei/GRF-5593-2022; Chen, Wenjun/ABA-4102-2021; Xia,
+   Yuting/AAE-8580-2020; Chen, Qirong/AGZ-7592-2022
+OI Huang, Chongmei/0000-0001-6794-0724; Chen, Wenjun/0000-0001-5398-8508;
+   Zhao, Junqiang/0000-0002-3295-5106; Wang, Honghong/0000-0002-3484-8929;
+   Castro, Aimee/0000-0002-6461-0866; Tang, Siyuan/0000-0001-9940-5072
+FU We would like to sincerely thank the participants in this study. This
+   work was supported by the National Natural Science Foundation of China
+   (No. 72104250) and Natural Science Foundation of Hunan Province (No.
+   2022JJ40642). [72104250]; National Natural Science Foundation of China
+   [2022JJ40642]; Natural Science Foundation of Hunan Province
+FX We would like to sincerely thank the participants in this study. This
+   work was supported by the National Natural Science Foundation of China
+   (No. 72104250) and Natural Science Foundation of Hunan Province (No.
+   2022JJ40642).
+NR 33
+TC 5
+Z9 7
+U1 2
+U2 17
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0966-0429
+EI 1365-2834
+J9 J NURS MANAGE
+JI J. Nurs. Manag.
+PD SEP 19
+PY 2023
+VL 2023
+AR 2955731
+DI 10.1155/2023/2955731
+PG 12
+WC Management; Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Nursing
+GA S9AP5
+UT WOS:001074024400001
+PM 40225639
+OA Green Submitted, hybrid
+DA 2026-07-10
+ER
+
+PT J
+AU Lal, MM
+AF Lal, M. Maureen
+TI Keep the Momentum Going
+SO JOURNAL OF NURSING ADMINISTRATION
+LA English
+DT Editorial Material
+AB We are midway through a milestone year for nursing, and we have just finished a month-long celebration of Florence Nightingale's 200th birthday. The party may be over, but the work continues. How do we keep the momentum going, not just for 2020, but well beyond? In this month's Magnet(R)Perspectives column, we explore ways to continue to promote the Year of the Nurse through its 3 anchors: nursing excellence, leadership, and innovation. We also take a look at how Magnet organizations stay relevant in these areas, by infusing lifelong learning, evidence-based practice, and clinical inquiry into the culture and making every day an opportunity to celebrate and elevate nursing.
+C1 [Lal, M. Maureen] Amer Nurses Credentialing Ctr, Magnet Recognit Program, Silver Spring, MD USA.
+RP Lal, MM (通讯作者)，Amer Nurses Credentialing Ctr, 8515 Georgia Ave,Suite 400, Silver Spring, MD 20910 USA.
+EM Maureen.lal@ana.org
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0002-0443
+EI 1539-0721
+J9 J NURS ADMIN
+JI J. Nurs. Adm.
+PD JUN
+PY 2020
+VL 50
+IS 6
+BP 305
+EP 306
+DI 10.1097/NNA.0000000000000888
+PG 2
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA NE8HJ
+UT WOS:000562844700003
+PM 32433109
+DA 2026-07-10
+ER
+
+PT J
+AU Mathew, D
+   Cesario, SK
+   Malecha, A
+   Toms, R
+AF Mathew, Della
+   Cesario, Sandra K.
+   Malecha, Ann
+   Toms, Robin
+TI Role of Magnet®-recognized hospital nurse managers in implementing
+   evidence-based practice: A mixed-method study
+SO WORLDVIEWS ON EVIDENCE-BASED NURSING
+LA English
+DT Article
+DE EBP implementation; leadership; Magnet hospital; nurse managers; roles
+ID LEADERSHIP; KNOWLEDGE
+AB BackgroundHealthcare systems recognize evidence-based practice (EBP) as the prestigious standard for providing safe and high-quality patient care, nursing excellence, and Magnet Recognition. Despite the well-documented benefits, implementation of EBP is inconsistent and remains elusive in the US and throughout the world and many patients still fail to receive evidence-based care. The literature revealed a huge gap between nursing science and practice but provided evidence that nurse managers (NMs) had a pivotal leadership role in implementing EBP.AimTo gain a deeper understanding of Magnet-recognized hospital nurse managers' (MRHNMs) leadership roles, the influencing factors, and their experience in implementing EBP to enhance EBP initiatives and sustain Magnet recognition.MethodThis mixed-method study guided by Goodall's (Australasian Psychiatry, 2016. 24, 231) theory of expert leadership used a sequential explanatory method with a quantitative-driven design based on a national correlational survey augmented by a qualitative descriptive component using semi-structured interviews.ResultsThe findings of the study demonstrated that MRHNMs had a 54.6% effective leadership role in implementing EBP and produced numerous themes indicating that MRHNMs did implement EBP with struggle. MRHNMs in this study viewed EBP as a healthcare priority and leadership of NMs is necessary to promote EBP. However, lack of knowledge, difficulties with the EBP process, time constraints, and staffing issues negatively impacted EBP. Postgraduate degree, formal EBP education, critical care units as workplace, collaboration with doctorally prepared nurses, and Magnet culture enhanced EBP among MRHNMs.Linking Evidence to ActionEBP is essential for Magnet recognition and is a hallmark of nursing excellence, however, is a complex and challenging process. The leadership of NMs is necessary to shape evidence-based care, and NMs require EBP preparation during leadership training, necessary resources, and time to complete the EBP process. EBP cannot become a reality without leaders being engaged, supportive, and persistent.
+C1 [Mathew, Della; Cesario, Sandra K.; Malecha, Ann; Toms, Robin] Texas Womans Univ TWU, Denton, TX 76204 USA.
+   [Mathew, Della] Mem Hermann Texas Med Ctr, Houston, TX USA.
+RP Mathew, D (通讯作者)，Texas Womans Univ TWU, Denton, TX 76204 USA.
+EM dmathew@twu.edu
+RI Malecha, Ann/AAR-1480-2021
+OI Malecha, Ann/0000-0002-0665-5951
+FU Sigma Theta Tau
+FX The contributions of all participants in the study are greatly
+   appreciated and CNOs for agreeing for their organizations to participate
+   and distribute data collection flyers to the nurse managers.
+NR 38
+TC 7
+Z9 11
+U1 2
+U2 13
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1545-102X
+EI 1741-6787
+J9 WORLDV EVID-BASED NU
+JI Worldviews Evid.-Based Nurs.
+PD FEB
+PY 2024
+VL 21
+IS 1
+BP 23
+EP 33
+DI 10.1111/wvn.12693
+EA JAN 2024
+PG 11
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA HJ8A6
+UT WOS:001137049300001
+PM 38183158
+DA 2026-07-10
+ER
+
+PT J
+AU Lavenberg, JG
+   Cacchione, PZ
+   Jayakumar, KL
+   Leas, BF
+   Mitchell, MD
+   Mull, NK
+   Umscheid, CA
+AF Lavenberg, Julia G.
+   Cacchione, Pamela Z.
+   Jayakumar, Kishore L.
+   Leas, Brian F.
+   Mitchell, Matthew D.
+   Mull, Nikhil K.
+   Umscheid, Craig A.
+TI Impact of a Hospital Evidence-Based Practice Center (EPC) on Nursing
+   Policy and Practice
+SO WORLDVIEWS ON EVIDENCE-BASED NURSING
+LA English
+DT Article
+DE evidence-based nursing; evidence-based practice; evidence-based practice
+   center; rapid reviews; quality improvement
+ID QUADRUPLE AIM CARE; HEALTH; QUALITY; NURSES; IMPLEMENTATION; OUTCOMES;
+   IMPROVE; SAFETY; TRIPLE
+AB Background In 2006, our healthcare system created a hospital Evidence-based Practice Center (EPC) to support the local delivery of high-quality, safe and high value patient care. Since then, the importance of healthcare staff work life has also been highlighted, and together these four elements form the Quadruple Aim framework. Synergistic to this Aim, the Magnet((R)) program promotes and recognizes organizational nursing excellence. Objective To examine the EPC's work to inform nursing policy and practice in support of the goals of the Quadruple Aim framework and Magnet((R)) designation. Methods
+   Methods used included the following: (1) descriptive analysis of the hospital EPC's database of rapid reviews; and (2) administration of a 40-item electronic questionnaire to nurses who requested an EPC review during fiscal years (FY) 2015 and 2016. Results Of 308 rapid reviews completed in the EPC's first 10 years, 59 (19%) addressed nursing topics. The proportion of reviews relevant to nursing increased from 5% (2/39) in the center's first 2 years to 44% (25/60) in FY 2015-2016. The majority of nursing reviews (39/59) examined processes of care. Of 23 nurses eligible to participate in the survey, 21 responded (91%). Nurses with administrative or managerial responsibilities requested 70% of reviews; clinical nurse specialists and bedside nurses requested 17% and 9%, respectively. Reviews were used to support clinical program development (48%), provide clinical guidance (33%), update nursing policies or procedures (24%) and develop training and curricula (24%). Nurses were satisfied with the hospital EPC reviews (mean; 4.7/5), and 95% indicated they were likely to request a future review. Linking Evidence to Action A dedicated hospital EPC in partnership with nursing offers a unique mechanism for promoting a culture of evidence-based practice. Nurses at all organizational levels use the services of a hospital EPC to inform nursing policy and practice and are highly satisfied with the process, supporting the Quadruple Aim and Magnet((R)) designation.
+C1 [Lavenberg, Julia G.; Cacchione, Pamela Z.; Jayakumar, Kishore L.; Leas, Brian F.; Mitchell, Matthew D.; Mull, Nikhil K.; Umscheid, Craig A.] Univ Penn, Dept Med, Perelman Sch Med, Med & Epidemiol, Philadelphia, PA 19104 USA.
+C3 University of Pennsylvania
+RP Lavenberg, JG (通讯作者)，Penn Med Ctr Evidence Based Practice, 3600 Civ Ctr Blvd,3rd Floor West, Philadelphia, PA 19104 USA.
+EM Julia.Lavenberg@pennmedicine.upenn.edu
+RI Umscheid, Craig/OXB-9605-2025; Mitchell, Matthew/H-3784-2011
+OI Umscheid, Craig/0000-0003-1853-1013; Mull, Nikhil/0000-0002-1411-7416;
+   Mitchell, Matthew/0000-0003-3065-1608
+FU National Center for Advancing Translational Sciences [UL1TR000003]
+   Funding Source: Medline; National Center for Research Resources
+   [UL1RR024134] Funding Source: Medline; NCATS NIH HHS [UL1 TR000003]
+   Funding Source: Medline; NCRR NIH HHS [UL1 RR024134] Funding Source:
+   Medline
+NR 30
+TC 6
+Z9 12
+U1 0
+U2 25
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1545-102X
+EI 1741-6787
+J9 WORLDV EVID-BASED NU
+JI Worldviews Evid.-Based Nurs.
+PD FEB
+PY 2019
+VL 16
+IS 1
+BP 4
+EP 11
+DI 10.1111/wvn.12346
+PG 8
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA HL2ZE
+UT WOS:000458578700002
+PM 30714308
+DA 2026-07-10
+ER
+
+PT J
+AU Shayan, SJ
+   Kiwanuka, F
+   Nakaye, Z
+AF Shayan, Shah Jahan
+   Kiwanuka, Frank
+   Nakaye, Zainah
+TI Barriers Associated With Evidence-Based Practice Among Nurses in Low-
+   and Middle-Income Countries: A Systematic Review
+SO WORLDVIEWS ON EVIDENCE-BASED NURSING
+LA English
+DT Review
+DE barriers; evidence-based practice; low- and middle-income countries;
+   nurses
+ID CLINICAL-PRACTICE; IMPLEMENTATION; READINESS; KNOWLEDGE; ATTITUDES;
+   FACILITATORS; HOSPITALS; MEDICINE; WORKING; SKILLS
+AB Background Evidence-based practice (EBP) is both a goal and an approach that requires a combination of clinical experience with the most credible recent research evidence when making decisions in healthcare practice. The approach has been widely embraced; however, an evidence-to-practice gap still exists. Aim To assess barriers to EBP among nurses in low- and middle-income countries. Methods This review conforms to the PRISMA statement. Databases PubMed, Scopus, EMBASE, and Web of Science/Knowledge were searched using a combination of keywords that included "barriers," "evidence-based practice," and "nurses." The references of the selected articles were also hand-searched to obtain additional relevant articles. Studies published in peer-reviewed journals in English between 2000 and 2018 were included in the review. Results Sixteen articles were included in the analysis, with a total number of 8,409 participants. Both qualitative and quantitative studies were included in the review. Three main themes emerged from eight categories found. The three main themes were institutional-related barriers, interdisciplinary barriers, and nurse-related barriers. The theme of institutional-related barriers emerged from four categories, which included scant resources, limited access to information, inadequate staffing, and lack of institutional support. The theme of interdisciplinary barriers emerged from subcategories that included lack of communication between academic and clinical practice environments, inconsistency between education and practice in the nursing discipline, lack of teamwork, and the public's negative image about the nursing profession. Finally, the theme of nurse-related barriers emerged from categories including perceived limitations in the scope of nurses' practice, time, knowledge of EBP, and individual-related barriers. Linking Evidence to Action These findings may guide the design of future interventions aimed at fostering EBP. Implementing EBP in practice should be systematic and requires institutional will and interdisciplinary and individual commitment. It should be a collective goal and a win-win situation for nurses, clinicians, and healthcare organizations.
+C1 [Shayan, Shah Jahan] Univ Tehran Med Sci, Dept Community Hlth Nursing, Tehran, Iran.
+   [Shayan, Shah Jahan] Kabul Univ Med Sci, Kabul, Afghanistan.
+   [Kiwanuka, Frank] Univ Tehran Med Sci, Int Campus, Tehran, Iran.
+   [Nakaye, Zainah] Clarke Int Univ, Sch Nursing, Kampala, Uganda.
+C3 Tehran University of Medical Sciences; Tehran University of Medical
+   Sciences
+RP Kiwanuka, F (通讯作者)，POB 14, Entebbe, Uganda.
+EM f.kiwanuka1@gmail.com
+RI KIWANUKA, FRANK/Y-1911-2018; Shayan, Shah Jahan/AAI-7137-2021
+OI KIWANUKA, FRANK/0000-0001-8178-3120; NAKAYE, ZAINAH/0000-0002-6909-6501;
+   
+NR 43
+TC 105
+Z9 136
+U1 1
+U2 36
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1545-102X
+EI 1741-6787
+J9 WORLDV EVID-BASED NU
+JI Worldviews Evid.-Based Nurs.
+PD FEB
+PY 2019
+VL 16
+IS 1
+BP 12
+EP 20
+DI 10.1111/wvn.12337
+PG 9
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA HL2ZE
+UT WOS:000458578700003
+PM 30604471
+DA 2026-07-10
+ER
+
+PT J
+AU Tsai, HM
+   Wang, HH
+   Sakashita, R
+   Oh, EG
+   Chen, CM
+   Im, EO
+AF Tsai, Hsiu-Min
+   Wang, Hsiu-Hung
+   Sakashita, Reiko
+   Oh, Eui Geum
+   Chen, Ching-Min
+   Im, Eun-Ok
+TI Current Status of Translational Science in Nursing Across Four Countries
+SO ADVANCES IN NURSING SCIENCE
+LA English
+DT Article
+DE Asia; global; international; nursing; translational research;
+   translational science
+ID NURSES; OSTOMY
+AB The raison d'& ecirc;tre of nursing is caring for human beings. Mainly due to its close link to the nursing discipline's raison d'& ecirc;tre, "caring," translational science is recently getting more attention from nursing scientists across the globe. This paper is to discuss the current status of translational science in nursing across four countries (the USA, Taiwan, South Korea, and Japan). The data used in this discussion paper included: (a) written notes on issues related translational research/science in individual countries; (b) written memos on exemplars/cases from their own experiences; and (c) summaries of literature reviews. The data analysis was conducted using a simple content analysis. Four themes reflecting the current status of translational science across the countries were identified: (a) "contextualized in unique culture and history of nursing"; (b) "connecting basic science to clinical practice"; (c) "an extension of evidence-based practice"; and (d) "highly promoted, but still minimal translation of nursing knowledge."
+C1 [Tsai, Hsiu-Min] Hung Kuang Univ, E206-1,1018,Sec 6,Taiwan Blvd, Taichung 433304, Taiwan.
+   [Wang, Hsiu-Hung] Kaohsiung Med Univ, Kaohsiung, Taiwan.
+   [Sakashita, Reiko] Univ Hyogo, Akashi, Hyogo, Japan.
+   [Oh, Eui Geum] Yonsei Univ, Seoul, South Korea.
+   [Chen, Ching-Min] Taiwan Nurses Assoc, Tainan, Taiwan.
+   [Chen, Ching-Min] Natl Cheng Kung Univ, Tainan, Taiwan.
+   [Im, Eun-Ok] Univ Texas Austin, Sch Nursing, Austin, TX USA.
+C3 Kaohsiung Medical University; University of Hyogo; Yonsei University;
+   National Cheng Kung University; University of Texas System; University
+   of Texas Austin
+RP Tsai, HM (通讯作者)，Hung Kuang Univ, E206-1,1018,Sec 6,Taiwan Blvd, Taichung 433304, Taiwan.
+EM hmtsai2024@hk.edu.tw
+RI ; Wang, Hsiu-Hung/C-7587-2009; Chen, Ching-Min/AAY-6119-2021
+OI Oh, Eui Geum/0000-0002-6941-0708; 
+NR 37
+TC 0
+Z9 1
+U1 0
+U2 2
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0161-9268
+EI 1550-5014
+J9 ADV NURS SCI
+JI Adv. Nurs. Sci.
+PD JUL-SEP
+PY 2024
+VL 47
+IS 3
+BP 302
+EP 315
+DI 10.1097/ANS.0000000000000537
+PG 14
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA A5Z2F
+UT WOS:001283306700011
+PM 39093935
+DA 2026-07-10
+ER
+
+PT J
+AU Spano-Szekely, L
+   Bass, B
+   Villanella, J
+   Zavotsky, KE
+AF Spano-Szekely, Lauraine
+   Bass, Benjamin
+   Villanella, Julie
+   Zavotsky, Kathleen Evanovich
+TI Enhancing the Professional Work Environment Through Nursing Engagement
+   in an Academic Medical Center Driving nursing excellence and
+   organizational outcomes
+SO AMERICAN JOURNAL OF NURSING
+LA English
+DT Article
+DE Magnet designation; nursing engagement; nursing practice; professional
+   shared governance; transformational leadership
+AB Background: Shared decision-making and professional governance have long been defining features of American Nurses Credentialing Center (ANCC) Magnet-designated organizations, supporting high-quality outcomes, professional autonomy, and nurse engagement. Within our multi-Magnet-designated academic medical center, part of a larger academic health system, a shared governance structure had been in place for many years. However, to respond to the evolving demands of the academic medical center, the increasing complexity of health care delivery, and the need for stronger alignment between frontline practice and organizational strategy, the leadership and governance model was redesigned to fully integrate professional shared governance into the model with direct care nurses. Purpose: The purpose of this article is to describe how an ANCC Magnet-designated academic medical center systematically developed, implemented, and evaluated a transition from traditional shared governance to a robust professional shared governance framework by intentionally engaging nurses at all levels of the organization. This work aimed to strengthen nurses' voice in decision-making; enhance professional accountability; and hardwire structures that align nursing practice, quality, and innovation with organizational priorities. Methods: A pre-post survey design was used to examine nurse engagement over a two-year period spanning the implementation of the professional shared governance model. Validated engagement measures were administered to nurses across the academic medical center before the redesign (2024 presurvey) and after its full implementation (2025 postsurvey). Comparative analyses were conducted to assess changes in overall engagement and in specific domains associated with professional practice, informatics, recruitment and retention, recognition, and evidence-based practice/research. Results: A total of 248 and 286 nurses responded to the preimplementation and postimplementation surveys, respectively, and their responses were compared. Overall nurse engagement scores increased between the 2024 presurvey and the 2025 postsurvey, indicating stronger perceptions of involvement, influence, and professional support following implementation of the professional shared governance model. The largest gains were observed in domains related to maximizing the capabilities of clinical and information technology to support patients and families; recruitment, retention, and recognition activities; and engagement in evidence-based practice and research opportunities. Clinical nurses demonstrated increased engagement across all measured categories, mirroring the overall pattern of improvement and showing the most substantial gains in the same high-impact domains. Conclusion: Transitioning from shared governance to professional shared governance within an academic medical center is a complex, iterative, and developmental process that advances over time. Effective professional shared governance structures require intentional design, sustained leadership commitment, and active nurse participation at every level of the organization. To ensure these structures remain meaningful and high performing, they must be continuously evaluated, refined, and adapted to reflect contemporary practice, emerging priorities, and the evolving needs of nurses, patients, and the health system.
+   By leveraging data-driven insights, incorporating innovative strategies, and maintaining a culture of shared accountability and collaboration, professional shared governance can remain agile, forward-thinking, and a powerful driver of nursing excellence and organizational outcomes.
+C1 [Spano-Szekely, Lauraine] NYU, Langone Hlth, New York, NY USA.
+C3 New York University
+EM kathleen.zavotsky@nyulangone.org
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 0
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0002-936X
+EI 1538-7488
+J9 AM J NURS
+JI Am. J. Nurs.
+PD JUL
+PY 2026
+VL 126
+IS 7
+BP 58
+EP 63
+DI 10.1097/AJN.0000000000000325
+PG 6
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA KC0IU
+UT WOS:001803373300021
+PM 42343188
+DA 2026-07-10
+ER
+
+PT J
+AU Cato, KD
+   Sun, C
+   Carter, EJ
+   Liu, JF
+   Rivera, R
+   Larson, E
+AF Cato, Kenrick D.
+   Sun, Carolyn
+   Carter, Eileen J.
+   Liu, Jianfang
+   Rivera, Reynaldo
+   Larson, Elaine
+TI Linking to Improve Nursing Care and Knowledge Evaluation of an
+   Initiative to Provide Research Support to Clinical Nurses
+SO JOURNAL OF NURSING ADMINISTRATION
+LA English
+DT Article
+ID BARRIERS; QUALITY
+AB OBJECTIVES: The aim of this study is to describe and evaluate the impact of the Linking to Improve Nursing Care and Knowledge (LINK) project on increasing nurse-led clinical research.
+   BACKGROUND: Nurse-generated research is the cornerstone of evidence-based practice and continues to be a marker of nursing excellence. However, the dearth of PhD-prepared nurses creates a challenge for creating an environment to promote clinical nursing research. We evaluated the LINK project, an academic-clinical partnership, to assess its impact and feasibility, for fostering nurse-led clinical research.
+   METHODS: The LINK project created a formal command and control structure bringing together existing academic resources, including a PhD-prepared nurse researcher, a biostatistician, and a development of a formal research consultation request process. Measures tracked over a 12-month period included average response time, request volume, client satisfaction, institutional review board (IRB)-submitted protocols, and work products.
+   RESULTS: All measures exceeded expectations with an average 1-day request response time, 35 requests, 98% client satisfaction, a 367% increase in nurse-led IRB approved protocols from the previous 12-month period, and 2 publications in peer-reviewed journals.
+   CONCLUSIONS: The process and outcome measures indicate that the LINK project is feasible, sustainable, and reproducible. We were able to meet and, in many cases, exceed measurement goals. In addition, implementation science literature indicates that the most valid measure of a successful project rollout is user satisfaction and usefulness. The LINK project received consistently positive feedback.
+C1 [Cato, Kenrick D.; Sun, Carolyn; Carter, Eileen J.] NewYork Presbyterian Hosp, New York, NY USA.
+   [Rivera, Reynaldo] NewYork Presbyterian Hosp, Res & Innovat, New York, NY USA.
+   [Cato, Kenrick D.; Sun, Carolyn] Columbia Univ, Sch Nursing, 560 West 168th,Room 611, New York, NY 10032 USA.
+   [Carter, Eileen J.; Liu, Jianfang] Columbia Univ, Sch Nursing, CUMC, Nursing, New York, NY USA.
+   [Larson, Elaine] Columbia Univ, Sch Nursing, Nursing Res, New York, NY USA.
+C3 Cornell University; Weill Cornell Medicine; NewYork-Presbyterian
+   Hospital; Cornell University; Weill Cornell Medicine;
+   NewYork-Presbyterian Hospital; Columbia University; Columbia University;
+   Columbia University
+RP Cato, KD (通讯作者)，Columbia Univ, Sch Nursing, 560 West 168th,Room 611, New York, NY 10032 USA.
+EM kdc2110@columbia.edu
+RI ; Berger Chicago, Mark/Y-6724-2018; Sun, Carolyn/PGM-7562-2026; Liu,
+   Jianfang/PQB-2210-2026
+OI Cato, Kenrick/0000-0002-0704-3826; Carter, Eileen/0000-0002-5629-8892;
+   Berger Chicago, Mark/0000-0001-8279-3451; 
+NR 15
+TC 12
+Z9 16
+U1 0
+U2 10
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0002-0443
+EI 1539-0721
+J9 J NURS ADMIN
+JI J. Nurs. Adm.
+PD JAN
+PY 2019
+VL 49
+IS 1
+BP 48
+EP 54
+DI 10.1097/NNA.0000000000000707
+PG 7
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA HF3FB
+UT WOS:000454119800011
+PM 30531347
+DA 2026-07-10
+ER
+
+PT J
+AU Zhang, WW
+   Zhang, X
+   Han, JC
+   Wang, L
+   Sun, Y
+   Chen, C
+   Zhou, F
+AF Zhang, Wenwen
+   Zhang, Xiang
+   Han, Jiachen
+   Wang, Luo
+   Sun, Ying
+   Chen, Cui
+   Zhou, Fang
+TI Best Evidence Summary for Monitoring and Management of Invasive Arterial
+   Blood Pressure in Critically Ill Patients: An Evidence-Based Review
+SO NURSING IN CRITICAL CARE
+LA English
+DT Review
+DE clinical guidelines; critical care; evidence-based practice; nursing
+   assessment; patient safety
+ID INTENSIVE-CARE; STREAM INFECTION; RADIAL ARTERY; COMPLICATIONS;
+   CANNULATION; ALGORITHMS; PREVENTION; GUIDELINES; DIAGNOSIS; FLUSH
+AB Background Invasive arterial blood pressure monitoring is crucial in critical care, yet it has risks. Complications such as CRBSI and inaccurate readings are common. There is a lack of standardised nursing guidelines, and weak awareness of evidence-based protocols among nurses affects care quality. Aim To summarise the evidence for monitoring and management of invasive arterial blood pressure in critically ill patients and optimise critical care outcomes. Study Design This study was conducted using the Joanna Briggs Institute (JBI) methodology. The PIPOST model guided the formulation of the review question, and a systematic bilingual search was performed across Chinese and international databases following the 6S evidence hierarchy. Eligible studies were screened, critically appraised using appropriate tools, and the extracted evidence was thematically categorised and graded to support standardised nursing practices in invasive arterial blood pressure monitoring. Results A total of 36 pieces of evidence were synthesised and categorised into six sections: catheterisation, catheter maintenance, blood pressure monitoring accuracy, complication management, patient safety and comfort and education and training. Conclusions These 36 synthesised recommendations form a comprehensive and actionable framework for the standardised management of invasive arterial blood pressure monitoring in critical care. Notably, the synthesis emphasises the integration of technical precision with nursing practice, addressing both clinical safety and operational feasibility. Their implementation holds the potential to reduce complications, enhance monitoring accuracy and promote evidence-based nursing excellence. Relevance to Clinical Practice Implementing these evidence-based guidelines can streamline monitoring, reduce complications and improve data reliability for better patient care.
+C1 [Zhang, Wenwen; Han, Jiachen; Wang, Luo; Sun, Ying; Zhou, Fang] Xuzhou Med Univ, Sch Nursing, Xuzhou, Peoples R China.
+   [Zhang, Xiang; Chen, Cui] Xuzhou Med Univ, Intens Care Unit, Affiliated Hosp, Xuzhou, Peoples R China.
+C3 Xuzhou Medical University; Xuzhou Medical University
+RP Zhou, F (通讯作者)，Xuzhou Med Univ, Sch Nursing, Xuzhou, Peoples R China.; Chen, C (通讯作者)，Xuzhou Med Univ, Intens Care Unit, Affiliated Hosp, Xuzhou, Peoples R China.
+EM 1124939655@qq.com; zhoufang@xzhmu.edu.cn
+OI zhang, wenwen/0009-0007-7206-7684
+NR 64
+TC 3
+Z9 3
+U1 4
+U2 5
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1362-1017
+EI 1478-5153
+J9 NURS CRIT CARE
+JI Nurs. Crit. Care
+PD NOV
+PY 2025
+VL 30
+IS 6
+AR e70215
+DI 10.1111/nicc.70215
+PG 13
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA L6723
+UT WOS:001629797800025
+PM 41137525
+DA 2026-07-10
+ER
+
+PT J
+AU Baptiste, DL
+   Whalen, M
+   Goodwin, M
+AF Baptiste, Diana-Lyn
+   Whalen, Madeleine
+   Goodwin, Miki
+TI Approaches for establishing and sustaining clinical academic
+   partnerships: A discursive review
+SO JOURNAL OF CLINICAL NURSING
+LA English
+DT Review
+DE clinician&#8208; researcher; evidence&#8208; based practice; nursing
+   education; nursing practice; nursing research; organisational
+   development
+ID CAPACITY; BARRIERS; WORK
+AB Aims and objectives To discuss the need for a formalised structure that bridges the clinical and academic realms with concrete recommendations for programme development.
+   Background In the rapidly changing landscape of health care, nurses are challenged with the responsibility to engage in evidence-based practice, quality improvement and research projects. Clinical and academic partnerships play a vital role in fostering collaboration, mentorship and resources.
+   Design Discursive paper.
+   Method Searching international literature published between 2010-2020 in PubMed, CINAHL and Google Scholar, we explored the benefits, barriers and facilitators of clinical academic partnerships from the available evidence and professional perspectives from both sides of a clinical/academic collaboration.
+   Discussion Evidence-based literature supports the establishment of partnerships schools of nursing and clinical institutions to improve patient outcomes and experiences and provide additional resources for improved research and practice capacity between both entities. Barriers to establishing clinical academic partnerships included lack of time, lack of formal collaborations and knowledge deficits. Facilitators included visible leadership endorsement, mentoring and modelling a culture of inquiry.
+   Conclusions The establishment of formalised clinical academic partnerships can be used to develop continuing education programmes, promote engagement in nursing inquiry, fill in knowledge gaps in practice and improve available resources and patient outcomes. There is a great need for capacity building in hospitals, superficially, those with a mission to address the research-practice gap, promote nursing excellence and improve patient outcomes.
+   Relevance to clinical practice Nurse leaders play an instrumental role in establishing sustainable clinical academic partnerships that create shared resources, resulting in mutual benefit, and influences a much-needed shift in organisational culture and infrastructure.
+C1 [Baptiste, Diana-Lyn; Goodwin, Miki] Johns Hopkins Univ, Sch Nursing, Dept Nursing, 525 N Wolf St, Baltimore, MD 21205 USA.
+   [Whalen, Madeleine] Johns Hopkins Hlth Syst, Baltimore, MD USA.
+C3 Johns Hopkins University; Johns Hopkins University; Johns Hopkins
+   Medicine
+RP Baptiste, DL (通讯作者)，Johns Hopkins Univ, Sch Nursing, Dept Nursing, 525 N Wolf St, Baltimore, MD 21205 USA.
+EM dbaptis1@jhu.edu
+OI Whalen, Madeleine/0000-0002-6480-8733; Goodwin,
+   Michal/0000-0003-3300-5257; Baptiste, Diana-Lyn/0000-0001-8902-6255
+NR 24
+TC 28
+Z9 30
+U1 0
+U2 6
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0962-1067
+EI 1365-2702
+J9 J CLIN NURS
+JI J. Clin. Nurs.
+PD FEB
+PY 2022
+VL 31
+IS 3-4
+BP 329
+EP 334
+DI 10.1111/jocn.15830
+EA APR 2021
+PG 6
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA YL3IS
+UT WOS:000645850600001
+PM 33931906
+DA 2026-07-10
+ER
+
+PT J
+AU Chen, QR
+   Sun, M
+   Tang, SY
+   Castro, AR
+AF Chen, Qirong
+   Sun, Mei
+   Tang, Siyuan
+   Castro, Aimee R.
+TI Research capacity in nursing: a concept analysis based on a scoping
+   review
+SO BMJ OPEN
+LA English
+DT Review
+ID BUILDING RESEARCH CAPACITY; INCREASE RESEARCH CAPACITY; MIDWIFERY
+   PRACTICE; CLINICAL NURSES; PRODUCTIVITY; FOUNDATION; UNIVERSITY; SCHOOL;
+   CARE
+AB Objective As the discipline of nursing has advanced, research capacity in nursing has become increasingly important to the discipline's development. However, research capacity in nursing is still commonly used as a buzzword, without a consistent and clear definition. The purpose of this study is to clarify the concept of research capacity in nursing by identifying its conceptual components in the relevant nursing literature using the Pragmatic Utility method.
+   Design A Pragmatic Utility concept analysis based on a scoping review.
+   Data sources Academic literature retrieved from PubMed, Cumulative Index to Nursing and Allied Health Literature (CINAHL), PsycINFO, Scopus, Web of Science and ProQuest Dissertations and Theses (PQDT).
+   Eligibility criteria Qualitative studies, quantitative studies, mixed method studies or literature reviews focusing on research capacity in nursing published in English between 2009 and 2019.
+   Results Competence, motivation, infrastructure and collaboration for nursing research are the antecedents of research capacity in nursing. The attributes of research capacity in nursing are 'non-individual level', 'context-embeddedness' and 'sustainability'. The direct outcome of research capacity in nursing is nursing research. The allied concepts identified are nursing research competency, nursing research capability and evidence-based practice capacity in nursing.
+   Conclusions Research capacity in nursing is the ability to conduct nursing research activities in a sustainable manner in a specific context, and it is normally used at a non-individual level. Research capacity in nursing is critical for the development of the nursing discipline, and for positive nurse, patient and healthcare system outcomes. More studies are needed to further explore the allied concepts of research capacity in nursing, and to better understand relationships among these allied concepts.
+C1 [Chen, Qirong; Sun, Mei; Tang, Siyuan] Cent South Univ, Xiangya Sch Nursing, Changsha, Hunan, Peoples R China.
+   [Castro, Aimee R.] McGill Univ, Ingram Sch Nursing, Montreal, PQ, Canada.
+C3 Central South University; McGill University
+RP Tang, SY (通讯作者)，Cent South Univ, Xiangya Sch Nursing, Changsha, Hunan, Peoples R China.
+EM tsycongcong@126.com
+RI ; Chen, Qirong/AGZ-7592-2022
+OI Castro, Aimee/0000-0002-6461-0866; Tang, Siyuan/0000-0001-9940-5072; 
+NR 38
+TC 69
+Z9 83
+U1 2
+U2 39
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 2044-6055
+J9 BMJ OPEN
+JI BMJ Open
+PD NOV
+PY 2019
+VL 9
+IS 11
+AR e032356
+DI 10.1136/bmjopen-2019-032356
+PG 9
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA KK5IG
+UT WOS:000512774800309
+PM 31753891
+OA Green Submitted, gold
+DA 2026-07-10
+ER
+
+PT J
+AU Fesler, SM
+   Toms, R
+AF Fesler, Sheranda M.
+   Toms, Robin
+TI Infusion Center Outpatient Acuity: An Integrative Review of the
+   Literature
+SO JOURNAL OF PEDIATRIC NURSING-NURSING CARE OF CHILDREN & FAMILIES
+LA English
+DT Article
+DE Outpatient acuity; Ambulatory care; Classification; Nursing workload
+ID NURSING WORKLOAD; PATIENT-CARE; ONCOLOGY; CLASSIFICATION; INTENSITY;
+   QUALITY; NURSES; SYSTEM
+AB Problem: Patient acuity is a concept used in the health care setting and isa driver of nurse staffing and patient scheduling practices, but it is sometimes used without any well-defined understanding of its true meaning. As healthcare transitions to the ambulatory setting, which includes infusion centers, it is imperative that it provides high-quality care that increases patient and provider satisfaction. An integrative literature review was conducted to identify the current state of outpatient acuity and opportunities for classifying patients in the infusion center. Eligibility criteria: Key words included outpatient acuity and nurse satisfaction with workload from peer-reviewed sources in the English language and nursing discipline. Associated MeSH terms were also included in the search. Sample: Articles from the Cochrane Library, PubMed, Ovid, CINAHL, and SCOPUS databases were used for this analysis. Results: Forty-five relevant abstracts and 13 were included in the analysis. Conclusion: There is no systematic way to assign nurse workload in the ambulatory setting. A review of the articles revealed themes of effective resource allocation, satisfaction, and classification and acuity tools, which supports the implementation or use of an acuity system to assign patient workload in the ambulatory setting. Implications: The lack of research evidence also supports the need for additional research. Leaders must take an active role in researching the evidence and developing evidence-based practice guidelines to ensure that safe and quality care is consistently rendered. Research is needed to test the impact of a patient acuity system for the pediatric ambulatory infusion center on nurse satisfaction. (C) 2020 Elsevier Inc. All rights reserved.
+C1 [Fesler, Sheranda M.] Texas Childrens Hosp, Clin Practice & Nursing Qual, Houston, TX 77030 USA.
+   [Fesler, Sheranda M.; Toms, Robin] Texas Womans Univ, Nelda C Stark Coll Nursing, Houston, TX USA.
+C3 Baylor College of Medicine; Baylor College Medical Hospital; Texas
+   Womans University
+RP Fesler, SM (通讯作者)，Texas Childrens Hosp, Clin Practice & Nursing Qual, Houston, TX 77030 USA.
+EM smfesler@texaschildrens.org; rtoms@twu.edu
+NR 32
+TC 7
+Z9 8
+U1 0
+U2 9
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0882-5963
+J9 J PEDIATR NURS
+JI J. Pediatr. Nurs.
+PD NOV-DEC
+PY 2020
+VL 55
+BP 184
+EP 191
+DI 10.1016/j.pedn.2020.08.018
+PG 8
+WC Nursing; Pediatrics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing; Pediatrics
+GA PH5JH
+UT WOS:000600448200021
+PM 32957022
+DA 2026-07-10
+ER
+
+PT J
+AU Li, H
+   Xu, R
+   Gao, D
+   Fu, H
+   Yang, Q
+   Chen, XY
+   Hou, CM
+   Gao, J
+AF Li, Hang
+   Xu, Ran
+   Gao, Di
+   Fu, Han
+   Yang, Qing
+   Chen, Xinyu
+   Hou, Chaoming
+   Gao, Jing
+TI Evidence-based practice attitudes, knowledge and skills of nursing
+   students and nurses, a systematic review and meta-analysis
+SO NURSE EDUCATION IN PRACTICE
+LA English
+DT Review
+DE Nurse; Nursing students; Evidence-based practice
+ID PRACTICE COMPETENCE; QUESTIONNAIRE; PERCEPTIONS; VALIDATION; BEHAVIOR
+AB Aim/Objective: This study aims to carry out a meta-analysis of attitudes, knowledge, and skills level of nursing students and nurses in EBP, providing a reference for optimizing EBP education strategies. Background: At present, no meta-analysis has been performed to quantitatively synthesize the attitudes, knowledge and skill levels of nursing students and nurses toward EBP. This makes it difficult to precisely identify the true level of EBP among nurses, implying that there is no evidence to support the adoption of EBP teaching strategies approaches. Design: A total of 9 Chinese and English databases including CNKI, Wan fang, VIP, CBM, PubMed, Embase, Web of Science, Cochrane Library and CINAHL were used to search cross-sectional quantitative articles on EBP attitudes, knowledge and skills level of nurses and nursing students. The search time limit was from the inception of the database to September 2023. Methods: Two researchers independently screened the literature and extracted the data. The Agency for Healthcare Research and Quality (AHRQ) was used to assess the quality of the included studies. Stata15.0 software was used for statistical analysis to summarize the scores of EBP attitude, knowledge and skills level of nursing students and nurses included in the study. Results: A total of 25 cross-sectional studies from 13 countries were included, involving 11363 nursing students and nurses. The meta-analysis results revealed that nursing students and nurses lacked evidence-based practical knowledge and skills, with pooled mean scores of 3.06 (95 % CI: 2.72, 3.39), 2.91 (95 % CI: 2.60, 3.22), 4.31 (95 % CI: 4.08, 4.54) and 4.45 (95 % CI: 4.20, 4.70). In contrast, nursing students and nurses revealed a positive attitude towards EBP, with pooled mean scores of 3.57 (95 % CI: 3.28, 3.86) and 5.11 (95 % CI: 4.80, 5.42). Subgroup analysis revealed that senior nursing students and nurses with master's degree or above had higher attitudes, knowledge and skills. Conclusions: In summary, nursing students and nurses have a positive attitude towards EBP. However, they seem to lack the necessary knowledge and skills. Therefore, nursing educators should consider this as an opportunity to strengthen the teaching of their evidence-based practical knowledge and skills. This will lay a reference for developing nursing discipline.
+C1 [Li, Hang; Xu, Ran; Fu, Han; Yang, Qing; Chen, Xinyu; Hou, Chaoming; Gao, Jing] Chengdu Univ Tradit Chinese Med, Coll Nursing, 1166 Liutai Rd, Chengdu 611137, Sichuan, Peoples R China.
+   [Gao, Di] Hosp Chengdu Univ Tradit Chinese Med, Chengdu 610032, Sichuan, Peoples R China.
+C3 Chengdu University of Traditional Chinese Medicine; Chengdu University
+   of Traditional Chinese Medicine
+RP Hou, CM; Gao, J (通讯作者)，Chengdu Univ Tradit Chinese Med, Coll Nursing, 1166 Liutai Rd, Chengdu 611137, Sichuan, Peoples R China.
+EM 975677963@qq.com; 20152050@cdutcm.edu.cn; 421821061@qq.com;
+   195472575@qq.com; 2575782019@qq.com; 1763580017@qq.com;
+   19941012@cdutcm.edu.cn; 19942021@cdutcm.edu.cn
+RI Xu, Ran/AAP-6738-2021
+FU Sichuan Province higher education personnel training quality and
+   Teaching Reform Project [JG2021-771, JG2021-139]
+FX This research project was supported by Sichuan Province higher education
+   personnel training quality and Teaching Reform Project (JG2021-771,
+   JG2021-139) .
+NR 82
+TC 27
+Z9 30
+U1 1
+U2 21
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 1471-5953
+EI 1873-5223
+J9 NURSE EDUC PRACT
+JI Nurse Educ. Pract.
+PD JUL
+PY 2024
+VL 78
+AR 104024
+DI 10.1016/j.nepr.2024.104024
+EA JUN 2024
+PG 17
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA D8Z2Z
+UT WOS:001299003500001
+PM 38901274
+DA 2026-07-10
+ER
+
+PT J
+AU Chen, QR
+   Liu, D
+   Zhou, CY
+   Tang, SY
+AF Chen, Qirong
+   Liu, Dan
+   Zhou, Chuyi
+   Tang, Siyuan
+TI Relationship between critical thinking disposition and research
+   competence among clinical nurses: A cross-sectional study
+SO JOURNAL OF CLINICAL NURSING
+LA English
+DT Article
+DE clinical nurses; critical thinking disposition; research competence
+ID RESEARCH CAPACITY; CARE
+AB Aims and Objectives To explore the relationship between critical thinking disposition and research competence among clinical nurses.
+   Background The development of the nursing discipline and evidence-based practice calls for research competence and critical thinking disposition among clinical nurses. The verification of the relationship between critical thinking disposition and research competence could make contributions to promoting related knowledge building and providing practical implications for nurses, nurse educators and nurse managers. However, there is a lack of evidence exploring the relationship between critical thinking disposition and research competence in clinical nurses.
+   Design A cross-sectional study.
+   Methods A total of 156 clinical nurses from two tertiary hospitals participated in this study. The Chinese Version of Critical Thinking Disposition Inventory and Research Competence Scale for Clinical Nurses were used to measure critical thinking disposition and nursing research competence, respectively. Data were collected in September 2017. Descriptive statistics, bivariate correlation and linear regression were used to analyse data. The STROBE checklist was used in reporting this study.
+   Results The clinical nurses surveyed showed a positive inclination to general critical thinking but reported an overall low level of nursing research competence. A moderate degree of positive correlation was found between critical thinking disposition and research competence among clinical nurses. Educational degree was also found as an influencing factor of nursing research competence of clinical nurses.
+   Conclusion The critical thinking disposition of clinical nurses is positively related to their research competence.
+   Relevance to clinical practice Nurses with a passion for nursing research should pay attention to improving their critical thinking dispositions. Nurse educators and managers should provide better learning, working and research environments and more supports to cultivate critical thinking disposition and improve nursing research competence in nursing research education and practice.
+C1 [Chen, Qirong; Liu, Dan; Zhou, Chuyi; Tang, Siyuan] Cent South Univ, Xiangya Sch Nursing, Changsha, Hunan, Peoples R China.
+C3 Central South University
+RP Tang, SY (通讯作者)，Cent South Univ, Xiangya Sch Nursing, Changsha, Hunan, Peoples R China.
+EM tsycongcong@126.com
+RI Chen, Qirong/AGZ-7592-2022
+OI Tang, Siyuan/0000-0001-9940-5072
+FU Hunan Nursing Research Center [2017TP1004]; China Scholarship Council
+   [201706370079]
+FX This work was supported by Hunan Nursing Research Center (No.
+   2017TP1004) and China Scholarship Council (No. 201706370079).
+NR 48
+TC 46
+Z9 59
+U1 4
+U2 96
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0962-1067
+EI 1365-2702
+J9 J CLIN NURS
+JI J. Clin. Nurs.
+PD APR
+PY 2020
+VL 29
+IS 7-8
+BP 1332
+EP 1340
+DI 10.1111/jocn.15201
+EA FEB 2020
+PG 9
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA KT9OX
+UT WOS:000510760000001
+PM 31971305
+DA 2026-07-10
+ER
+
+PT J
+AU Dünya, CP
+   McEvoy, NL
+   Özen, N
+AF Polat Dunya, Cansu
+   McEvoy, Natalie L.
+   Ozen, Nurten
+TI Eye Care Research in Intensive Care Units: A Bibliometric Analysis of
+   Global Trends
+SO NURSING IN CRITICAL CARE
+LA English
+DT Review
+DE bibliometric analysis; eye care; intensive care unit; ocular
+   complications; VOSviewer
+ID IMPACT
+AB Background Eye care is a critical yet often overlooked aspect of nursing care in intensive care units (ICUs). Critically ill patients are highly susceptible to ocular complications due to impaired protective mechanisms, environmental exposure and treatment-related factors. Mapping research trends and identifying gaps is essential to strengthen evidence-based practice and improve patient outcomes.Aim To map research trends and identify knowledge gaps in eye care practices in the ICU within the nursing discipline to inform future research and clinical strategies.Study Design A bibliometric analysis was conducted using the Web of Science database from 1998 to August 2025. To be eligible for inclusion, articles must be published in English and indexed under nursing and addressing eye care in ICU. Data were analysed using the Bibliometrix R package and VOSviewer. The analysis included performance analysis, co-occurrence network analysis, thematic mapping and co-citation analysis to explore publication trends, research themes and collaboration patterns.Results A total of 38 articles were included in the final analysis. These papers were published in 16 journals, with an average annual growth rate of 8.48%. Leading journals were Nursing in Critical Care, Journal of Clinical Nursing and BMC Nursing. Thematic mapping demonstrated a predominant focus on motor themes-eye care, exposure keratopathy and mechanical ventilation. Meanwhile, basic and emerging themes were underrepresented, and international collaboration remained limited.Conclusions This study provides the first bibliometric mapping of ICU eye care research in nursing, identifying established domains in ocular complication prevention and the need for targeted research on guideline development and education.Relevance to Clinical Practice Incorporating standardised, evidence-based protocols, expanding nursing education and fostering interdisciplinary and international collaboration may improve the quality, consistency and outcomes of ocular health management in critically ill populations.
+C1 [Polat Dunya, Cansu; Ozen, Nurten] Istanbul Univ, Sch Nursing, Internal Med Nursing Dept, Istanbul, Turkiye.
+   [McEvoy, Natalie L.] Royal Coll Surgeons Ireland, Dept Anaesthesia & Crit Care, Dublin, Ireland.
+C3 Istanbul University; Royal College of Surgeons in Ireland - RCSI
+RP Dünya, CP (通讯作者)，Istanbul Univ, Sch Nursing, Internal Med Nursing Dept, Istanbul, Turkiye.
+RI POLAT-DUNYA, CANSU/C-7980-2019; McEvoy, Natalie/AAV-1437-2021; Ozen,
+   Nurten/AGD-6627-2022
+NR 24
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1362-1017
+EI 1478-5153
+J9 NURS CRIT CARE
+JI Nurs. Crit. Care
+PD APR 6
+PY 2026
+VL 31
+IS 3
+AR e70307
+DI 10.1111/nicc.70307
+PG 11
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA GB9MS
+UT WOS:001732743800001
+DA 2026-07-10
+ER
+
+EF
