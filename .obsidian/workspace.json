@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-07-22-note_zt.md",
+                "file": "_posts/AIGC_人工智能在心电图领域的进展综述_2021_2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-22-note_zt"
+              "title": "AIGC_人工智能在心电图领域的进展综述_2021_2026"
+            }
+          },
+          {
+            "id": "60127e306741751f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-07-18-review_p2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-18-review_p2"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -93,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "98d866a3c6c16228",
@@ -207,23 +222,28 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "151a0a4d85b999c2",
+  "active": "60127e306741751f",
   "lastOpenFiles": [
-    "_posts/2026-07-18-review_p2.md",
-    "_posts/2026-07-22-note_zt.md",
     "_posts/2026-05-14-review.md",
+    "_posts/2026-04-28-论文阅读.md",
+    "_posts/2026-07-09-op-reroot.md",
+    "_posts/2026-07-10-ppt_report.md",
     "obsidian/attachments/Application of artificial intelligence to the electrocardiogram.pdf",
+    "_posts/2026-07-18-review_p2.md",
+    "_posts/2026-07-22-learn_mcp_coding.md",
+    "_posts/AIGC_人工智能在心电图领域的进展综述_2021_2026.md",
+    "_posts/2026-07-22-note_zt.md",
+    "_posts/2026-07-24-mcp_pubmed.md",
+    "_posts/2026-05-15-domain-security.md",
+    "obsidian/attachments/Pasted image 20260723002635.png",
+    "obsidian/attachments/Pasted image 20260722231208.png",
     "_posts/2026-07-20-null.md",
     "_posts/2026-07-15-answer.md",
     "obsidian/attachments/Pasted image 20260715181917.png",
-    "_posts/2026-05-15-domain-security.md",
     "_posts/2026-05-27-clion.md",
     "_posts/2026-06-26-cloud_server_blog.md",
     "_posts/2026-06-28-sshd.md",
     "_posts/2026-07-01-learn_sandhook.md",
-    "_posts/2026-07-09-op-reroot.md",
-    "_posts/AIGC_人工智能在心电图领域的进展综述_2021_2026.md",
-    "_posts/2026-07-10-ppt_report.md",
     "obsidian/attachments/Computational Intelligence and Neuroscience - 2021 - Ullah - Classification of Arrhythmia in Heartbeat Detection Using Deep.pdf",
     "obsidian/attachments/Pasted image 20260715130554.png",
     "obsidian/attachments/卓越人才培养背景下护理专业教学改革探析.txt",
@@ -240,10 +260,7 @@
     "obsidian/attachments/Pasted image 20260710044717.png",
     "obsidian/attachments/Pasted image 20260710043245.png",
     "obsidian/attachments/Pasted image 20260710043142.png",
-    "obsidian/attachments/Pasted image 20260710043041.png",
-    "obsidian/attachments/Pasted image 20260710024657.png",
     "_posts/2026-05-09-ART.md",
-    "_posts/2026-04-28-论文阅读.md",
     "_posts/2026-04-18-ykb.md",
     "_posts/2026-04-21-frida.md",
     "_posts/2026-05-09-TODO.md",
@@ -251,9 +268,6 @@
     "_posts/2026-03-19-manual-root.md",
     "_posts/().md",
     "_posts/2026-03-14-frida脚本在任意软件中动态调用toast.md",
-    "_posts/2026-03-14-magisk模块开机自启动adbd.md",
-    "_posts/2026-03-13-v4l2-ctl 交叉编译但实机无用.md",
-    "_posts/2026-03-12-frpc_for_magisk.md",
-    "_posts/2026-03-09-修复附件链接为绝对路径.md"
+    "_posts/2026-03-14-magisk模块开机自启动adbd.md"
   ]
 }
